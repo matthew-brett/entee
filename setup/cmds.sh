@@ -33,3 +33,9 @@ git annex initremote gdrive-public-hash \
 
 git annex wanted gdrive-private-hash   "include=private/*"
 git annex wanted gdrive-public-hash    "include=public/*"
+
+git annex add private/ public/
+git commit -m "Add new PDFs"
+
+git annex copy --to gdrive-private-hash private/
+git annex copy --to gdrive-public-hash  public/
