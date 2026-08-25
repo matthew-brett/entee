@@ -88,3 +88,8 @@ Menken, M. J. J.
 The Netherlands : Kok Pharos; 1996
 Research Reserve [RR]
 Available , Available on request ; BS2615
+
+New Testament essays : studies in memory of Thomas Walter Manson 1893-1958 / edited by A.J.B. Higgins
+Manchester : Manchester University Press; 1959
+Research Reserve [RR]
+Available , Available on request ; BS2395 H
