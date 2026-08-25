@@ -38,6 +38,22 @@ Main Library
 Available , Collection ; BS2615.3 .B3
 Check pages 332–333
 
+Handbook for the study of the historical Jesus edited by Tom Holmén and Stanley E. Porter. Vol. 4, Individual studies
+Leiden : Brill; 2011
+Available , Collection ; BT303.2 H
+
+(Particularly:
+
+The Role of Aramaic in Reconstructing the Teaching of Jesus
+
+In: Handbook for the Study of the Historical Jesus (4 vols)
+Author: Maurice Casey
+
+Type: Chapter
+Pages: 1343–1375
+DOI: https://doi.org/10.1163/9789004210219_046
+)
+
 Contre les hérésies / Irénée de Lyon. Livre 1, Édition critique par Adelin Rousseau et Louis Doutreleau. Tome 2, Texte et traduction
 Irenaeus, Saint, Bishop of Lyon.
 Paris : Cerf; 1979
@@ -55,7 +71,6 @@ Black, Matthew.
 Oxford : Clarendon P; 1967; 3rd ed.
 Research Reserve [RR]
 Available , Available on request ; BS2555
-
 
 Matthew's Bible : the Old Testament text of the evangelist / by Maarten J.J. Menken
 Menken, M. J. J., author.
