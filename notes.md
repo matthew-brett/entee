@@ -4,7 +4,7 @@
 
 https://grok.com/share/bGVnYWN5_39f74ff5-dddb-4c3c-b6ea-5f6ef1f18a10
 
-## Degrees etc
+## Degrees, teaching, contacts
 
 https://grok.com/share/bGVnYWN5_ca4e9a00-96b9-471d-b17a-3d93aa5608a2
 
