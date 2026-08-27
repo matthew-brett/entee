@@ -77,7 +77,6 @@ Menken, M. J. J., author.
 Leuven : University Press ; Leuven ; Dudley, MA : Uitgeverij Peeters; 2004
 Available on request ; BS2575.52 .M46
 
-
 The scriptures in the Gospels / edited by C. M. Tuckett
 Leuven : Peeters; 1997
 Research Reserve [RR]
