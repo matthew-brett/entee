@@ -1,1399 +1,248 @@
 <!--- page 735 -->
-wunmmee<>“-OOnOEnmzzFzzeee-*"*“*G“““<T=5= SST
-
 1.
 
-Ueber die Zeugniſſe des Papias von unſern
-beiden erſten Evangelien.
-Von
+Ueber die Zeugnisse des Papias von unsern beiden ersten Evangelien. Von
 Dr. Fr. Schleiermacher.
 
-E; hat mir immer leid gethan, ſo oft ich fand, daß
-dieſe Zeugniſſe mit einer gewiſſen Geringſchäßung behan-
-delt wurden. Denn geſeßt auch, die Lobpreiſung des
-Mannes, die wir jekt in einer Stelle des Euſebius a)
-leſen , ſey eingeſchoben, wie ich nicht in Abrede ſtellen
-will, und dieſer Geſchichtſchreiber hätte nur das ſpätere
-nachtheilige Urtheil über ihn aus Anſicht ſeiner Scrift
-gefällt »): ſo mag er immer von beſchränktem Geiſte ge-
-- weſen ſeyn, ſeine Zeugniſſe ſcheinen mir dadurch nichts
-zu verlieren, da hiebei auf ſein Urtheil wenig ankommt.
-Und wie große Luſt er gehabt, mündliche Erkundigungen
-einzuziehen, ſo wie, daß er in der Lage geweſen ſolche
-Männer zu befragen, welche die Apoſtel des Herrn ſelbſt
-gehört hatten, das erzählt er uns ſelbſt auf ſo naive und
+Es hat mir immer leid gethan, so oft ich fand, daß diese Zeugnisse mit einer gewissen Geringschätzung behandelt wurden. Denn gesetzt auch, die Lobpreisung des Mannes, die wir jetzt in einer Stelle des Eusebius[^735a] lesen , sey eingeschoben, wie ich nicht in Abrede stellen will, und dieser Geschichtschreiber hätte nur das spätere nachtheilige Urtheil über ihn aus Ansicht seiner Schrift gefällt[^735b]: so mag er immer von beschränktem Geiste gewesen seyn, seine Zeugnisse scheinen mir dadurch nichts zu verlieren, da hiebei auf sein Urtheil wenig ankommt. Und wie große Lust er gehabt, mündliche Erkundigungen einzuziehen, so wie, daß er in der Lage gewesen solche Männer zu befragen, welche die Apostel des Herrn selbst gehört hatten, das erzählt er uns selbst auf so naive und
 
-a) H. E. III, cap. 86, ἀνὴρ τὰ πάντα ὅτι μάλιστα λογιώτατος
-καὶ τῆς γραφῆς εἰδήμων. Conf, Vales, ad h, 1,
+[^735a]: H. E. III, cap. 36: ἀνὴρ τὰ πάντα ὅτι μάλιστα λογιώτατος καὶ τῆς γραφῆς εἰδήμων. Cf. Vales. ad h. l.
 
-b) Ebend, Kap. 39. σφόδρα γὰρ σμικρὸς ὧν τὸν νοῦν, ὡς ἂν
-ἐκ τῶν αὐτοῦ λόγων τεκμηράμενον εἰπεῖν, φαίνεται.
-
-48 Ἐ
+[^735b]: Ebend. Kap. 39: σφόδρα γὰρ σμικρὸς ὢν τὸν νοῦν, ὡς ἂν ἐκ τῶν αὐτοῦ λόγων τεκμηράμενον εἰπεῖν, φαίνεται.
 
 <!--- page 736 -->
-736                Schleiermacher
+unbefangene Weise[^736a], daß wir eben so wenig Verdacht gegen diese Aussage schöpfen können, als Eusebius selbst. Aber freilich so unverwerflich mir diese Zeugnisse erscheinen: so wenig sehe ich das darin, was man gewöhnlich daraus zu folgern pflegt, wenn man den Papias doch immer als eine Autorität dafür anführt, daß unser Matthäusevangelium ursprünglich hebräisch geschrieben worden sey. Freilich sagt er, daß Matthäus hebräisch geschrieben: aber ob er auch sagt, daß dieses hebräisch geschriebene von andern sey übersetzt worden, und ob er auch unser Matthäusevangelium meint? Dies möchte wol das eine sehr in Zweifel zu ziehen seyn, das andere auf das bestimmteste zu verneinen. Ja es ist kaum zu begreifen, wie man auf den Einfall habe kommen können, die Ausdrücke des Papias, den uns Eusebius hier offenbar wörtlich aufführt, auf unser Evangelium wörtlich zu beziehen[^736b]. Der Irrthum ist freilich sehr alt; ja ich möchte behaupten, daß auch Eusebius zu dieser Annahme[^736c] keinen andern Grund gehabt. Aber woher? Doch gewiß nicht, weil τὰ λόγια συνεγράψατο soviel heißen könnte, als, er hat die Erzählungen von den Begebenheiten Christi zusammengestellt, oder er hat sein Leben beschrieben! Unseres Papias eigenes und einziges Werk hieß bekanntlich λογίων κυριακῶν ἐξηγήσεις[^736d] und
 
-unbefangene Weiſe 3), daß wir eben ſo wenig Verdacht
-gegen dieſe Ausſage ſchöpfen können, als Euſebius ſelbſt.
-Aber freilich ſo unverwerflich mir dieſe Zeugniſſe erſchei-
-nen: ſo wenig ſehe ich das darin, was man gewöhnlich
-daraus zu folgern pflegt, wenn man den Papias doch
-immer als eine Autorität dafür anführt, daß unſer Mat-
-thäusevangelium urſprünglich hebräiſch geſchrieben wor-
-den ſey. Freilich ſagt er, daß Matthäus hebräiſch ge-
-ſchrieben: aber ob er auch ſagt, daß dieſes hebräiſch ge-
-ſchriebene von andern ſey überſeßt worden, und ob ev
-auch unſer Matthäusevangelium meint? Dies möchte
-wol das eine ſehr in Zweifel zu ziehen ſeyn, das andere
-auf das beſtimmteſte zu verneinen. Ja es iſt kaum zu
-begreifen, wie man auf den Einfall habe kommen kön-
-nen, die Ausdrücke des Papias, den uns Euſebius hier
-offenbar wörtlich aufführt, auf unſer Evangelium wört-
-lich zu böziehen b). Der Irrthum iſt freilich ſehr alt; ja
-ich möchte behaupten , daß auch Euſebius zu dieſer An-“
-nähme c) keinen andern Grund gehabt. Aber woher?
-Doh gewiß nicht, weil τὰ λόγια συνεγράψατο ſoviel
-heißen könnte , als, er hat die Erzählungen von den Be-
-gebenheiten Chriſti zuſammengeſtellt, oder er hat ſein Le-
-ben beſchrieben! Unſeres Papias eigenes und einziges
-Werk hieß bekanntlich λογίων χυριακῶν ἐξηγήσεις Δ) und
+[^736a]: Ebend. Kap. 39.
 
-a) Ebend, Kap. 38.
+[^736b]: Ebend. Kap. 39: Περὶ δὲ τοῦ Ματθαίου ταῦτ᾽ εἴρηται. Ματθαῖος μὲν οὖν ἑβραΐδι διαλέκτῳ τὰ λόγια συνεγράψατο.
 
-b) Ebend, Kap, 89, Περὶ δὲ τοῦ Ματθαίου ταῦτ᾽ εἴρηται. Mar-
-ϑαῖος μὲν οὖν ἑβραΐδι διαλέκτῳ τὼ λόγια συνεγράψατο.
+[^736c]: Ebend. Kap. 24.
 
-c) Ebend, Kap, 24,
-
-d) Theophylakt zwar ſchreibt (zu Apgeſch. 1, 18.) Κυριακῶν λό-
-yo»; allein weit eher kann dieſes aus λογίων, wie die Hand-
-ſchriften des Euſebius einſtimmig zu haben ſcheinen / entſtan-
-den ſeyn als umgekehrt, = Morinus zu Dionys. de cael, hier,
-11. citirt Παπίας βιβλίῳ πρώτῳ τῶν κυριακῶν ἐξηγήσεων ;
-allein dies -iſt offenbar daſſelbe Buch und nur eine abgekürzte
-Formel,
+[^736d]: Theophylakt zwar schreibt (zu Apg. 1, 18) Κυριακῶν λόγων; allein weit eher kann dieses aus λογίων, wie die Handschriften des Eusebius einstimmig zu haben scheinen, entstanden seyn als umgekehrt. Morinus zu Dionys. de cael. hier. II citirt Παπίας βιβλίῳ πρώτῳ τῶν κυριακῶν ἐξηγήσεων; allein dies ist offenbar dasselbe Buch und nur eine abgekürzte Formel.
 
 <!--- page 737 -->
-Papias Zeugniſſe von unſern beid. erſt. Evangelien. 737
+Hieronymus[^737a] übersetzt es gewiß sehr richtig, sermonum domini explanatio. Würde er also wol τὰ λόγια συνεγράψατο anders haben übersetzen können, als sermones domini conscripsit? So hätte denn freilich auch er, da er glaubte, das noch zu seiner Zeit hebräisch existirende Matthäusevangelium sey die Urschrift, annehmen müssen, Matthäus habe außer dem Evangelium, also wahrscheinlich früher, eine Sammlung von Aussprüchen Christi geschrieben. Das thut er nun freilich nicht. Da er aber die Bücher des Papias und also auch diese Stelle gekannt hat
 
-Hieronymus a) überſeßt es gewiß ſehr richtig , 8ermo=
-num domini explanatio. Würde er alſo wol τὰ λόγια
-συνεγράψατο anders haben überſeßen können, als 5er-
-mones domini consecripsit? So hätte denn freilich auch
-er, da er glaubte, das noch zu ſeiner Zeit hebräiſch exi-
-ſtirende Matthäusevangelium ſey die Urſchrift, annehmen
-müſſen , Matthäus habe außer dem Evangelium, alſo
-wahrſcheinlich früher, eine Sammlung von Ausſprüchen
-Chriſti geſchrieben. Das thut er nun freilich nicht? Da
-er aber die Bücher des Papias und alſo auch dieſe Stelle
-gefannt hat») : ſo haben er ſowol als Euſebius, und
-hinter ihnen alle, die ein hebräiſches Original unſeres
-Matthäus annahmen , folgendermaßen geſchloſſen. Weil
-wir ein Evangelium κατὰ Ματϑαῖον haben , und nicht
-anderwärts her ſchon wiſſen, daß Matthäus noch etwas
-anderes geſchrieben: ſo kann auch Papias nichts anderes
-gemeint haben, als unſer Evangelium. Als ob das ſo
-felſenfeſt ſtände, daß κατὰ Ματϑαῖον nichts anderes hei-
-ßen könne, als vom Matthäus verfaßt! und als ob nicht,
-vom Papias erfahren, daß Matthäus etwas anderes ge-
-ſchrieben, eben ſo gut wäre, als es anderwärts her ſchon
-wiſſen! Gewiß, auf jedem andern Gebiet würde ein ſol-
-<er Schluß ſchon lange nicht mehr durchgelaſſen worden
-ſeyn! Und diejenigen, die ein hebräiſches Original un-
-ſeres Matthäusevangelium nicht annehmen? ſie haben οὖν
-wie es ſcheint, nicht der Mühe werth gehalten, nachzu-
-ſehen , ob nicht Papias vielleicht etwas anderes ſage»
-ſondern ſie haben den σμικρὸς τὸν νοῦν überſehen , als
-
-a) Catal. cript« Edit, Froof, T. 1, p+ 177.
-
-b) Epist. ad Lucinium ΤᾺ 1. p+ 125. Porro losephi libros
-et Sanctorum Papiae et Polycarpi volumina falsus ad te ru-
-
-mor pertulit a me esse translata , quia nec otit mei nec vi-
-
-rium est tantas res eadem in alteram linguam exprimere ve“
-
-nustate.
+[^737a]: Catal. script. Edit. Froben, T. I, p. 177.
 
 <!--- page 738 -->
-738             - Schleiermacher
+ob er deshalb immer nichts sagen müsse! Aber hier kommt es gar nicht auf sein Urtheil an, sondern es ist eine einfache Thatsache; er hat das Buch gekannt, denn er hat gewußt, was Andere damit weiter gethan, er hat die Nachricht über den Urheber aus den besten Händen, und seine Nachricht verdient also, daß wir ihr volles Recht widerfahren lassen. Dann aber müssen wir =- vorläufig unbekümmert um unser Evangelium, welches hier noch ganz außer dem Spiel bleibt, von welchem wir aber so alte Nachrichten gar nicht haben — ihm nachsagen, Matthäus hat eine Sammlung von Aussprüchen Christi geschrieben, das mögen nun einzelne. Sprüche gewesen seyn, oder längere Reden, oder beides, wie es wol am wahrscheinlichsten ist. Denn etwas anderes kann einmal der Ausdruck des Papias nicht bedeuten. Das Wort λόγιον ist überall, wo es vorkommt, aus seiner gewöhnlichen Bedeutung Götterspruch, worauf das Wort immer mehr beschränkt worden ist, zu erklären. So die Lxx. von den einzelnen Geboten, die Gott gab, von allen göttlichen Aussprüchen, mochten sie durch was immer für Theophanien oder durch prophetischen Mund bekannt gemacht werden; nur einige Male wird natürlich auch etwas, woraus man einen Gottesspruch hervorlocken zu können glaubt, λόγιον genannt. Mit demselben Recht können auch diejenigen, welche die Bibel dazu brauchen, sich Sprüche als Entscheidung aufzuschlagen, sie ihr λόγιον nennen; aber wie würde man doch in diesem Sinne von den Verfassern sagen können τὰ λόγια συνεγράψαντο! Im N. Test. kommt das Wort zweimal vor vom Gesetz Mosis[^738a], eben weil jedes einzelne Gebot desselben ein Gottesspruch war. Von Christlichem heißt es einmal[^738b]
 
-ob ex. deshalb immer nichts ſagen müſſe! Aber hier
-kommt es gar nicht auf ſein Urtheil an, ſondern es iſt
-eine einfache Thatſache; er hat das Buch gekannt, denn
-er hat gewußt, was Andere damit weiter gethan, er hat
-die Nachricht über den Urheber aus den beſten Händen,
-und ſeine Nachricht verdient alſo, daß wir ihr volles
-Recht widerfahren laſſen. Dann aber müſſen wir =- vor-
-läufig unbekümmert um unſer Evangelium , welches hier
-noch ganz außer dem Spiel bleibt, von welchem wir aber
-ſo alte Nachrichten gar nicht haben =- ihm nachſagen,
-Matthäus hat eine Sammlung von Ausſprüchen Chriſti
-geſchrieben , das mögen nun einzelne. Sprüche geweſen
-ſeyn, oder längere Reden, oder beides, wie es wol am
-wahrſcheinlichſten iſt. Denn etwas anderes kann einmal
-der Ausdru> des Papias nicht bedeuten. Das Wort
-λόγιον iſt überall, wo es vorkommt, aus ſeiner gewöhn-
-lichMm Bedeutung Götterſpruch , worauf das Wort im-
-mer mehr beſchränkt worden iſt, zu erklären. So die
-Lxx. von den einzelnen Geboten, die Gott gab, von
-allen göttlichen Ausſprüchen, mochten ſie durch was im-
-mer für Theophanien oder durch prophetiſchen Mund be-
-kannt gemacht werden; nur einige Male wird natürlich
-auch etwas, woraus man einen Gottesſpruch hervorlo>en
-zu können glaubt, λόγιον genannt. Mit demſelben Recht
-können auch diejenigen, welche die Bibel dazu brauchen,
-ſich Sprüche als Entſcheidung aufzuſchlagen , ſie ihr λό-
-prov nennenz aber wie würde man doch in dieſem Sinne
-von den Verfaſſern ſagen können τὰ λόγια συνεγράψαντο!
-Im N. Teſt. kommt das Wort zweimal vor vom Geſetz
-Moſis a) , eben weil jedes einzelne Gebot deſſelben ein
-Gottesſpruch war. Von <hriſtlichem heißt es einmal »)
+[^738a]: Apg. 7, 38 u. Röm. 3, 2.
 
-a) Ap. Geſch, 7, 38 u, Röm, 3, 2,
-b) 1 Petr. 4, 11, εἴ τις λαλεῖ, ὡς λόγια τοῦ θεοῦ.
+[^738b]: 1 Petr. 4, 11: εἴ τις λαλεῖ, ὡς λόγια θεοῦ.
 
 <!--- page 739 -->
-Papias Zeugniſſe von unſern beid. erſt, Evangelien. 739
+ganz allgemein gehalten, was der Christ redet, das sey wie Gottessprüche. Bestimmter von der uns in Christo gewordenen Offenbarung Gottes, wenn gesagt wird[^739a], den Hebräern thäte immer noch noth, daß man sie die Elemente lehre vom Anfang der Gottessprüche; denn von den ersten Grundwahrheiten des Christenthums wird hernach[^739b] die ganze Redensart erklärt. In diesem Sinne nun könnte man freilich von einem, der ein Compendium der geoffenbarten Lehren geschrieben hätte, um so mehr sagen τὰ λόγια συνεγράψατο, je mehr er der ursprünglichen Form getreu geblieben wäre. So werden auch jene ersten Lehren, durch deren Vortrag Buße und Glaube erst hervorgelockt werden sollen, μαιευτικὰ λόγια[^739c] genannt, und natürlich konnte man, als der Kanon schon ganz fest stand, und diese Bücher angesehen wurden als alle Gottessprüche in sich schließend, die Sammlung der heiligen Schriften selbst τὰ λόγια nennen[^739d]. Aber nichts von alle diesem führt darauf, daß die Abfassung eines Evangelienbuches so könne bezeichnet werden. Eine einzige Stelle ist mir aufgestoßen, wo es so scheinen könnte, wo nämlich Photius[^739e] von Ephräm sagt, αἱ δὲ γραφαί εἰσιν αὐτῷ ἥ τε παλαιὰ διαθήκη καὶ τὰ κυριακὰ λόγια, καὶ τὰ ἀποστολικὰ κηρύγματα. Allein offenbar heißen auch hier λόγια eben so wenig die Evangelien, als κηρύγματὰ die Episteln, sondern Ephräm sollte dem Perser, an den sein Brief gerichtet ist, den Beweis der Trinität füh-
 
-ganz allgemein gehalten, was der Chriſt redet, das ſey
-wie Gottesſprüche. Beſtimmter von der uns in Chriſto
-gewordenen Offenbarung Gottes, wenn geſagt wird 2),
-den Hebräern thäte immer noch noth, daß man ſie die
-Elemente lehre vom Anfang der Gottesſprüche 3; denn von
-den erſten Grundwahrheiten des Chriſtenthums wird her-
-nach b) die ganze RedenSsart erklärt. In dieſem Sinne
-nun könnte man freilich von einem , der ein Compendium
-der geoffenbarten Lehren geſchrieben hätte, um ſo mehr
-ſagen τὰ λόγια συνεγράψατο, je mehr er der urſprüng-
-lichen Form getreu geblieben wäre. So werden auch jene
-erſten Lehren, durch deren Vortrag Buße und Glaube erſt
-hervorgelo>t werden ſollen, μαιευτικὰ λόγια ὁ) genannt,
-und natürlich konnte man, als der Kanon ſchon ganz feſt
-ſtand , und dieſe Bücher angeſehen wurden als alle Got-
-tesſprüche in ſich ſchließend, die Sammlung der heiligen
-Schriften ſelbſt τὰ λόγια nennen 43), Aber nichts von alle
-dieſem führt darauf, daß die Abfaſſung eines Evange-
-lienbuches ſo könne bezeichnet werden. Eine einzige Stelle
-iſt mir aufgeſtoßen, wo es ſo ſcheinen könnte, wo näm-
-lich Photius e) von Ephräm ſagt, al δὲ γραφαί εἰσιν
-αὐτῷ ἥ τε παλαιὰ διαϑήκη καὶ τὰ κυριακὰ λόγια, καὶ
-τὰ ἀποστολικὰ κηρύγματα. Allein offenbar heißen auch
-hier λόγια eben ſo wenig die Evangelien, als κηρύγμα-
-τὰ die Epiſteln , ſondern Ephräm ſollte dem Perſer , an
-den ſein Brief gerichtet iſt, den Beweis der Trinität füh-
+[^739a]: Hebr. 5, 12.
 
-a) Hebr, 5, 19,
-Ὁ) Rap, 86; 1, NN
-0) Dion, Areop. de eccl. hier, cap. VI, 1.
+[^739b]: Kap. 6, 1.
 
-ἃ) Früher findet ſich wol dieſer Gebrauch nicht; denn niemand
-wird doch die Ἔχϑεσις πίστεωρ x. τ. 4. dem Juſtinus Martyr
-zuſchreiben, wo allerdings τὸ ϑεῖον λόγιον collectiv für die
-heil, Schrift zu ſtehen ſcheint,
+[^739c]: Dion. Areop. de eccl. hier. cap. VI, 1.
 
-6) Cod. 228. ρ. 248, Bekk.
+[^739d]: Früher findet sich wol dieser Gebrauch nicht; denn niemand wird doch die Ἔκθεσις πίστεως κ. τ. λ. dem Justinus Martyr zuschreiben, wo allerdings τὸ θεῖον λόγιον collectiv für die heil. Schrift zu stehen scheint.
+
+[^739e]: Cod. 228, p. 248 Bekker.
 
 <!--- page 740 -->
-740                     Scleiermacher
-
-ren aus der Schrift. Nun konnte dieſer aus den Epi-
-ſteln nur geführt werden, inſofern in denſelben die allge-
-meine Lehre der Apoſtel , ihr κήρυγμα, enthalten warz
-alle andern Verhandlungen , die in dieſem Sendſchreiben
-vorkommen , konnten nichts dazu beitragen. So konnten
-auch die Erzählungen in den Evangelien nicht dazu ge-
-braucht werden, ſondern vornehmlich nur die Ausſprüche
-Chriſti. Mithin ſind die κυριακὰ λόγια hier daſſelbe wie
-bei Papias z und dieſer ganze Gang führt uns nur wie-
-der auf das vorige als auf den einzig möglichen Sinn
-zurück , Matthäus hat die Ausſprüche Chriſti zuſammen-
-geſchrieben. Denn daß Papias hier nicht auch κυριακά
-ſagt, ſondern λόγια ſchlechthin, kann wol niemanden ir-
-ren. Späterhin konnte man auch Lehren, Anweiſungen, '
-anderweitige Ausſprüche der Apoſtel, ſofern der heilige
-Geiſt durch ſie redete, λόγια nennenz aber Matthäus
-konnte ſolche noch nicht zuſammenſchreiben, ſondern neu-
-teſtamentiſche λόγια, und andere waren es doch wol nicht,
-die er ſammelte, konnten nur Ausſprüche Chriſti ſeyn.
-Seßen wir nun dieſes nach unſerem Schriftſteller
-feſt, und fragen uns ſelbſt, ob es wol wahrſcheinlich iſt,
-daß derſelbe Matthäus ſpäterhin nach dieſer Sammlung
-von Reden noch unſer Evangelium geſchrieben have: ſo.
-kann ich nur ganz verneinend antworten. Denn gewiß
-mußte er in einer ſolchen das ganze Leben Chriſti umfaſ-
-ſenden Schrift , in welcher er ſich wohl zu merken nir-
-gend auf jene Sammlung bezieht, auch die vorigen Re-
-den wieder mit. aufnehmen, geſetzt auch, er that noch an-
-dere hinzu , da er ja doch zuerſt diejenigen wird aufge-
-zeichnet haben, die ihm als die bedeutendſten erſchienen.
-Wie unglaublich äber, daß dem Papias dieſe zweite
-Schrift ſollte unbekannt geblieben ſeyn! Wie noch un-
-glaublicher, daß er dann nicht mit wenigen Worten in
-eben dieſer Stelle noch ſollte bemerkt haben: Später aber
-hat er auch) noch das geſchichtliche hinzugefügt nebſt εἰν
-
+ren aus der Schrift. Nun konnte dieser aus den Episteln nur geführt werden, insofern in denselben die allgemeine Lehre der Apostel, ihr κήρυγμα, enthalten warz alle andern Verhandlungen, die in diesem Sendschreiben vorkommen, konnten nichts dazu beitragen. So konnten auch die Erzählungen in den Evangelien nicht dazu gebraucht werden, sondern vornehmlich nur die Aussprüche Christi. Mithin sind die κυριακὰ λόγια hier dasselbe wie bei Papias; und dieser ganze Gang führt uns nur wieder auf das vorige als auf den einzig möglichen Sinn zurück, Matthäus hat die Aussprüche Christi zusammengeschrieben. Denn daß Papias hier nicht auch κυριακά sagt, sondern λόγια schlechthin, kann wol niemanden irren. Späterhin konnte man auch Lehren, Anweisungen, ' anderweitige Aussprüche der Apostel, sofern der heilige Geist durch sie redete, λόγια nennen; aber Matthäus konnte solche noch nicht zusammenschreiben, sondern neutestamentische λόγια, und andere waren es doch wol nicht, die er sammelte, konnten nur Aussprüche Christi seyn. Setzen wir nun dieses nach unserem Schriftsteller fest, und fragen uns selbst, ob es wol wahrscheinlich ist, daß derselbe Matthäus späterhin nach dieser Sammlung von Reden noch unser Evangelium geschrieben habe: so. kann ich nur ganz verneinend antworten. Denn gewiß mußte er in einer solchen das ganze Leben Christi umfassenden Schrift, in welcher er sich wohl zu merken nirgend auf jene Sammlung bezieht, auch die vorigen Reden wieder mit. aufnehmen, gesetzt auch, er that noch andere hinzu, da er ja doch zuerst diejenigen wird aufgezeichnet haben, die ihm als die bedeutendsten erschienen. Wie unglaublich aber, daß dem Papias diese zweite Schrift sollte unbekannt geblieben seyn! Wie noch unglaublicher, daß er dann nicht mit wenigen Worten in eben dieser Stelle noch sollte bemerkt haben: Später aber hat er auch noch das geschichtliche hinzugefügt nebst ein
 <!--- page 741 -->
-Papias Zeugniſſe von unſern beid. erſt. Evangelien. 741
+nigen anderen Reden! Und nicht minder unglaublich gewiß, daß Eusebius uns diesen Zusatz sollte mißgönnt haben, des Buches erwähnend, was nicht neutestamentisch geworden, das erste neutestamentische hingegen übergehend, da er doch die ganze Stelle offenbar nur mittheilt, um — wie das seine Weise ist — zu zeigen, was für neutestamentische Bücher dem Papias schon bekannt gewesen. Nein, Eusebius hat in seinem Papias nichts von zwei Schriften des Matthäus gefunden; mithin ist auch wol nur diese eine vorhanden gewesen, und die war nicht unser Evangelium. Soviel ergiebt sich leicht und gewiß genug; aber wie nun jene Schrift des Matthäus so ganz" und gar verschollen ist, und auf welche Weise unser Evangelium[^741a] sich nun grade den Namen des Matthäus hat aneignen können, das sind die schwierigen fast unlösbaren Fragen, welche sich uns mit jener Gewißheit zugleich aufdrängen, eben so unabweisbar leider als sie schwierig sind. Ueber die erste sagt uns freilich unser Autor noch etwas, das aber wenig geeignet scheint, uns unserm Ziele näher zu führen. Er sagt uns nämlich: Wie Matthäus die Reden Christi schriftlich zusammengestellt, so habe hernach Jeder sie, so gut er vermochte ja was? übersetzt, sagt man allgemein! Die Worte[^741a] können das freilich bedeuten; aber von je mehreren übersetzt, wahrscheinlich doch von allen in dieselbe Sprache, griechisch, um desto weniger kann es sich ja verloren haben. Und doch findet sich von alten diesen Uebersetzungen weder bei den nächst spätern Kirchenschriftstellern die mindeste Spur, noch ist es dem Eusebius, dem Hieronymus so gut geworden, etwas davon zu Gesicht zu bekommen! Und muß denn ἡρμήνευσε nothwendig übersetzen bedeuten? Das Wort hat einen sehr weitläufigen Umfang, und heißt gewiß nur übersetzen, wo von zwei
 
-nigen anderen Reden! Und nicht minder unglaublich ge-
-wiß, daß Euſebius uns dieſen Zuſatz ſollte mißgönnt
-haben , des Buches erwähnend , was nicht neuteſtamen-
-tiſch geworden, das erſte neuteſtamentiſche hingegen über-
-gehend, da er doch die ganze Stelle offenbar nur mit-
-theilt, um =- wie das ſeine Weiſe iſt = zu zeigen, was
-für neuteſtamentiſche Bücher dem Papias ſchon bekannt /
-geweſen. Nein, Euſebius hat in ſeinem Papias nichts'/
-von zwei Schriften des Matthäus gefunden z mithin iſt
-auch wol nur dieſe eine vorhanden geweſen, und die war
-nicht unſer Evangelium. Soviel ergiebt ſich leicht und
-gewiß genug; aber wie nun jene Schrift des Matthäus
-ſo ganz" und gar verſchollen iſt, und auf welche Weiſe
-unſer Evangelium a) ſich nun grade den Namen des Mat-
-thäus hat aneignen können, das ſind die ſchwierigen faſt
-unlösSbaren Fragen, welche ſich uns mit jener Gewißheit
-zugleich aufdrängen , eben ſo unabweisbar leider als ſie
-ſchwierig ſind. Ueber die erſte ſagt uns freilich unſer
-Autor noch etwas, das aber wenig geeignet ſcheint, uns
-unſerm Ziele näher zu führen. Er ſagt uns nämlich :
-Wie Matthäus die Reden Chriſti ſchriftlich zuſammenge-
-ſtellt, ſo habe hernach Jeder ſie, ſo gut er vermochte =
-ja was ? überſeßt, ſagt man allgemein! Die Worte a)
-können das freilich bedeuten 3 aber von je mehreren über-
-ſet, wahrſcheinlich doh von allen in dieſelbe Sprache,
-griechiſch , um deſto weniger kann es ſich ja verloren ha-
-ben. Und doch findet ſich von alten dieſen Ueberſezun-
-gen weder bei den nächſt ſpätern Kirhenſchriftſtellern die
-mindeſte Spur, noch iſt es dem Euſebius, dem Hierony-
-mus ſo gut geworden, etwas davon zu Geſicht zu be-
-kommen! Und muß denn ἡρμήνευσε nothwendig über-
-ſetzen bedeuten? Das Wort hat einen ſehr weitläuftigen
-Umfang , und heißt gewiß nur überſetzen, wo von zwei
-
-a) ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος, Engeb. 1. 0.
+[^741a]: ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος. Euseb. l. c.
 
 <!--- page 742 -->
-742                εν "Schleiermacher
+Sprachen schon die Rede war, oder wo der ganze Zusammenhang es nothwendig so mit sich bringt. Aber
 
-Sprachen ſchon die Rede war, oder wo der ganze Zu-
-ſammenhang es nothwendig ſo mit ſich bringt. Aber
+weder jenes noch dieses ist hier der Fall; Offenbar ist
 
-weder jenes noch dieſes iſt hier der Fall; Offenbar iſt
+durch die Structur des Satzes ἡρμήνευσε nicht in Ver-
 
-durch die Structur des Saßes ἡρμήνευσε nicht in Ver-
+' bindung mit τῇ Ἑβραϊδι διαλέκτῳ gesetzt / sondern mit συνεγράψατο. Matthäus hat die Reden zusammenge-
 
-' bindung mit τῇ Ἑβραϊδι διαλέκτῳ geſeßt / ſondern mit
-συνεγράψατο. Matthäus hat die Reden zuſammenge-
+schrieben, und zwar in hebräischer Sprache, und Andere
 
-ſchrieben , und zwar in hebräiſcher Sprache , und Andere
+ὦ haben sie = = Hier wird „Üübersetzt" gar nicht noth-
 
-ὦ haben ſie = = Hier wird „Üüberſeßt" gar nicht noth-
+' wendig erfordert. Wenn es also viel Schwierigkeit ver-
 
-' wendig erfordert. Wenn es alſo viel Schwierigkeit ver-
+ursacht, weil wir nicht wissen, wie wir alle diese Ueber-
 
-urſacht , weil wir nicht wiſſen, wie wir alle dieſe Ueber-
+setzungen vertilgen wollen: warum sagen wir nicht lieber,
 
-ſetzungen vertilgen wollen: warum ſagen wir nicht lieber,
+Andere haben sie, so gut jeder konnte, erklärt, erläutert, angewendet? Großer Schwierigkeit entgehen wir da-
 
-Andere haben ſie, ſo gut jeder konnte, erklärt, erläutert,
-angewendet ? Großer Schwierigkeit entgehen wir da-
+7 ) durc<. Denn von so vielen Uebersetzungen müßte sich md >14 doch wol eine wenigstens, wenn auch nur so lange erhalten „kiel „772€ hahen, „daß das Werk auch später noch bekannt und in 71,22, Umlauf blieb; aber durch Erläuterungen, welche die Sub- 7 stanz desselben mit in sich aufnahmen, konnte es grade am leichtesten untergehen, indem diese übrig blieben. Un-
 
-7      ) durc<. Denn von ſo vielen Ueberſezungen müßte ſich
-md >14 doch wol eine wenigſtens, wenn auch nur ſo lange erhalten
-„kiel „772€ hahen , „daß das Werk auch ſpäter noch bekannt und in
-71,22, Umlauf blieb; aber durch Erläuterungen, welche die Sub-
-7 ſtanz deſſelben mit in ſich aufnahmen, konnte es grade
-am leichteſten untergehen, indem dieſe übrig blieben. Un-
-
-ſer Autor nennt ſeine Erläuterungen auch ἑρμηνείας 2),
-und wie nüßlich könnte es uns ſeyn, wenn noch mehr
-von ſeinem Werk vorhanden wäre, um zu wiſſen, wie
-viel oder wenig er unter dieſem Ausdruc>k befaßt, damit
-wir mit unſern Erklärungsverſuchen doch gewiß inner-
-halb ſeines Sprachgebrauches blieben! Indeß einiges iſt
-da , woraus wir ſehen können , daß er das Wort in εἰν
-nem ſehr weiten Sinne nimmt. Andreas von Cäſarea b)
+ser Autor nennt seine Erläuterungen auch ἑρμηνείας[^742a], und wie nüßlich könnte es uns seyn, wenn noch mehr von seinem Werk vorhanden wäre, um zu wissen, wie viel oder wenig er unter diesem Ausdruc>k befaßt, damit wir mit unsern Erklärungsversuchen doch gewiß innerhalb seines Sprachgebrauches blieben! Indeß einiges ist da, woraus wir sehen können, daß er das Wort in einem sehr weiten Sinne nimmt. Andreas von Cäsarea[^742b]
 
 .-..... emm
 
-a) Bei Euſeb, 111. Kap, 89, οὐκ ὀκνήσω δέ σοι καὶ ὅσα ποτὲ
-παρὰ τῶν πρεσβυτέρων καλῶς ἔμαϑον καὶ καλῶς ἐμνημόνευ-
-σα, συγκατατάξαι ταῖς ἑρμηνείαις.
+[^742a]: Bei Euseb. III. Kap. 39: οὐκ ὀκνήσω δέ σοι καὶ ὅσα ποτὲ παρὰ τῶν πρεσβυτέρων καλῶς ἔμαθον καὶ καλῶς ἐμνημόνευσα, συγκατατάξαι ταῖς ἑρμηνείαις.
 
-b) Comment, in Apocalyps. cap» 84, Καὶ Παπίας δὲ οὕτως ἐπὶ
-λέξεως" ἐνίοις δὲ αὐτῶν, δηλαδὴ τῶν πάλαι. θείων ἀγγέλων,
-καὶ τῆς περὶ τὴν γῆν διακοσμήσεως ἔδωκεν ἄρχειν , καὶ κα-
-λῶς ἄρχειν παρηγγύησε. Was das folgende καὶ ἑξῆς φησιν"
+[^742b]: Comment. in Apocalyps. cap. 34: Καὶ Παπίας δὲ οὕτως ἐπὶ λέξεως· ἐνίοις δὲ αὐτῶν, δηλαδὴ τῶν πάλαι θείων ἀγγέλων, καὶ τῆς περὶ τὴν γῆν διακοσμήσεως ἔδωκεν ἄρχειν, καὶ καλῶς ἄρχειν παρηγγύησε. Was das folgende καὶ ἑξῆς φησίν· εἰς οὐδὲν συνέβη τελευτῆσαι τὴν τάξιν αὐτῶν eigentlich heißen soll, wage ich nicht genau zu bestimmen.
 
 <!--- page 743 -->
-Papias Zeugniſſe von unſern beid, erſt. Evangelien.  743
+führt aus ihm an, daß einigen Engeln auch anvertraut gewesen sey über die Anordnung und Verwaltung der Erde zu herrschen. Auf welche von den uns bekannten Aeußerungen Christi über die Engel man dies auch beziehen möge, keine derselben wird hiedurch irgend näher erläutert; ja es läßt sich kaum denken, daß eine solche von Christo sollte in Umlauf gewesen seyn. Man kann also nur sagen, daß Papias die Gelegenheit, die ihm eine Aeußerung Christi darbot, benutzt habe, um diese Notiz anzubringen. Irenäus[^743a] führt eben so an die Beschreibung eines gigantischen Weinstocks im Reiche Gottes. Diese gehört nun wol deutlich genug zu Aussprüs- <en Christi wie wir sie lesen Matth. 26, 29. Mark. 14, 25. Luk. 22, 18. Diese so sehr gleichförmigen Abfassungen lassen kaum vermuthen, daß noch andere im Umlauf gewesen: aber wenn auch, die Worte des Erlösers werden doch durch diese Beschreibung gewiß nicht in helleres Licht gesetzt. Am ausführlichsten aber haben wir eine von unsern neutestamentischen ganz abweichende Erzählung von dem Ende des Judas[^743b],: Diese, da Papias
 
-führt aus ihm an, daß einigen Engeln auch anvertraut
-geweſen ſey über die Anordnung und Verwaltung der
-Erde zu herrſchen. Auf welche von den uns bekannten
-Aeußerungen Chriſti über die Engel man dies auch be-
-ziehen möge, keine derſelben wird hiedurch irgend näher
-erläutert; ja es läßt ſich kaum denken , daß eine ſolche
-von Chriſto ſollte in Umlauf geweſen ſeyn. Man kann
-alſo nur ſagen, daß Papias die Gelegenheit, die ihm
-eine Aeußerung Chriſti darbot, benutzt habe, um dieſe
-Notiz anzubringen. Jrenäus a) führt eben ſo an die Be-
-ſchreibung eines gigantiſchen Weinſto>s im Reiche Gote?
-tes. Dieſe gehört nun wol deutlich genug zu Ausſprüs-
-<en Chriſti wie wir ſie leſen Matth. 26, 29. Mark. 14,
-25. Luk. 22, 18. Dieſe ſo ſehr gleichförmigen Abfaſſun-
-gen laſſen kaum vermuthen, daß noch andere im Umlauf
-geweſen: aber wenn auch , die Worte des Erlöſers wer-
-den doch durch dieſe Beſchreibung gewiß nicht in helleres
-Licht geſetzt. Am ausführlichſten aber haben wir eine
-von unſern neuteſtamentiſchen ganz abweichende Erzäh-
-lung von dem Ende des Judas b), : Dieſe, da Papias
+soll, wage ich nicht genau zu bestimmen,
 
-εἰς οὐδὲν συνέβη τελευτῆσαι τὴν τάξιν αὐτῶν eigentlich heißen
-ſoll , wage ich nicht genau zu beſtimmen,
+[^743a]: V, 33. Diese Nachricht aus dem Reiche Gottes, die Christus gegeben haben soll, klingt freilich höchst fabelhaft, und wir müssen es dem Eusebius wol glauben, daß Papias dergleichen einfach und buchstäblich genommen hat. Aber verwerfen wir deshalb alle Nachrichten des Irenäus, weil er dieses ganz ernsthaft und eben so nacherzählt?
 
-a) V, 33,- Dieſe Nachricht aus dem Reiche Gottes, die Chriſtus
-gegeben haben ſoll, klingt freilich höchſt fabelhaft, und wir
-müſſen es dem Euſebius wol glauben , daß Papias dergleichen
-einfach und buchſtäblich genommen hat, Aber verwerfen wir
-deshalb alle Nachrichten des Jrenäus, weit er dieſes ganz ernſt-
-haft und eben ſo nacherzählt ?         ZEE
-
-b) Sie kommt dreimat vor, einmal bei Oecumenius zu Act. 1 Zr
-TV. 1. p. 11, Ed. Froof, und zweimal bei Theophylt, zuerſt kür-
-zer zu Matth, 27, 5, Kd. Venet. T. [,'p. 154, hier jedoch ohne
-den Papias zu nennen, und dann ſehr ausführlich zu Act. 1, 18.
-T. I11 Fp. 16, Die Vergleichung derſelben würde hier zu weit
-führen, Nur ſo viel iſt mir gewiß, daß der Ref, hei Decum, die
-Angabe, Judas ſey von einem Wagen zu Tode gequetſcht wor-
+[^743b]: Sie kommt dreimal vor, einmal bei Oecumenius zu Act. 1, 18. T. I. p. 11. Ed. Froben, und zweimal bei Theophylakt, zuerst kürzer zu Matth. 27, 5. Ed. Venet. T. I. p. 154, hier jedoch ohne den Papias zu nennen, und dann sehr ausführlich zu Act. 1, 18. T. III. p. 16. Die Vergleichung derselben würde hier zu weit führen. Nur so viel ist mir gewiß, daß der Ref. bei Oecum. die Angabe, Judas sey von einem Wagen zu Tode gequetscht worden, nur geschlossen hat, daß aber der Widerspruch gegen die Erzählung unseres Matth., wie Theophyl. ihn in der ersten Stelle ausspricht, daß nämlich Judas an dem Erhängen nicht gestorben, sondern damals ins Leben zurückgekehrt sey, auch nicht dem Papias angehört. Nach der zweiten Stelle Theophylakts, und nach Oecumen. muß man glauben, diese Erzählung habe bei Papias mit den Worten angefangen: Μέγα δὲ ἀσεβείας ὑπόδειγμα, und dann folgt von selbst, daß er die unsrige vom Erhenken gar nicht gekannt habe. Sollte ihm demohnerachtet unser Matthäusevangelium bekannt gewesen seyn? Das würde ich dann lieber verneinen. Aber freilich möglich bleibt es, daß jener bestimmte Widerspruch auch bei Papias vorangegangen, und nur nicht wörtlich in die Berichte mit aufgenommen ist.
 
 <!--- page 744 -->
-744                       Schleiermacher
+nur Reden des Herrn commentirt hat, nicht aber evangelische Erzählungen, kann er nur vorgetragen haben zu solchen Aeußerungen wie Matth. 26, 24. und Luk. 22, 21. 22. Aber aufgehellt wird auch dieser Ausspruch nicht weiter, Judas mag so gestorben seyn oder so. Rechnet also Papias auch dergleichen Beschreibungen und Erzählungen, die mit einem Ausspruch Christi in irgend einer Verbindung stehen, mit zur ἑρμηνεία desselben: was für ganz verschiedenartige, gleichviel ob hebräisch oder grie- <hisc<h verfaßte, Benutzungen und Bearbeitungen der Sammlung des Matthäus können dann nicht unter jener Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος zusammengefaßt seyn? Benutzungen einzelner Theile, wenn sie homiletisch auseinandergelegt und auf gegebene Verhältnisse angewendet wurden; Bearbeitungen, theils rein erklärende, wenn jemand die Schwierigkeiten, die sich beim Verständniß darbieten, möglichst zu lösen suchte, theils so gemischte und durch mancherlei Abschweifungen bunte wie die Arbeit des Papias auch gewesen seyn würde, wenn er die Sammlung des Matthäus zum Grunde gelegt hätte. Aber waren nicht auch nach seinem Sprachgebrauch solche, wenn einer zu den Reden und Aeußerungen Christi die örtlichen und zeitlichen Verhältnisse hin-
 
-nur Reden des Herrn commentirt hat, nicht aber evange-
-liſche Erzählungen, kann er nur vorgetragen haben zu
-ſolchen Aeußerungen wie Matth. 26, 24. und Luk. 22,
-21. 22. Aber aufgehellt wird auch dieſer Ausſpruch nicht
-weiter , Judas mag ſo geſtorben ſeyn oder ſo. Rechnet
-alſo Papias auch dergleichen Beſchreibungen und Erzäh-
-lungen, die mit einem Ausſpruch Chriſti in irgend einer
-Verbindung ſtehen, mit zur ἑρμηνεία deſſelben: was für
-ganz verſchiedenartige , gleichviel ob hebräiſch oder grie-
-<hiſc<h verfaßte , Benutzungen und  Bearbeitungen der
-Sammlung des Matthäus können dann nicht unter jener
-Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος διυ{ἀΠ|2
-mengefaßt ſeyn ? Benußungen einzelner Theile, wenn ſie
-homiletiſch auseinandergelegt und auf gegebene Verhält-
-niſſe angewendet wurden 3 Bearbeitungen , theils rein er-
-klärende, wenn jemand die Schwierigkeiten, die ſich beim
-Verſtändniß darbieten, möglichſt zu löſen ſuchte, theils
-ſo gemiſchte und durch mancherlei Abſchweifungen bunte
-wie die Arbeit des Papias auch geweſen ſeyn würde,
-wenn er die Sammlung des Matthäus zum Grunde ge-
-legt hätte. Aber waren nicht auch nach ſeinem Sprach-
-gebrauch ſolche, wenn einer zu den Reden und Aeußerun-
-gen Chriſti die örtlichen und zeitlichen Verhältniſſe hin-
-den, nur geſchloſſen hat, daß aber der Widerſpruch gegen die
-
-* Erzählung unſeres Matth, , wie Theophyl. ihn in der erſten
-Stelle ausſpricht, daß nämlich Judas an dem Erhängen nicht
-geſtorben, ſondern damals ins Leben zurückgekehrt ſey, auch nicht
+* Erzählung unseres Matth,, wie Theophyl. ihn in der ersten gestorben, sondern damals ins Leben zurückgekehrt sey, auch nicht
 
 vem Papias angehört. Nach der zweiten Stelle Theophylakts,
 
-und nach Oecumen, muß man glauben, dieſe Erzählung habe bei
-Papias mit den Worten angefangen : Μέγα δὲ ἀσεβείας ὑπό-
-δειγμα, und dann folgt von ſelbſt / daß er die unſrige vom Er-
-henken gar nicht gekannt habe,  Sollte-ihm demohnerachtet unſer
-Matthäusevangelium bekannt geweſen ſeyn? Das würde ich dann
-lieber verneinen. Aber freilich möglich bleibt οὐ, daß jener θὲς
-ſtimmte Widerſpruch auch bei Papias vorangegangen, und nur
-
-- nicht wörtlich in die Berichte mit aufgenommen iſt.
-
+und nach Oecumen, muß man glauben, diese Erzählung habe bei δειγμα, und dann folgt von selbst / daß er die unsrige vom Er- Matthäusevangelium bekannt gewesen seyn? Das würde ich dann lieber verneinen. Aber freilich möglich bleibt οὐ, daß jener θὲς stimmte Widerspruch auch bei Papias vorangegangen, und nur
 <!--- page 745 -->
-Papias Zeugniſſe von unſern beid, erſt. Evangelien. 745
+zufügte, unter denen sie gesprochen werden? Denn das trägt ja offenbar weit mehr zum Verständniß bei, ist weit mehr hermeneutisch als jene beiläufigen abschweifenden Erzählungen!
 
-zufügte, unter denen ſie geſprochen werden? Deun das
-trägt ja offenbar weit mehr zum Verſtändniß bei, iſt weit
-mehr hermeneutiſch als jene beiläufigen abſchweifenden
-Erzählungen!
-
-Und dieſe Arbeiten Anderer über die Sammlung des
-Matthäus ſcheinen uns ja nicht ganz verloren gegangen
-zu ſeyn, ja ſie haben uns wol die Sammlung ſelbſt mit
-erhalten. Denn eine ſolche Arbeit iſt unſer Matthäus-
-evangeliumz es verhält ſich zu der apoſtoliſchen Reden-
-ſammlung genauer betrachtet gerade ſo, wie ich eben be-
-ſchrieben. Es ſchließt dieſe Sammlung in ſich, und fügt
-die örtlichen und zeitlichen Verhältniſſe hinzu, an Stel-
-len, wo nicht zu fehlen war, aus der mündlichen Ueber-
-lieferung der urſprünglichen und eigentlichen Evangeli-
-ſten; oft aber auch ſo, daß man dem Bearbeiter ſeine Un-
-ſicherheit anmerkt. Dann hat er nur allgemeine Oertlich-
-keiten , den Berg, den See und allgemeine Zeitlichkeiten,
-wie ſie immer wiederkehren mußten, Chriſtus zieht in den
-Städten umher und lehrt in den Schulen , oder er reiſt
-und das Volk ſammelt ſich um ihn her, er leidet unter
-dent Gedränge , er heilt und thut Wunder, oder er kehrt
-zurück in die Stadt, wo er ſeinen gewöhnlichen Wohnſitz
-hat. Meine Abſicht iſt hier keinesweges, eine genaue Ana-
-lyſe des Evangeliums zu geben, noch auch dieſe Anſicht
-von demſelben mit der herrſchenden nach allen Seiten
-zu vergleichen , oder die bereits mehrmals gegen den apo-
-ſtoliſchen Urſprung dieſes Evangeliums erhobenen Zwei-
-fel hierauf zurückzuführen, ſondern nur vorläufig dieſe
-beiden Punkte aufzuſtellen , einmal daß wir keine Urſache
-haben zu läugnen, was uns ein ſo alter und hiezu wohl
-befähigter Berichterſtatter erzählt, daß der Apoſtel Mat-
-thäus in paläſtinenſiſcher Mundart eine Zuſammenſtellung
-von Reden und Ausſprüchen Chriſti verfaßt habe, über
-welche hernach viele Andere, jeder auf ſeine Weiſe, gear-
-beitet haben, und dann daß unſer Matthäusevangelium
-
+Und diese Arbeiten Anderer über die Sammlung des Matthäus scheinen uns ja nicht ganz verloren gegangen zu seyn, ja sie haben uns wol die Sammlung selbst mit erhalten. Denn eine solche Arbeit ist unser Matthäusevangelium; es verhält sich zu der apostolischen Redensammlung genauer betrachtet gerade so, wie ich eben beschrieben. Es schließt diese Sammlung in sich, und fügt die örtlichen und zeitlichen Verhältnisse hinzu, an Stellen, wo nicht zu fehlen war, aus der mündlichen Ueberlieferung der ursprünglichen und eigentlichen Evangelisten; oft aber auch so, daß man dem Bearbeiter seine Unsicherheit anmerkt. Dann hat er nur allgemeine Oertlichkeiten, den Berg, den See und allgemeine Zeitlichkeiten, wie sie immer wiederkehren mußten, Christus zieht in den Städten umher und lehrt in den Schulen, oder er reist und das Volk sammelt sich um ihn her, er leidet unter dem Gedränge, er heilt und thut Wunder, oder er kehrt zurück in die Stadt, wo er seinen gewöhnlichen Wohnsitz hat. Meine Absicht ist hier keinesweges, eine genaue Analyse des Evangeliums zu geben, noch auch diese Ansicht von demselben mit der herrschenden nach allen Seiten zu vergleichen, oder die bereits mehrmals gegen den apostolischen Ursprung dieses Evangeliums erhobenen Zweifel hierauf zurückzuführen, sondern nur vorläufig diese beiden Punkte aufzustellen, einmal daß wir keine Ursache haben zu läugnen, was uns ein so alter und hiezu wohl befähigter Berichterstatter erzählt, daß der Apostel Matthäus in palästinensischer Mundart eine Zusammenstellung von Reden und Aussprüchen Christi verfaßt habe, über welche hernach viele Andere, jeder auf seine Weise, gearbeitet haben, und dann daß unser Matthäusevangelium
 <!--- page 746 -->
-746                       Schleiermacher  -
+eine solche Arbeit ist, und eben davon seinen Namen κατὰ Ματθαῖον führt, weil es, auf jener Schrift des Matthäus beruht. Das erste halte" ich schon für hinlänglich beglaubigt, indem der Sprache die größte Gewalt wer die Worte des. Papias anders erklären will. Das andere möchte ich gern noch etwas deutlicher machen, um die Aufmerksamkeit der Sachkundigen -daraufzu lenken, aber ich kann jetzt nur der Probe wegen. versuchen, aus
 
-eine ſolche Arbeit iſt, und eben davon Feinen'/Namen κα-
-τὰ Mar?: führt, weil es, auf jener Schrift des Matthäus
-beruht. Das erſte halte" ich ſchon für hinlänglich beglau-
-bigt, indem der Sprache die größte Gewalt
-wer die Worte des. Papias anders erklären will. Das
-andere möchte ich gern noch etwas deutlicher machen, um
-die Aufmerkſamkeit der Sachkundigen -daraufzu lenken,
-aber ich kann jezt nur der Probe wegen. verſuchen, aus
+dem jetzigen Buch die Grundschrift herauszuscheiden, und hie und, da bemerklich machen, wie gut oder schlecht. die
 
-dem jetzigen Buch die Grundſchrift gäuszuſcheiden, und
-hie und, da bemerklich machen, wie gut oder ſchlecht. die
+spätere Arbeit sich anschließt. ER., Lassen wir vorläufig alles frühere, „und fangen da nämli
 
-ſpätere Arbeit ſich anſchließt.          ER. ,
-Laſſen wir vorläufig alles frühere, „und fangen da
-nämli
-
-an, wo wir erſt λόγια ſuchen können,          0 Chri-
-ſtus öffentlich auftritt. Hier tritt uns nun als erſter Ab-
-ſchnitt der Sammlung entgegen Kap. 5-7. I nenne
-die Bergpredigt eine Gnomologie, ohne beſtreiten zu wol-
-"ten, daß nicht größere Stücke zuſammengehören, aber
-ſehr “gewiß, daß ſie nicht ſo als Eines von Chriſto iſt
-geſprochen worden. Der Schein ihrer Einheit kommt auf
-die Rechnung deſſen, der den hiſtoriſchen Rahmen um
-das erſte Werk anfertigte; dieſer Schein entſteht dadurch,
-daß dieſer Chriſtum, nach einer ſolchen allgemeinen Dar-
-ſtellung , die wir Kap. 4, 23=-25 leſen, auf einen Berg,
-den wir nur im ganzen galiläiſchen Lande zu ſuchen ha-
-ben ,' hinauf, und; wo dieſer wahrſcheinlich erſte Abſchnitt
-der Sammlung zu Ende ging, von dem Berge wieder
-herabſteigen läßt, um nach Kapernaum zu gehen, Frei-
-lich wird dieſer Schein noch verſtärkt durch die Formel
-7, W. Καὶ ἐγένετο, ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους
-τούτους. Allein dieſe wird keinen, der einmal den rech?
-ten Geſichtspunkt gefaßt hat, irren: wir finden ähnliche,
-wo Chriſtus eben ſo wenig das ſo umrahmte hinter einan-
-der geſprochen hat; Ein zweiter Abſchnitt der Samm-
-lung iſt Kap. 10. Vorſchriften für die Apoſtel, Auch für
-dieſe folgt mithin aus der Formel Kap, 11, 1. Καὶ ἐγέ-
-
+an, wo wir erst λόγια suchen können, 0 Christus öffentlich auftritt. Hier tritt uns nun als erster Abschnitt der Sammlung entgegen Kap. 5-7. Ich nenne die Bergpredigt eine Gnomologie, ohne bestreiten zu wol- "ten, daß nicht größere Stücke zusammengehören, aber sehr “gewiß, daß sie nicht so als Eines von Christo ist gesprochen worden. Der Schein ihrer Einheit kommt auf die Rechnung dessen, der den historischen Rahmen um das erste Werk anfertigte; dieser Schein entsteht dadurch, daß dieser Christum, nach einer solchen allgemeinen Darstellung, die wir Kap. 4, 23=-25 lesen, auf einen Berg, den wir nur im ganzen galiläischen Lande zu suchen haben,' hinauf, und; wo dieser wahrscheinlich erste Abschnitt der Sammlung zu Ende ging, von dem Berge wieder herabsteigen läßt, um nach Kapernaum zu gehen, Freilich wird dieser Schein noch verstärkt durch die Formel 7, 28. Καὶ ἐγένετο, ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους τούτους. Allein diese wird keinen, der einmal den rechten Gesichtspunkt gefaßt hat, irren: wir finden ähnliche, wo Christus eben so wenig das so umrahmte hinter einander gesprochen hat; Ein zweiter Abschnitt der Sammlung ist Kap. 10. Vorschriften für die Apostel, Auch für diese folgt mithin aus der Formel Kap, 11, 1. Καὶ ἐγέ-
 <!--- page 747 -->
-Papias Zeugniſſe von unſern. beid. erſt. Evangelien, 747
+vero ὅτε ἐτέλεσεν ὁ Ἰησοῦς διατάσσων κ. τ. λ. nicht, daß dieses hinter einander als Eine Rede gesprochen worden. Hoffentlich wird die Formel schon hier beim zweiten Male jedem geläufig als Schluß für einen Abschnitt der Redensammlung und Uebergang zu anderem. Die Einleitung mußte hier natürlich das: Namensverzeichniß der Apostel geben und ihre beglaubigenden Vorrechte angeben; aber das unmittelbar vorhergehende Wort[^747a] steht in einer so genauen Verbindung mit dieser Ausrüstung der Apostel, daß ich nicht zweifle, dieses habe auch bei dem Apostel an der Spitze der-folgenden Vorschriften gestanden, und daher sehe ich schon 9, 35. 36, als die gewöhnliche Einleitung unsers Evangelisten zu diesem Abschnitt an. Ein dritter Abschnitt aus dem Werk. des Matthäus ist die Sammlung von Gleichnissen Kap. 13, 1=-52. Daß diese nicht können so hinter einander gesprochen seyn, liegt nicht nur in der Natur der Sache, sondern es läßt sich auch aus der Erzählung selbst auf das deutlichste nachweisen. Aber sie standen mit großem Recht ihrer Gleichartigkeit wegen in den λογίοις. neben einander, und, darum sind sie auch eben so eingerahmt; vorne die allgemeine Oertlichkeit, der See und der so häufige Zustand des Gedränges, und zum Schluß V, 53. das gewöhnliche Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τὰς παραβολὰς ταύτας und die allgemeine Oertlichkeit μετῆρεν ἐκεῖθεν; män kann aber hier wie ich schon anderwärts bemerklich gemacht habe; nicht einmal wissen wo das ἐκεῖ ist. Wenn ich nun springe bis zum 18. Kap.: so will ich damit keinesweges behaupten, daß in dem zwischenliegenden nichts aus der apostolischen Sammlung sey, sondern nur keine so zusammenhängende Masse. ' Aber Kap. 13. sind wieder sehr“verwandte Sprüche, die unter sich keinesweges genau zusammenhängen, aber sie drehen
 
-vero ὅτε ἐτέλεσεν 0 ᾽᾿Ιησοῦς διατάσσων x. τ. A. nicht, daß
-dieſes hinter einander als Eine Nede geſprochen worden.
-Hoffentlich wird die Formel ſchon hier beim zweiten Male
-jedem geläufig als Schluß für einen Abſchnitt der Re-
-denſammlung und Uebergang zu anderem. Die Einlei-
-tung mußte hier natürlich das: Namensverzeichniß der
-Apoſtel geben und ihre beglaubigenden Vorrechte απ
-renz; aber das unmittelbar vorhergehende Wort a) ſteht
-in einer ſo genauen Verbindung mit dieſer Ausrüſtung
-der Apoſtel , daß ich nicht zweifle, dieſes habe auch bei
-dem Apoſtel an der Spitze der-folgenden Vorſchriften ge-
-ſtanden, und daher ſehe ich ſchon 9, 35. 36, als die ge-
-wöhnliche Einleitung unſers Evangeliſten zu dieſem Ab-
-ſchnitt an. Ein dritter Abſchnitt aus dem Werk. des Mat-
-thäus iſt die Sammlung von Gleichniſſen Kap. 13, 1=-52.
-Daß dieſe nicht können ſo hinter einander geſprochen
-ſeyn , liegt nicht nur in der Natur der Sache, ſondern
-es läßt ſich auch aus der Erzählung ſelbſt auf das deut-
-lichſte nachweiſen. Aber ſie ſtanden mit großem Recht
-ihrer Gleichartigkeit wegen in den λογίοις. neben einan-
-der , und, darum ſind ſie auch eben ſo eingerahmt; vorne
-die allgemeine Oertlichkeit, der See und der ſo häufige
-Zuſtand des Gedränges, und zum Schluß V, 53. das
-gewöhnliche Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τὰς πα-
-φαβολὰς ταύτας und die allgemeine Oertlichkeit μετῆρεν
-ἐκεῖθεν; män kann aber hier wie ich ſchon anderwärts
-bemerklich gemacht habe; nicht einmal wiſſen wo das ἐκεῖ
-iſt. Wenn ich nun ſpringe bis zum 18. Kap.: ſo will
-ich damit keinesweges behaupten, daß in dem zwiſchen-
-liegenden nichts aus der apoſtoliſchen Sammlung ſey,
-ſondern nux keine ſo zuſammenhängende Maſſe. ' Aber
-Kap. 13. ſind wieder ſehr“verwandte Sprüche , die unter
-ſich keinesweges genau zuſammenhängen, aber fie drehen
-
-a) 9, 87, ὃ μὲν ϑερισμὸς πολὺς, οἱ δὲ ἐργάται ὀλίγοι κα. τ. ho
-Theol, Stud, Jahrg, 1832,             49
+[^747a]: 9, 37: ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι κ. τ. λ.
 
 <!--- page 748 -->
-748                      Schleiermacher
-
-ſich alle um die Vorſtellung von Abſtufungen und Werth-
-differenzen im Himmelreich ; und ich denke ſie haben als
-ſolche auch in der Sammlung einen abgeſonderten Ab-
-ſchnitt gebildet. Die Einleitung konnte hier, wo Chri-
-ſtus es mit den Apoſteln allein zu thun hat, nicht füg-
-lich viel anders ſeyn, als wir ſie 18, 2. leſen und der
-Schluß und Uebergang 19, 1. iſt der gewöhnliche καὶ
-ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους τούτους, με-
-τῆρε κι τ. A. Das 23. Kap. ſondert ſich zwar nicht auf
-eben ſo beſtimmte Weiſe von dem vorhergehenden und
-folgenden: aber ich bin doch geneigt, es für eine beſon-
-dere Abtheilung des Grundwerkes zu halten, wenn gleich
-das Ende des Kapitels ſich mit ſeinem Inhalt gewiſſer-
-maßen zum folgenden hinneigt. Denn die Einleitung ὦ
-deſſelben hängt doch gar nicht ſo mit dem vorhergehen-
-den zuſammen, daß es aus Einem Stü>k damit zu ſeyn
-»yſcheinen könnte. Damals, als niemand ihn mehr zu fra-
-gen“ wagte , redete ex mit der Menge und ſeinen Jün-
-gern, und das folgende hat wieder an dem ἐξελθὼν ἐπο-
-ρεύετο, καὶ προρῆλϑον ol μαϑηταὶ αὐτοῦ ἐπιδεῖξαι αὐ-
-τῷ τὰς οἰκοδομὰς τοῦ ἱεροῦ ſeine beſondere dem bishe-
-rigen ganz verwandte Einleitung. Dieſer Abſchnitt hat
-zwar dem Jnhalt nach eine gewiſſe Aehnlichkeit mit dem
-antiphariſäiſchen in der Bergpredigt; allein die Stim-
-mung und die Combinationsweiſe fühlt ſich doch ſo ver-
-ſchieden heraus, daß Matthäus , wenn er auch auf die
-Zeiten gar keine Rückſicht genommen hätte bei der An-
-ordnung ſeines Stoffs, dennoch Grund genug gehabt hat,
-dieſe Sprüche von jenen zu ſondern. Dieſe Vergleichung
-alſo der Disciplin , daß ich ſo ſage, ſeiner Schule mit
-der phariſäiſchen, und die Weiſſagung des Kampfes, der
-ſich: aus dieſer Differenz entwickeln werde , bildete mit
-Recht einen eigenen kleinen Abſchnitt. Wiewol- es da-
-her abweichend erſcheint, daß zwiſchen dieſem Abſchnitt
-aus der Sammlung und. dem folgenden nichts anderes
-
+sich alle um die Vorstellung von Abstufungen und Werthdifferenzen im Himmelreich; und ich denke sie haben als solche auch in der Sammlung einen abgesonderten Abschnitt gebildet. Die Einleitung konnte hier, wo Christus es mit den Aposteln allein zu thun hat, nicht füglich viel anders seyn, als wir sie 18, 2. lesen und der Schluß und Uebergang 19, 1. ist der gewöhnliche καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους τούτους, μετῆρε κι τ. A. Das 23. Kap. sondert sich zwar nicht auf eben so bestimmte Weise von dem vorhergehenden und folgenden: aber ich bin doch geneigt, es für eine besondere Abtheilung des Grundwerkes zu halten, wenn gleich das Ende des Kapitels sich mit seinem Inhalt gewissermaßen zum folgenden hinneigt. Denn die Einleitung ὦ desselben hängt doch gar nicht so mit dem vorhergehenden zusammen, daß es aus Einem Stü>k damit zu seyn »yscheinen könnte. Damals, als niemand ihn mehr zu fragen“ wagte, redete ex mit der Menge und seinen Jüngern, und das folgende hat wieder an dem ἐξελθὼν ἐπορεύετο, καὶ προρῆλϑον ol μαϑηταὶ αὐτοῦ ἐπιδεῖξαι αὐτῷ τὰς οἰκοδομὰς τοῦ ἱεροῦ seine besondere dem bisherigen ganz verwandte Einleitung. Dieser Abschnitt hat zwar dem Jnhalt nach eine gewisse Aehnlichkeit mit dem antipharisäischen in der Bergpredigt; allein die Stimmung und die Combinationsweise fühlt sich doch so verschieden heraus, daß Matthäus, wenn er auch auf die Zeiten gar keine Rücksicht genommen hätte bei der Anordnung seines Stoffs, dennoch Grund genug gehabt hat, diese Sprüche von jenen zu sondern. Diese Vergleichung also der Disciplin, daß ich so sage, seiner Schule mit der pharisäischen, und die Weissagung des Kampfes, der sich: aus dieser Differenz entwickeln werde, bildete mit Recht einen eigenen kleinen Abschnitt. Wiewol- es daher abweichend erscheint, daß zwischen diesem Abschnitt aus der Sammlung und. dem folgenden nichts anderes
 <!--- page 749 -->
-Papias Zeugniſſe von unſern beid, erſt. Evangelien.“ 749
+eingetragen ist: so kann ich mich doch nicht überwinden beide als ursprünglich eines anzusehn, und die den andern Einleitungsformeln unsers ἑρμηνευτής so ähnliche 24, 4. dem Apostel zuzuschreiben. Daß nun Kap. 24 und 25. in der Sammlung so zusammengestellt waren, muß Jeder eben so natürlich finden als unwahrscheinlich ist, daß Christus dieses so hintereinander sollte gesprochen haben. Von den Gleichnissen in diesem Abschnitt gilt in Beziehung auf die im 18, Kapitel übrigens dasselbe, was von Kap. 18. in Vergleich mit Kap. 5. gesagt worden ist. Das Ende ist wie immer bezeichnet, denn es wird auch von diesem Redeabschnitt zu den folgenden Erzählungen der Uebergang ganz auf die gewohnte Weise ge-. macht durch καὶ ἐγένετο ὅτε ἐτέλεσεν ὃ ᾿Ιησοῦς τοὺς λόγους rovrovs 3 so daß sich in der That behaupten läßt, wo nur diese an sich betrachtet sonderbare hieraus aber sich ganz leicht erklärende Formel bei unserm Evangelisten vorkommt, da bezeichnet sie auch das Ende eines Abschnittes der apostolischen Sammlung.
 
-eingetragen iſt: ſo kann ich mich doch nicht überwinden
-beide als urſprünglich eines anzuſehn , und die den an-
-dern Einleitungsformeln unſers ἑρμηνευτής ſo ähnliche
-24, 4. dem Apoſtel zuzuſchreiben. Daß nun Kap. 24 und
-25. in der Sammlung ſo zuſammengeſtellt waren, muß
-Jeder eben ſo natürlich finden als unwahrſcheinlich iſt,
-daß Chriſtus dieſes ſo hintereinander ſollte geſprochen
-haben. Von den Gleichniſſen in dieſem Abſchnitt gilt in
-Beziehung auf die im 18, Kapitel übrigens daſſelbe, was
-von Kap. 18. in Vergleich mit Kap. 5. geſagt worden
-iſt. Das Ende iſt wie immer bezeichnet, denn es wird
-auch von dieſem Redeabſchnitt zu den folgenden Erzäh-
-lungen der Uebergang ganz auf die gewohnte Weiſe ge- .
-macht durch καὶ ἐγένετο ὅτε ἐτέλεσεν ὃ ᾿Ιησοῦς τοὺς λό-
-γους rovrovs 3 ſo daß ſich in der That behaupten läßt,
-wo nur dieſe an ſich betrachtet ſonderbare hieraus aber
-ſich ganz leicht erklärende Formel bei unſerm Evangeli-
-ſten vorkommt, da bezeichnet ſie auch das Ende eines
-Abſchnittes der apoſtoliſchen Sammlung.
-
-Wenn wir nun dieſe neun Kapitel unſeres Evange-
-liums κατὰ Ματϑαῖον unbedenklich auf den Apoſtel , der
-die Reden Chriſti zuſammenſtellte , zurückführen können,
-uns aber nun, abgeſehen von unſerm Evangelium, feine
-Arbeit im ganzen vergegenwärtigen wollen: ſo müſſen
-wir geſtehen, er hätte doch gar vieles und zwar dem hier
-. Vorliegenden ganz gleichartiges , mithin offenbar auf ſei-
-nem Wege liegendes übergehen müſſen in. den Ausſprü-
-<en Chriſti, wenn er nur ſolche hätte zuſammenſtellen
-wollen, für die es nur einer gemeinſamen Ueberſchrift
-bedurfte wie Gleichniſſe, oder Gegen die Phariſäer 'oder
-Regeln für die Apoſtel 2c. und alle ausſchließen , zu de-
-ren Verſtändniß doch einige Kenntniß der veranlaſſenden
-Umſtände gehörte, “Wenn dieſe nur möglichſt kurz mitge-
-theilt wurden ohne irgend einige Ausmalung lediglich um
-"der Rede willen: ſo blieb das Buch ganz ſeinem Charak-
-
-49 *
-
+Wenn wir nun diese neun Kapitel unseres Evangeliums κατὰ Ματθαῖον unbedenklich auf den Apostel, der die Reden Christi zusammenstellte, zurückführen können, uns aber nun, abgesehen von unserm Evangelium, feine Arbeit im ganzen vergegenwärtigen wollen: so müssen wir gestehen, er hätte doch gar vieles und zwar dem hier. Vorliegenden ganz gleichartiges, mithin offenbar auf seinem Wege liegendes übergehen müssen in. den Aussprü- <en Christi, wenn er nur solche hätte zusammenstellen wollen, für die es nur einer gemeinsamen Ueberschrift bedurfte wie Gleichnisse, oder Gegen die Pharisäer 'oder Regeln für die Apostel 2c. und alle ausschließen, zu deren Verständniß doch einige Kenntniß der veranlassenden Umstände gehörte, “Wenn diese nur möglichst kurz mitgetheilt wurden ohne irgend einige Ausmalung lediglich um "der Rede willen: so blieb das Buch ganz seinem Charak-
 <!--- page 750 -->
-750                       Schleiermacher
-
-ter getreu, und konnte immer noch ohne weiteren Zuſaß
-durch τὰ λόγια συνεγράψατο auf das paſſendſte beſchrie-
-ben werden, Von dieſer Art giebt es nun viel in unſerm
-Evangelio, aber es iſt nicht mehr ſo leicht zu beſtimmen,
-was davon jener Quelle angehören mag und was unſer
-Evangeliſt aus anderweitigen beſonderen Quellen oder
-gemeiner Ueberlieferung geſchöpft haben mag. Denn da
-ſolche Reden, die eigentliche Antworten waren oder Ent-
-gegnungen, auchgin der apoſtoliſchen Sammlung, wenn
-ſie auch durch eine gemeinſame Ueberſchrift verbunden
-waren , doch der Natur der Sache nach ſich mehr ver-
-einzelten : ſo konnte auch der Evangeliſt leichter Veran-
-laſſung finden ſie zu zerſtreuen und anderes dazwiſchen
-zu ſchieben. Daher iſt hier wol jede Sonderung ſehr miß-
-lich , und ich will nur einer einzigen Anzeige nachgehn.
-Die Formel Kap. 22, 46. καὶ οὐδεὶς ἐδύνατο ἀποκρι-
-ϑῆναι αὐτῷ λόγον, οὐδὲ ἰτόλμησέ τις ἀπ ἐκείνης τῆς
-ἡμέρας ἐπερωτῆσαι αὐτὸν οὐκέτι in Verbindung mit dem
-folgenden τότε 6 ᾿Ιησοῦς ἐλάλησε x. τ. A. hat ſo viel Ver-
-wandtſchaſt mit den bisher aufgezeigten Uebergangsfor-
-meln des Bearbeiters, und ſetzt ſich ſo leicht in die um,
-Und es geſchah, nachdem Jeſus vollendet hatte ihnen Al-
-len zu antworten, redete er zu dem Volk und ſeinen Jün-
-gern, daß ſich die Vermuthung faſt unwiderſtehlich ,aufs-
-dringt, hier ende ein ſolcher Abſchnitt aus der Matthäi-
-ſchen Sammlung, welcher Antworten Chriſti enthielt, Nun
-finden wir dergleichen von der angezeigten Stelle rük-
-wärtsgehend zunächſt 22, 35-45. Die Anknüpfung V. 34
-iſt auch hier nur eine nicht ſehr glückliche Uebergangsfor-
-mel; denn daß Chriſtus die Sadducäer zum Schweigen
-gebracht. hatte, konnte für die Phariſäer kein beſonderer
-Grund ſeyn ihn zu verſuchen, ſondern hätte ſie eher gün-
-ſtig für ihn ſtimmen müſſen. Ferner Frage und Antwort
-22, 48 --- 88. Beide Stellen zeigen eine ſo große Analo-
-gie in der Behandlung, daß ſie in dem apoſtoliſchen σύγ-
-
+ter getreu, und konnte immer noch ohne weiteren Zusaß durch τὰ λόγια συνεγράψατο auf das passendste beschrieben werden, Von dieser Art giebt es nun viel in unserm Evangelio, aber es ist nicht mehr so leicht zu bestimmen, was davon jener Quelle angehören mag und was unser Evangelist aus anderweitigen besonderen Quellen oder gemeiner Ueberlieferung geschöpft haben mag. Denn da solche Reden, die eigentliche Antworten waren oder Entgegnungen, auchgin der apostolischen Sammlung, wenn sie auch durch eine gemeinsame Ueberschrift verbunden waren, doch der Natur der Sache nach sich mehr vereinzelten: so konnte auch der Evangelist leichter Veranlassung finden sie zu zerstreuen und anderes dazwischen zu schieben. Daher ist hier wol jede Sonderung sehr mißlich, und ich will nur einer einzigen Anzeige nachgehn. Die Formel Kap. 22, 46. καὶ οὐδεὶς ἐδύνατο ἀποκριϑῆναι αὐτῷ λόγον, οὐδὲ ἰτόλμησέ τις ἀπ ἐκείνης τῆς ἡμέρας ἐπερωτῆσαι αὐτὸν οὐκέτι in Verbindung mit dem folgenden τότε 6 ᾿Ιησοῦς ἐλάλησε κ. τ. λ. hat so viel Verwandtschast mit den bisher aufgezeigten Uebergangsformeln des Bearbeiters, und setzt sich so leicht in die um, Und es geschah, nachdem Jesus vollendet hatte ihnen Allen zu antworten, redete er zu dem Volk und seinen Jüngern, daß sich die Vermuthung fast unwiderstehlich,aufsdringt, hier ende ein solcher Abschnitt aus der Matthäischen Sammlung, welcher Antworten Christi enthielt, Nun finden wir dergleichen von der angezeigten Stelle rükwärtsgehend zunächst 22, 35-45. Die Anknüpfung V. 34 ist auch hier nur eine nicht sehr glückliche Uebergangsformel; denn daß Christus die Sadducäer zum Schweigen gebracht. hatte, konnte für die Pharisäer kein besonderer Grund seyn ihn zu versuchen, sondern hätte sie eher günstig für ihn stimmen müssen. Ferner Frage und Antwort 22, 48 --- 88. Beide Stellen zeigen eine so große Analogie in der Behandlung, daß sie in dem apostolischen σύγ-
 <!--- page 751 -->
-Papias Zeugniſſe von unſern beid, erſt, Evangelien. 751
-
-γοαμμα ſehr natürlich ihre Stelle. neben einander fanden.
-Der eigentliche Anfang dieſes Abſchnittes ſcheint aber 21,
-23. zu ſeyn; und ich glaube, daß das zWeite Gleichniß
-22, 1. unmittelbar hinter dem erſten, wie es 21, Aal
-ſchließt, gefolgt iſt, und nur der Evangeliſt hat, um beſ-
-ſer zuſammen zu ketten; V. 45. δύ. eingeſchoben. Allein
-freilich auch 20, 20=-23. iſt Antwort auf eine Frage
-und 10, 27 --- 20, 16. ebenfalls , und dann noch weiter
-rückwärts 19, 16 = 26. und 10, 3 = 12, So daß alle
-dieſe Stücke könnten zu derſelben Abtheilung der Samm-
-lung gehört haben. Der Grund, wider ſeine ſonſtige Ge-
-- wohnheit einen Abſchnitt der Sammlung zu unterbrechen
-und anderes zwiſchen einzuſchieben, läge dann für den
-Evangeliſten in der Andeutung, daß die Frage 21, 23.
-ſich auf Chriſti "Verkehr im- Tempel bezog , weshalb er
-denn Chriſtum allmählig mußte nach Jeruſalem bringen.
-Und in der That die Andeutung 19, 1. uer928y ἀπὸ τῆς
-Γαλιλαίας x. τ. A. und alles, was er von hier an aus an-
-dern Quellen eingeſchoben hat 19, 13-153; 20, 17-19
-u. 30 -- 34. eudlich 21, 1=-22,, hat offenbar dieſe Rich-
-tung. Will aber jemand auch das 13, Kap. ſchon lieber
-zu dieſem Abſchnitt rechnen, um es nicht als einen be-
-ſonderen betrachten -zu dürfen: ſo wüßte ich nicht viel
-dagegen einzuwenden. Aus dieſem ganzen Körper des
-Evangeliums, der das öffentliche Leben und Lehren Chriſti
-umfaßt , blieben alſo zunächſt nur Kap. 83. und 9. übrig,
-ferner Kap. 11. und 12, , wenn anders nicht Kap. 11.
-auch der Sammlung angehört. Denn es enthält auc
-faſt lauter Rede Chriſti in vier verſchiedenen Abſätzen, die
-unverburkden auf einander folgen , zuerſt Auseinanderſez-
-zung der Differenz zwiſchen dem Täufer und ihm, daun
-über das Berhalten des Volkes zu beiden, Drohung ge-
-gen die, unter denen er ſich vergeblich mühe , und neue
-allgemeine Einladung unter Bezeugung ſeines Einver-
-ſtändniſſes mit der göttlichen Ordnung, Eben fo möchte
-
+γοαμμα sehr natürlich ihre Stelle. neben einander fanden. Der eigentliche Anfang dieses Abschnittes scheint aber 21, 23. zu seyn; und ich glaube, daß das zWeite Gleichniß 22, 1. unmittelbar hinter dem ersten, wie es 21, Aal schließt, gefolgt ist, und nur der Evangelist hat, um besser zusammen zu ketten; V. 45. δύ. eingeschoben. Allein freilich auch 20, 20=-23. ist Antwort auf eine Frage und 10, 27 --- 20, 16. ebenfalls, und dann noch weiter rückwärts 19, 16 = 26. und 10, 3 = 12, So daß alle diese Stücke könnten zu derselben Abtheilung der Sammlung gehört haben. Der Grund, wider seine sonstige Ge- - wohnheit einen Abschnitt der Sammlung zu unterbrechen und anderes zwischen einzuschieben, läge dann für den Evangelisten in der Andeutung, daß die Frage 21, 23. sich auf Christi "Verkehr im- Tempel bezog, weshalb er denn Christum allmählig mußte nach Jerusalem bringen. Und in der That die Andeutung 19, 1. uer928y ἀπὸ τῆς Γαλιλαίας κ. τ. λ. und alles, was er von hier an aus andern Quellen eingeschoben hat 19, 13-153; 20, 17-19 u. 30 -- 34. eudlich 21, 1=-22,, hat offenbar diese Richtung. Will aber jemand auch das 13, Kap. schon lieber zu diesem Abschnitt rechnen, um es nicht als einen besonderen betrachten -zu dürfen: so wüßte ich nicht viel dagegen einzuwenden. Aus diesem ganzen Körper des Evangeliums, der das öffentliche Leben und Lehren Christi umfaßt, blieben also zunächst nur Kap. 83. und 9. übrig, ferner Kap. 11. und 12,, wenn anders nicht Kap. 11. auch der Sammlung angehört. Denn es enthält auc fast lauter Rede Christi in vier verschiedenen Absätzen, die unverburkden auf einander folgen, zuerst Auseinandersezzung der Differenz zwischen dem Täufer und ihm, daun über das Berhalten des Volkes zu beiden, Drohung gegen die, unter denen er sich vergeblich mühe, und neue allgemeine Einladung unter Bezeugung seines Einverständnisses mit der göttlichen Ordnung, Eben fo möchte
 <!--- page 752 -->
-752                      Schleiermacher
+ich auch noch den ersten Theil des 15. und den Anfang des 16. Kapitels gern der Sammlung vindiciren: allein diese Stellen heben sich zu wenig heraus und sind zu nahe mit dem, was mehr Erzählung ist, verbunden, als daß sich über sie etwas mit gleicher Sicherheit behaupten ließe. Und wie leicht konnte auch in eine Zusammensezzung wie unser Evangelium manches aus anderen Quellen kommen, was sehr gut in der Sammlung hätte Plat haben können, was aber doch nicht aus ihr genommen ist und nicht in ihr gestanden hat. Es schien mir aber gerathen bis an diese Grenze zu gehen, damit sich desto deutlicher zeige, wie die Sicherheit des Urtheils abnimmt, wenn die Beschaffenheit des Stoffs und die Art, wie er eingereiht ist, nicht mehr die gleiche Indication geben. Was nun noch übrig ist aus jenem Hauptstück des Evangeliums, das sind solche Elemente der evangelistischen
 
-ich auch noch den erſten Theil des 15. und den Anfang
-des 16. Kapitels gern der Sammlung vindiciren: allein
-dieſe Stellen heben ſich zu wenig heraus und ſind zu
-nahe mit dem, was mehr Erzählung iſt, verbunden, als
-daß ſich über ſie etwas mit gleicher Sicherheit behaupten
-ließe. Und wie leicht konnte auch in eine Zuſammenſez-
-zung wie unſer Evangelium manches aus anderen Quel-
-len kommen, was ſehr gut in der Sammlung hätte Plat
-haben können, was aber doch nicht aus ihr genommen iſt
-und nicht in ihr geſtanden hat. Es ſchien mir aber ge-
-rathen bis an dieſe Grenze zu gehen, damit ſich deſto
-deutlicher zeige , wie die Sicherheit des Urtheils abnimmt,
-wenn die Beſchaffenheit des Stoffs und die Art, wie er
-eingereiht iſt , nicht mehr die gleiche Indication geben.
-Was nun noch übrig iſt aus jenem Hauptſtü> des Evan-
-geliums, das ſind ſolche Elemente der evangeliſtiſchen
+erlieferung, wie einige Heilungen, die Speisung, die Verklärung, der Einzug, die in keiner zusammenhangenden Relation, wie der Verfasser doch eine geben wollte, fehlen durften. Doch hiemit haben wir es für jetzt nicht zu thun. Außer diesem Hauptstück aber, vor Kap. 5. und nach Kap. 25., glaube ich nicht, daß wir Bestandtheile unserer apostolischen Sammlung zu erwarten haben. In den Tischreden Kap. 26, 17 =-35. ist zuviel dialogisches, und noch weniger konnte die Leidensgeschichte, wieviel herrliche Aussprüche Christi auch darin vorkommen, in einer Schrift Platz finden, die nur Reden Christi zusammenstellen wollte, vielmehr konnte diese sehr schicklich mit ven lezten Reden Christi von seiner Wiederkunft schließen.
 
-erlieferung , wie einige Heilungen , die Speiſung, die
-Verklärung , der Einzug , die in keiner zuſammenhangen-
-den Relation , wie der Verfaſſer doch eine geben wollte,
-fehlen durften. Doch hiemit haben wir es für jetzt nicht
-zu thun. Außer dieſem Hauptſtü> aber, vor Kap. 5. und
-nach Kap. 25. , glaube ich nicht, daß wir Beſtandtheile
-unſerer apoſtoliſchen Sammlung zu erwarten haben. In
-den Tiſchreden Kap. 26, 17 =-35. iſt zuviel dialogiſches,
-und noch weniger konnte die Leidensgeſchichte , wieviel
-herrliche Ausſprüche Chriſti auch darin vorkommen, in
-einer Schrift Plaß finden, die nur Reden Chriſti zuſam-
-menſtellen wollte , vielmehr konnte dieſe ſehr ſchilich mit
-ven lezten Reden Chriſti von ſeiner Wiederkunft ſchließen.
-
-Uebrigens will ich keinesweges behaupten, daß un-
-ſer Evangelium die ganze Sammlung des Apoſtels in
-ſich aufgenommen habe. Vielmehr iſt mir dieſes eher un-
-wahrſcheinlich. Denn es wäre zu wunderbar, wenn alle
-einzelnen Theile ſich gleich gut auf ſolche Weiſe, wie hier
-geſchehen iſt, hätten behandeln laſſen, zu wunderbar, wenn
-
+Uebrigens will ich keinesweges behaupten, daß unser Evangelium die ganze Sammlung des Apostels in sich aufgenommen habe. Vielmehr ist mir dieses eher unwahrscheinlich. Denn es wäre zu wunderbar, wenn alle einzelnen Theile sich gleich gut auf solche Weise, wie hier geschehen ist, hätten behandeln lassen, zu wunderbar, wenn
 <!--- page 753 -->
-Papias Zeugniſſe von unſern beid. erſt, Evangelien. 753
+nicht auch die Vorliebe für einige Theile des Ganzen andern sollte geschadet haben. Daher können wol andere ähnliche Bearbeiter anderes aufgenommen haben[^753a], und manches, was wir in dem unsrigen finden, ausgelassen. Denn es scheint deren mehrere gegeben zu haben, welche die apostolische Sammlung in demselben Sinne behandelten wie unser Evangelium, so daß man den Namen εὐαγγέλιον κατὰ Ματθαῖον gewissermaßen als einen Familiennamen ansehen muß. Nachrichten haben wir von zweien. dergleichen, nämlich dem εὐαγγέλιον καϑ' “Ἑβραίους und dem Evangelium, dessen sich die Ebioniten bedienen. Ja ich möchte sagen wenigstens von zweien; denn unter den Erwähnungen, die uns übrig geblieben, latitiren wahrschein lich noch mehrere von einander verschiedene Recensionen, ohnerachtet der einen Stelle des Hieronymus, wo er auch diese beiden als eines ansieht[^753b]. - Denn da er sonst nirgends des besonderen Evangeliums der Ebioniten erwähnt: so scheinen sie hieher nur der Verwandtschaft wegen aus Versehen gekommen zu seyn, wogegen die Unterscheidung, die sich bei Epiphanius findet, zu bestimmt ist, um sie zu übersehen. Denn dieser nennt das Evangelium, dessen sich die Nazaräer bedienen, ein vollständigstes Matthäusevangelium, das der Ebioniten aber ein verfälschtes und beschnittenes[^753c]; und einen andern Maß-
 
-nicht auch die Vorliebe für einige Theile des Ganzen
-andern ſollte geſchadet haben. Daher können wol andere
-ähnliche Bearbeiter anderes aufgenommen haben 2) , und
-manches , was wir in dem unſrigen finden, ausgelaſſen.
-Denn es ſcheint deren mehrere gegeben zu haben, welche
-die apoſtoliſche Sammlung in demſelben Sinne behandel-
-ten wie unſer Evangelium, ſo daß man den Namen εὐαγ-
-γέλιον κατὰ Ματϑαῖον gewiſſermaßen als einen Fami-
-liennamen anſehen muß. Nachrichten haben wir von zweien.
-dergleichen, nämlich dem εὐαγγέλιον καϑ' “Ἑβραίους und
-dem Evangelium, deſſen ſich die Ebioniten bedienen. Ja ich
-möchte ſagen wenigſtens von zweien 5. denn unter den Er-
-wähnungen, die uns übrig geblieben, latitiren wahrſchein
-lich noch mehrere von einander verſchiedene Recenſionen,
-ohnerachtet der einen Stelle des Hieronymus, wo er auch
-dieſe beiden als eines anſiehtv). - Denn da er ſonſt nir-
-gends des beſonderen Evangeliums der Ebioniten er-
-wähnt: ſo ſcheinen ſie hieher nur der Verwandtſchaft we-
-gen aus Verſehen gekommen zu ſeyn, wogegen die Un-
-terſcheidung , die ſich bei Epiphanius findet, zu beſtimmt
-iſt, um ſie zu überſehen. Denn dieſer nennt das Evange-
-lium, deſſen ſich die Nazaräer bedienen, ein vollſtändig-
-ſtes Matthäusevangelium , das der Ebioniten aber ein
-verfälſchtes und beſchnittenes οὐ; und einen andern Maß-
+[^753a]: Nur so viel mag wol mit ziemlicher Gewißheit behauptet werden können, daß von den Reden, welche Johannes uns aufbewahrt hat, in der Sammlung des Matthäus nichts enthalten gewesen ist, was auch damit zusammenstimmt, daß er von einem überwiegend palästinensischen Standpunkt ausging.
 
-a) Nur ſo viel mag wol mit ziemlicher Gewißheit behauptet werden
-können , daß von den Reden, welche Johannes uns aufbewahrt
-hat , in der Sammlung des Matthäus nichts enthalten geweſen
+[^753b]: Comment. in Matth. cap. XII, 13: In evangelio, quo utuntur Nazareni et Hebionitae, quod nuper in graecum de hebraeo sermone transtulimus, et quod vocatur a plerisque Matthaei authenticum.
 
-- iſt, was auch damit zuſammenſtimmt, daß er von einem über:
-wiegend paläſtinenſiſchen Standpunkt ausging.
-
-b) Comment, in Matth. cap. XII, 13. In evangelio, quo utuntur
-Nazareni et Hebionitae , quod nuper in graecum de hebraeo
-Sermone transtulimus, et quod vocatur plerisque Matthaei
-authenticum,
-
-c) Haeres, 29, 9 u. 30, 13.
+[^753c]: Haeres. 29, 9 u. 30, 13.
 
 <!--- page 754 -->
-754 πῆρ         "Schleiermacher
+754 πῆρ "Schleiermacher
 
-ſtab als den kanoniſchen Matthäus kann er hier nicht ange-
-legt haben. Wenn ſich alſo beide zu dieſem entgegengeſeßt
-verhalten: ſo können ſie nicht daſſelbe geweſen ſeyn. Nun
-will ich freilich nicht behaupten, der Ausdruck πληρέστατον
-ſey im Vergleich mit dem kanoniſchen Matthäus gemeint,
-als ob der Nazareniſche Matthäus vollſtändiger geweſen
-wäre: als der unſrigez ſondern nur im Voraus als Ge-
-genſaßz gegen das Ebionitiſche geſtellt, oder bezüglich auf
-die vorher abgehandelten Cerinthianer , welche ebenfalls
-einen unvollſtändigen Matthäus hatten z aber auch ſo
-bliebe doh immer der Unterſchied zwiſchen dem Nazareni-
-ſchen und dem Ebionitiſchen, wenn jenes" auch, nur in
-hebräiſcher Sprache , genau unſer Matthäusevangelium
-war.“ Das verſtümmelte läßt ſich auch keinesweges
-auf die Genealogie ausſchließlich beziehen ; denn Epipha-
-nius iſt über die Nazaräer ungewiß, ob ſie die Genealo-
-gien abgeſchnitten haben, und nennt ihr Evangelium doch
-das vollſtändige. Auch ſagt er von den Cerinthianern be-
-ſtimmt, daß ſie die Gengalogien gebraucht, und wir hät-
-ten dann doch zwei auf verſchiedene Weiſe verſtümmelte
-Matthäusevangelien.- Nun'aber kann ich auch dieſes kei-
-nesweges ſo verſtehen, als ob ſie unſern gegenwärtigen
-Matthäus vor ſich gehabt und daraus beliebig dies und
-jenes weggelaſſen hätten. Dagegen ſprechen zu beſtimmt
-die angeführten Verfälſchungen, die zum Theil von ſol-
-<er Art ſind, daß man ſie nur als urſprünglich verſchie-
-dene Erzählungen derſelben Begebenheit anſehen kann a) z
-andere ſind ſs, daß wir ihnen in unſerm Matthäus gar
-keinen Plaß anweiſen könntenb), Ja ich möchte behaup-.
+stab als den kanonischen Matthäus kann er hier nicht angelegt haben. Wenn sich also beide zu diesem entgegengesetzt verhalten: so können sie nicht dasselbe gewesen seyn. Nun will ich freilich nicht behaupten, der Ausdruck πληρέστατον sey im Vergleich mit dem kanonischen Matthäus gemeint, als ob der Nazarenische Matthäus vollständiger gewesen wäre: als der unsrigen; sondern nur im Voraus als Gegensatz gegen das Ebionitische gestellt, oder bezüglich auf die vorher abgehandelten Cerinthianer, welche ebenfalls einen unvollständigen Matthäus hatten z aber auch so bliebe doch immer der Unterschied zwischen dem Nazarenischen und dem Ebionitischen, wenn jenes" auch, nur in hebräischer Sprache, genau unser Matthäusevangelium war.“ Das verstümmelte läßt sich auch keinesweges auf die Genealogie ausschließlich beziehen; denn Epiphanius ist über die Nazaräer ungewiß, ob sie die Genealogien abgeschnitten haben, und nennt ihr Evangelium doch das vollständige. Auch sagt er von den Cerinthianern bestimmt, daß sie die Gengalogien gebraucht, und wir hätten dann doch zwei auf verschiedene Weise verstümmelte Matthäusevangelien.- Nun'aber kann ich auch dieses keinesweges so verstehen, als ob sie unsern gegenwärtigen Matthäus vor sich gehabt und daraus beliebig dies und jenes weggelassen hätten. Dagegen sprechen zu bestimmt die angeführten Verfälschungen, die zum Theil von sol- <er Art sind, daß man sie nur als ursprünglich verschiedene Erzählungen derselben Begebenheit ansehen kann[^754a] z andere sind ss, daß wir ihnen in unserm Matthäus gar keinen Platz anweisen könnten[^754b] b), Ja ich möchte behaup-.
 
-a) Z, B, die Erwählung der Apoſtel aus dem Ebionitiſchen Evange-
-lium'bei Epiphaniusz ingleichen ebendaſ, die Erzählung von der
-Taufe Chriſti, die zugleich bedeutend abweicht von dam, was nach
-Hieronym, (zu Jeſ« 11, 2.) in dem Evang. ver-Nazaräer ſtand.
+[^754a]: Z. B. die Erwählung der Apostel aus dem Ebionitischen Evangelium bei Epiphanius; ingleichen ebendas. die Erzählung von der Taufe Christi, die zugleich bedeutend abweicht von dem, was nach Hieronym. (zu Jes. 11, 2) in dem Evang. der Nazaräer stand.
 
-h) Wie das Verbot der Opfer bei Epiph, 39, 16.
+[^754b]: Wie das Verbot der Opfer bei Epiph. 30, 16.
 
 <!--- page 755 -->
 ΄
 
-Papias Zeugniſſe von unſern beid, erſt, Evangelien. 755
-
-ten, aus dem, was uns Epiphanius aus dieſem Evan-
-gelium mittheilt, ließe ſich mit ziemlicher Sicherheit ſchlie-
-ßen, wenn es irgend nur Einheit des Charakters und
-des Styls gehabt hat, muß das erzählende faſt durh-
-aus abweichend von unſerm Matthäus geweſen ſeyn, Da
-nun auch der Anfang, wie man deutlich ſicht, gefehlt hat:
-wie iſt man dazu gekommen, es einen Matthäus zu nen-
-nen, wenn es nicht wenigſtens eine eben ſo durchgehende
-Aehnlichkeit gab“ zwiſchen beiden als die Verſchiedenheit
-offenbar durch das ganze durchgegangen ſeyn muß? Und
-dieſe Aehnlichkeit wird dann wol in nichts anderem zu
-ſuchen ſeyn, als in der beiden gemeinſchaftlichen Grund-
-lage, der apoſtoliſchen Redeſammlung , durch welche eine
-ἡ Gleichheit der Anordnung auch in den dazwiſchen geſcho-
-benen Erzählungen ſchon mit bedingt war. Hiegegen
-wird wol niemand aus dem Grunde Einſpruch thun, daß
-in dieſen Evangelien nicht nur Erzählungen ſondern auch
-einzelne Ausſprüche Chriſti "geſtanden haben, die unſerm
-Matthäus fremd ſind. Denn einestheils können ja dieſe
-auch grade in Erzählungen vorgekommen ſeyn, andern-
-theils iſt es wol höchſt natürlich, daß auch von der apo-
-ſtoliſchen Sammlung ſelbſt Abſchriften entſtanden , welche
-durch Gloſſen aus der gemeinſamen Quelle der evangeli-
-ſtiſchen Ueberlieferung bald mehr bald weniger ſachge-
-mäß und authentiſch vermehrt wurden. Allein ich bin
-nicht nur genöthiget, das Nazaräiſche und das. Ebioniti-
-ſche Evangelium als nicht nur von unſerm Matthäus,
-ſondern auch unter ſich verſchieden anzuſehen, ſondern
-auch , wenn ich alle hieher gehörigen Stellen des Hiero-
-nymus zuſammennehme , kann ich mich nicht überzeugen,
-daß er überall von derſelben Abfaſſung rede, Auch ab-
-geſehen von der ſchwerlich unverdorbenen Stelle a), wo
-er ſelbſt jenes hebräiſche Buch , von welchem ex wußte,
+ten, aus dem, was uns Epiphanius aus diesem Evangelium mittheilt, ließe sich mit ziemlicher Sicherheit schließen, wenn es irgend nur Einheit des Charakters und des Styls gehabt hat, muß das erzählende fast durchaus abweichend von unserm Matthäus gewesen seyn, Da nun auch der Anfang, wie man deutlich sieht, gefehlt hat: wie ist man dazu gekommen, es einen Matthäus zu nennen, wenn es nicht wenigstens eine eben so durchgehende Aehnlichkeit gab“ zwischen beiden als die Verschiedenheit offenbar durch das ganze durchgegangen seyn muß? Und diese Aehnlichkeit wird dann wol in nichts anderem zu suchen seyn, als in der beiden gemeinschaftlichen Grundlage, der apostolischen Redesammlung, durch welche eine Gleichheit der Anordnung auch in den dazwischen geschobenen Erzählungen schon mit bedingt war. Hiegegen wird wol niemand aus dem Grunde Einspruch thun, daß in diesen Evangelien nicht nur Erzählungen sondern auch einzelne Aussprüche Christi "gestanden haben, die unserm Matthäus fremd sind. Denn einestheils können ja diese auch grade in Erzählungen vorgekommen seyn, anderntheils ist es wol höchst natürlich, daß auch von der apostolischen Sammlung selbst Abschriften entstanden, welche durch Glossen aus der gemeinsamen Quelle der evangelistischen Ueberlieferung bald mehr bald weniger sachgemäß und authentisch vermehrt wurden. Allein ich bin nicht nur genöthiget, das Nazaräische und das. Ebionitische Evangelium als nicht nur von unserm Matthäus, sondern auch unter sich verschieden anzusehen, sondern auch, wenn ich alle hieher gehörigen Stellen des Hieronymus zusammennehme, kann ich mich nicht überzeugen, daß er überall von derselben Abfassung rede, Auch abgesehen von der schwerlich unverdorbenen Stelle[^755a], wo er selbst jenes hebräische Buch, von welchem ex wußte,
 
 FENEN Renee
 
-a) Catalog. Script, 8. V«-Matthaeus,
+[^755a]: Catalog. Script. s. v. Matthaeus.
 
 <!--- page 756 -->
-756        |               Schleiermacher
+756 | Schleiermacher
 
-daß es in Cäſarea war, und welches er in Beröa zum
-Abſchreiben erhielt, als die Urſchrift unſeres kanoniſchen
-Matthäus darſtellt, da er dies ſonſt a) nur als eine weit-
-verbreitete Meinung ausſpricht, läßt ſich ſchwerlich be-
-greifen, wie er dieſe Vorſtellung, die ihm aus jenem
-Eremplar , welches er abgeſchrieben , und = denn dieſes
-wird doch daſſelbe geweſen ſeyn =- aus welchem er ſeine
-griechiſche und lateiniſche Ueberſezung des Evangeliums
-καϑ' Ἑβραίους angefertigt hat, als völlig unzuläſſig und
-grundlos erſcheinen mußte, nicht offener und ſtärker wi-
-derlegt hat, ſondern ſie mehrere Male unter verſchiede-
-nen Formeln wiederholt, eben indem er Stellen anführt,
-welche von unſerm Matthäus ganz fremdartig abſtechen.“
-Ich weiß dies nur entweder dadurch zu erklären, daß er
-wirklich insgeheim jenes Evangelium für das urſprüng-
-liche Werk des Apoſtels gehalten hat, und den kanoni-
-ſchen Matthäus für eine Umarbeitung mehr als eigentli-
-<e Ueberſezung, weshalb er denn auch jenes ſogar ins
-Griechiſche überſeßt hatte, um es auch unter den grie-
-<iſ< redenden Chriſten neben dem kanoniſchen in Um-
-lauf zu bringen. Oder er müßte doch, außer jenem, wel-
-<hes er überſeßt, noh andere Eremplare unter demſelben
-Titel gekannt haben , welche unſerm Matthäus bedeutend
-näher ſtanden, es habe aber nicht auf ſeinem Wege ge-
-legen, das Verhältniß zwiſchen beiden genau zu ermitteln,
-und darum habe er auf der einen Seite die Meinung
-ebenfalls nicht ohne eine gewiſſe ſtillſchweigende Beiſtim-
-mung vorgetragen, welche das Evangelium der Ebräer
-mit unſerm Matthäus identificirt, auf der andern Seite
-aber es ſich zum beſonderen Geſchäfte gemacht, Stellen
-mitzutheilen, aus welchen jedem die große Verſchieden-
-heit zwiſchen beiden recht mußte in die Augen ſpringen.
-Beides erklärt einigermaßen, beides hat auch ſeine gro-
+daß es in Cäsarea war, und welches er in Beröa zum Abschreiben erhielt, als die Urschrift unseres kanonischen Matthäus darstellt, da er dies sonst[^756a] nur als eine weitverbreitete Meinung ausspricht, läßt sich schwerlich begreifen, wie er diese Vorstellung, die ihm aus jenem Eremplar, welches er abgeschrieben, und = denn dieses wird doch dasselbe gewesen seyn =- aus welchem er seine griechische und lateinische Uebersezung des Evangeliums καϑ' Ἑβραίους angefertigt hat, als völlig unzulässig und grundlos erscheinen mußte, nicht offener und stärker widerlegt hat, sondern sie mehrere Male unter verschiedenen Formeln wiederholt, eben indem er Stellen anführt, welche von unserm Matthäus ganz fremdartig abstechen.“ Ich weiß dies nur entweder dadurch zu erklären, daß er wirklich insgeheim jenes Evangelium für das ursprüngliche Werk des Apostels gehalten hat, und den kanonischen Matthäus für eine Umarbeitung mehr als eigentli- <e Uebersezung, weshalb er denn auch jenes sogar ins Griechische übersetzt hatte, um es auch unter den grie- <is< redenden Christen neben dem kanonischen in Umlauf zu bringen. Oder er müßte doch, außer jenem, wel- <hes er übersetzt, noh andere Eremplare unter demselben Titel gekannt haben, welche unserm Matthäus bedeutend näher standen, es habe aber nicht auf seinem Wege gelegen, das Verhältniß zwischen beiden genau zu ermitteln, und darum habe er auf der einen Seite die Meinung ebenfalls nicht ohne eine gewisse stillschweigende Beistimmung vorgetragen, welche das Evangelium der Ebräer mit unserm Matthäus identificirt, auf der andern Seite aber es sich zum besonderen Geschäfte gemacht, Stellen mitzutheilen, aus welchen jedem die große Verschiedenheit zwischen beiden recht mußte in die Augen springen. Beides erklärt einigermaßen, beides hat auch seine gro-
 
-a) Vergl, die oben angeführte Stelle Commevut. in Matth. zu 12, 18,
+[^756a]: Vergl. die oben angeführte Stelle Comment. in Matth. zu 12, 13.
 
 <!--- page 757 -->
-Papias Zeugniſſe von unſern beid. erſt. Evangelien. 757
+ßen Unwahrscheinlichkeiten; aber ich sehe kein drittes, und einer Erklärung bedürfen doch diese übel zusammenklingenden Angaben allemal. Nur so viel scheint mir festzustehen, daß mehrere Evangelienbücher ohnerachtet sehr bedeutender Verschiedenheiten doch so mit einander verwandt waren, daß sie insgesammt auf den Matthäus zurückgeführt wurden, daß einige[^757a] von diesen in aramäischer Sprache vorhanden waren und deshalb auch den gemeinsamen Namen καθ᾽ Ἑβραίους führten, daß der Apostel Matthäus keines von allen diesen verfaßt hat, sondern nur in aramäischer Sprache diejenige Sammlung von Reden und Aussprüchen Christi, welche Papias ihm zuschreibt, daß diese jener ganzen Familie von Evangelienbüchern zum Grunde gelegen hat, daß auch von unserm kanonischen Matthäusevangelium der eigentliche Verfasser unbekannt ist, und nicht bewiesen werden kann, es sey ebenfalls ursprünglich aramäisch abgefaßt worden, endlich daß Papias Schriften aus dieser Familie gekannt und sie unter der Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος mit zusamzusammengefaßt hat.
 
-ßen Unwahrſcheinlichkeiten 3 aber ich ſehe kein drittes,
-und einer Erklärung bedürfen doch dieſe übel zuſammen-
-klingenden Angaben allemal. Nur ſo viel ſcheint mir feſt-
-zuſtehen , daß mehrere Evangelienbücher ohnerachtet ſehr
-bedeutender Verſchiedenheiten doch ſo mit einander ver-
-wandt waren, daß ſie insgeſammt auf den Matthäus zu-
-rückgeführt wurden, daß einige a) von dieſen in aramäi-
-ſcher Sprache vorhanden waren und deshalb auch den
-gemeinſamen Namen xa9 Ἑβραίους führten, daß der
-Apoſtel Matthäus keines von allen dieſen verfaßt hat,
-ſondern nur in aramäiſcher Sprache diejenige Sammlung
-von Reden und Ausſprüchen Chriſti, welche Papias ihm
-zuſchreibt, daß dieſe jener ganzen Familie von Evange-
-lienbüchern zum Grunde gelegen hat, daß auch von un-
-ſerm kanoniſchen Matthäusevangelium der eigentliche Ver-
-faſſer unbekannt iſt, und nicht bewieſen werden kann, es
-ſey ebenfalls urſprünglich aramäiſch abgefaßt worden,
-endlich daß Papias Schriften aus dieſer Familie gekannt
-und ſie unter der Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο
-ἕκαστος mit zuſammengefaßt hat.
+Eben so wenig aber, glaube ich, dürfen wir uns bedenken zu behaupten, daß die Schrift des Matthäus auf die übrigen kanonischen Evangelien keinen ähnlichen Einfluß ausgeübt hat. Denn von Johannes ist nicht nöthig etwas zu sagen; der Verfasser unseres Lukas aber, von dem wir nicht einmal wissen, ob er des Aramäischen kundig gewesen, hat die Redensammlung, wenn auch gekannt, doch augenscheinlich nicht gebraucht, auch nicht
 
-Eben ſo wenig aber, glaube ich, dürfen wir uns be-
-denken zu behaupten, daß die Schrift des Matthäus auf
-die übrigen kanoniſchen Evangelien keinen ähnlichen Ein-
-fluß ausgeübt hat. Denn von Johannes iſt nicht nothig
-etwas zu ſagen; der Verfaſſer unſeres Lukas aber , von
-dem wir nicht einmal wiſſen, ob er des Aramäiſchen kuu-
-dig geweſen, hat die Redenſammlung, wenn auch ge-
-kannt, doch augenſcheinlich nicht gebraucht, auch nicht
-
-meme
-
-a) Denn der auch unvollſtändige Matthäus der Cerinthianer war
-wol ſchwerlich aramäiſch. Jrenäus freilich ſcheint Τὶ. 111. 11, 7.
-von dieſem zu ſagen , ſie hätten das Evangelium des Markus ge-
-braucht 3 allein dies kann, wenn er wirklich dieſe Secte meint,
-nur ein Mißverſtändniß ſeyn, da Epiphanius ausdrücktich ſagt,
-daß ſie den Matthäus wegen der ἔνσαρκος γενεαλογία gebrauchten.
+[^757a]: Denn der auch unvollständige Matthäus der Cerinthianer war wol schwerlich aramäisch. Irenäus freilich scheint T. III. 11, 7 von diesem zu sagen, sie hätten das Evangelium des Markus gebraucht; allein dies kann, wenn er wirklich diese Secte meint, nur ein Mißverständniß seyn, da Epiphanius ausdrücklich sagt, daß sie den Matthäus wegen der ἔνσαρκος γενεαλογία gebrauchten.
 
 <!--- page 758 -->
-758                       Schleiermacher
-
-brauchen können, da er viele Ausſprüche Chriſti, welche
-Matthäus gleich in ſeinem erſten Abſchnitt von ihrem ge-
-ſchichtlichen Zuſammenhang abgeriſſen mit ähnlichen ver-
-einigt gab, in ſeinen Materialien in ihrem wirklichen Zu-
-ſammenhange fand. Sein Verhältniß zu unſerm Mat-
-thäusevangelium aber, vornehmlich in den mehr erzäh-
-lenden Theilen, iſt eine hieher gar nicht gehörige Frage.
-Näher unſerm Gegenſtand verwandt wäre -es zu erfor-
-ſchen, ob die im Lukas vorkommenden Gleichniſſe und au-
-derweitigen Reden Chriſti, welche unſer Matthäusevange-
-lium nicht kennt, nur von dem Berfaſſer des leßteren
-übergangen worden , oder ob und warum ſie auch in der
-Sammlung des Apoſtels gefehlt haben. Was endlich den
-Markus betrifft : y, führt das Zeugniß unſeres Papias
-uns gänzlich von Matthäus ab auf eine andere Quelle
-hin.
-τς Dieſes Zeugniß iſt nun ausführlich genug, aber auch
-nicht minder ſchwierig, und theils wol deshalb, theils auch
-„weil man unſer Markusevangelium faſt immer nur in
-Bezug auf die beiden andern zu betrachten pflegt, weni-
-ger, als οὐ mir zu verdienen ſcheint, berückſichtiget wor-
-den. Papias nämlich handelt von einer. Schrift eines
-Maxkus , deren Entſtehung er ziemlich genau beſchreibt,
-und von der er mit einem ſolchen Intereſſe ſpricht, wie
-er ſchwerlich würde gethan haben, wenn er ſie nicht ſelbſt
-gekannt hätte. Ob aber dieſe Schrift unſer gegenwärti-
-es Markusevangelium iſt, das iſt mir wenigſtens im
-ΝΑ Grade zweifelhaft; und muß die Frage verneint
-werden, ſo entſteht dann die zweite Frage, wie ſich un-
-ſer Evangelium zu jener Schrift verhält; eine Frage, mit
-deren Beantwortung wir ſchwerlich ſo weit kommen wer-
-den als beim Matthäus möglich war. Die Entſtehung
-der Schrift beſchreibt er folgendermaßen. Ein Mar-
-kus -- ob das neue Teſtament dieſes Namens nur Einen
-erwähnt oder mehrere und ob der unſrige dieſer oder ei-
-
+brauchen können, da er viele Aussprüche Christi, welche Matthäus gleich in seinem ersten Abschnitt von ihrem geschichtlichen Zusammenhang abgerissen mit ähnlichen vereinigt gab, in seinen Materialien in ihrem wirklichen Zusammenhange fand. Sein Verhältniß zu unserm Matthäusevangelium aber, vornehmlich in den mehr erzählenden Theilen, ist eine hieher gar nicht gehörige Frage. Näher unserm Gegenstand verwandt wäre -es zu erforschen, ob die im Lukas vorkommenden Gleichnisse und auderweitigen Reden Christi, welche unser Matthäusevangelium nicht kennt, nur von dem Berfasser des leßteren übergangen worden, oder ob und warum sie auch in der Sammlung des Apostels gefehlt haben. Was endlich den Markus betrifft: y, führt das Zeugniß unseres Papias uns gänzlich von Matthäus ab auf eine andere Quelle hin. τς Dieses Zeugniß ist nun ausführlich genug, aber auch nicht minder schwierig, und theils wol deshalb, theils auch „weil man unser Markusevangelium fast immer nur in Bezug auf die beiden andern zu betrachten pflegt, weniger, als es mir zu verdienen scheint, berücksichtiget worden. Papias nämlich handelt von einer. Schrift eines Markus, deren Entstehung er ziemlich genau beschreibt, und von der er mit einem solchen Interesse spricht, wie er schwerlich würde gethan haben, wenn er sie nicht selbst gekannt hätte. Ob aber diese Schrift unser gegenwärties Markusevangelium ist, das ist mir wenigstens im ΝΑ Grade zweifelhaft; und muß die Frage verneint werden, so entsteht dann die zweite Frage, wie sich unser Evangelium zu jener Schrift verhält; eine Frage, mit deren Beantwortung wir schwerlich so weit kommen werden als beim Matthäus möglich war. Die Entstehung der Schrift beschreibt er folgendermaßen. Ein Markus -- ob das neue Testament dieses Namens nur Einen erwähnt oder mehrere und ob der unsrige dieser oder ei-
 <!--- page 759 -->
-Papias Zeugniſſe von unſern beid, erſt. Evangelien. 759
+ner von diesen ist, das kann vor der Hand ganz gleiche gültig seyn, aber Einer dieses Namens, sagt Papias, sey ( ver ἑρμηνευτής des Petrus gewesen; und hier trage ich | allerdings kein Bedenken das Wört durch Dolmetscher zu Ὁ übertragen. Denn es folgt hernach ausdrücklich, er habe den Petrus begleitet, also ist auch ἑρμηνευτής so zu verstehen wie es sich hiezu schi>t. Einen Erklärer oder Commentator brauchte Petrus nicht, wo er selbst war, und schwerlich läßt sich ein anderes Verhältniß denken, als daß er der Sprache wegen einen brauchte, der ihn verständlich machte, und auch wol keine andere Sprache als die griechische, deren deshalb Petrus nicht ganz unfundig gewesen zu seyn braucht, um doch eines zu bedürfen, der dasjenige dolmetschte, was er geläufig nur in seiner Muttersprache auszudrücken wußte, und der ihm einhalf, wenn ihm irgendwo 'ein Ausdruck abging. Nun habe Petrus, wie es das Bedürfniß seiner Belehrungen mit sich brachte, in denselben auch Reden, und Thaten Christi angeführt; und was hievon Markus mit seinem Gedächtniß aufgefaßt, das habe er genau niedergeschrieben, ἀκριβῶς ἔγραψε sagt Papias οὐ μέντοι τάξει.[^759a] ἃ). Der Sinn dieser letzten Worte muß vorzüglich festgestellt werden; aber ich glaube, wenn man alles zusammennimmt, können sie unmöglich etwas anderes heißen als nür vereinzelt ohne Zusammenhang[^759b]. Es könnte zwar an und für sich betrachtet auch heißen, nicht in der gehörigen Ordnung, und dann wäre der Sinn,.daß Markus die
 
-ner von dieſen iſt, das kann vor ver Hand ganz gleiche
-gültig ſeyn, aber Einer dieſes Namens, ſagt Papias, ſey (
-ver ἑρμηνευτής des Petrus geweſen; und hier trage ich |
-allerdings kein Bedenken das Wört durch Dolmetſcher zu Ὁ
-übertragen. Denn es folgt hernach ausdrücklich, er habe
-den Petrus begleitet, alſo iſt auch ἑρμηνευτής ſo zu ver-
-ſtehen wie es ſich hiezu ſchi>t. Einen Erklärer oder Com-
-mentator brauchte Petrus nicht, wo er ſelbſt war, und
-ſchwerlich läßt ſich ein anderes Verhältniß denken , als
-daß er der Sprache wegen einen brauchte, der ihn ver-
-ſtändlich machte, und auch wol keine andere Sprache als
-die griechiſche, deren deshalb Petrus nicht ganz unfun-
-dig geweſen zu ſeyn braucht, um doch eines zu bedürfen,
-der dasjenige dolmetſchte , was er geläufig nur in ſeiner
-Mutterſprache auszudrücken wußte , und der ihm einhalf,
-wenn ihm irgendwo 'ein Ausdruck abging. Nun habe
-Petrus, wie es das Bedürfniß ſeiner Belehrungen mit
-ſich brachte , in denſelben auch Reden, und Thaten Chriſti
-angeführt; und was hievon Markus mit ſeinem Gedächt-
-niß aufgefaßt, das habe er genau  niedergeſchrieben,
-ἀκριβῶς ἔγραψε ſagt Papias οὐ μέντοι τάξει ἃ). Der
-Sinn dieſer letzten Worte muß vorzüglich feſtgeſtellt wer-
-den; aber ich glaube, wenn man alles zuſammennimmt,
-können ſie unmöglich etwas anderes heißen als nür ver-
-einzelt ohne Zuſammenhang »). Es könnte zwar an und
-für ſich betrachtet auch heißen, nicht in der gehörigen
-Ordnung , und dann wäre der Sinn, .daß Markus die
+[^759a]: Daß das Punkt hinter ἔγραψε gelöscht werden muß, bedarf keiner Erwähnung.
 
-a) Daß das Punkt hinter ἔγραψε geldſcht werden muß, bedarf kei-
-ner Erwähnung,              :     ;
-
-b) Das weſentliche in der  militäriſchen Bedeutung von τάξει
-ſcheint überall das geſchloſſene Glied zu ſeyn, So kommt auch
-τάξει vor dem σποράδην entgegengeſeßt (Polyb. 10, 80. 9.)z
-was alſo οὐ τάξει ſt, das iſt σποράδην „“ vereinzelt, zerſtreut,
-jedes für ſich«
+[^759b]: Das wesentliche in der militärischen Bedeutung von τάξις scheint überall das geschlossene Glied zu seyn. So kommt auch τάξει dem σποράδην entgegengesetzt vor (Polyb. 10, 30, 9); was also οὐ τάξει ist, das ist σποράδην, „vereinzelt, zerstreut, jedes für sich.“
 
 <!--- page 760 -->
-760                      Schleiermacher
+richtige Zeitordnung oft verfehlt oder eine sachliche Ordnung, die er eingeleitet, nicht festgehalten habe. Allein was Petrus oder vielmehr der πρεσβύτερος, aus dessen Munde jener referirt, zur Entschuldigung des Markus sagt, führt offenbar auf jenes, wie auch der ganze Zusammenhang der Rede. Petrus kann doch in seinen Lehrvorträgen, die er nach dem Bedürfniß einrichtete, und bei denen es- gar nicht auf eine geschichtliche Zusammenstellung der Reden des Herrn abgesehen war[^760a], aus dem Leben Christi immer nur einzelnes als Beispiel oder des Beweises halber anführen; und wenn nun Markus keine andere Quelle hatte, wie sollte er auch nur auf den Gedanken kommen, aus solchen Bruchstücken eine zusammenhängende Geschichte zu machen? Eben dieser gänzliche Mangel einer andern Quelle für seine Aufzeichnung wird hier auf das bestimmteste vorausgesetzt, und nur um jeden Gedanken an das „Gegentheil abzuweisen, sagt der Referent ausdrücklich, Markus habe Jesum selbst niemals gehört, sey ihm auch niemals nachgefolgt, sondern nur späterhin dem Petrus[^760b],
 
-richtige Zeitordnung oft verfehlt oder eine ſachliche Ordnung,
-die er eingeleitet, nicht feſtgehalten habe. Allein was Pe-
-trus oder vielmehr der πρεσβύτερος, aus deſſen Munde
-jener referirt, zur Entſchuldigung des Markus ſagt, führt
-offenbar auf jenes, wie auch der ganze Zuſammenhang
-der Rede. Petrus kann doh in ſeinen Lehryorträgen, die
-er nach dem Bedürfniß einrichtete, und bei denen es- gar
-nicht auf eine geſchichtliche Zuſammenſtellung der Reden
-des Heryn abgeſehen war a), aus dem Leben Chriſti im-
-mer nur einzelnes als Beiſpiel oder des Beweiſes halber
-anführen; und wenn nun Markus keine andere Quelle
-hatte , wie ſollte er auch nur auf den Gedanken kommen,
-aus ſolchen Bruchſtücken eine zuſammenhängende Geſchichte
-zu machen? Eben dieſer gänzliche Mangel einer andern
-Quelle für ſeine Aufzeichnung wird hier auf das beſtimm-
-teſte vorausgeſeßt, und nur um jeden Gedanken an das
-„Gegentheil abzuweiſen, ſagt der Referent ausdrücklich,
-Markus habe Jeſum ſelbſt niemals gehört , ſey ihm auch
-niemals nachgefolgt, ſondern nur ſpäterhin dem Petrus b),
+Nicht minder deutlich zielt eben darauf das Folgende. Denn wenn gesagt wird, Markus habe seine Achtsamkeit ganz darauf verwendet, nichts was er gehört hatte zu
 
-Nicht minder deutlich zielt eben darauf das Folgende.
-Denn wenn geſagt wird , Markus habe ſeine Achtſamkeit
-ganz darauf verwendet, nichts was er gehört hatte zu
+[^760a]: ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ᾽ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν λόγων ποιούμενος.
 
-a) ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ᾽ οὐχ ὥςπερ
-σύνταξιν ποιούμενος τῶν κυριακῶν λόγων.
-
-9) οὔτε γὰρ ἤκουσε τοῦ κυρίου, οὔτε παρηκολούϑησεν αὐτῷ"
-ὕστερον δὲ, ὡς ἔφην, Πέτρῳ. --- Uebrigens iſt ſchwer zu glau-
-ben, daß ein Bekannter und Zeitgenoſſe der Apoſtel , und auf
-einen ſolchen ſagt doch Papias hier aus , von dem Johannes
-Markus, deſſen Mutter ein Haus in Jeruſalem hatte, und mit
-den erſten Jüngern ſo befreundet war, daß dieſe ſich bei ihr
-verſammelten und Petrus nach ſeiner Befreiung die Brüder
-gleich dort aufſuchte, ſo beſtimmt ſollte behauptet haben , er
-habe den Herrn ſelbſt nie gehört, Alſo dieſer Johannes mit
-dem Beinamen Markus iſt jen gg Μη ἊΝ dex) von dem
-die Rede iſt.  !                      )
+[^760b]: οὔτε γὰρ ἤκουσε τοῦ κυρίου, οὔτε παρηκολούθησεν αὐτῷ· ὕστερον δὲ, ὡς ἔφην, Πέτρῳ. — Uebrigens ist schwer zu glauben, daß ein Bekannter und Zeitgenosse der Apostel, und auf einen solchen sagt doch Papias hier aus, von dem Johannes Markus, dessen Mutter ein Haus in Jerusalem hatte, und mit den ersten Jüngern so befreundet war, daß diese sich bei ihr versammelten und Petrus nach seiner Befreiung die Brüder gleich dort aufsuchte, so bestimmt sollte behauptet haben, er habe den Herrn selbst nie gehört. Also dieser Johannes mit dem Beinamen Markus ist nicht der, von dem die Rede ist.
 
 <!--- page 761 -->
-Papias Zeugniſſe von unſern beid. erſt. Evangelien. 761
+übergehen und nichts darin zu fälschen[^761a] 3): so hat er auf jenes andere, das, was er einzeln und in die Belehrungen des Apostels verflochten gehört hatte, unter sich in Verbindung zu bringen, gar nicht Bedacht genommen. Offenbar liegt auch in dieser Erzählung des Papias, daß Petrus an dieser Schriftstellung des Markus gar keinen Theil weiter genommen 3 ganz gegen das, was die Spätern nach der gewöhnlichen Art, in die Quellen noch von ihrem Wasser zuzugießen, auch hieraus gemacht haben. Denn alles, was zu Gunsten des Markus gesagt wird, könnte ihn auch nicht im geringsten wegen des Mangels an τάξις entschuldigen, wenn Petrus mit Hand angelegt hätte. Darum muß man eher glauben, Markus habe nur hinter dem Rücken des Petrus, 5. ἡ vielleicht erst als er nicht mehr mit ihm in dieser Verbindung stand, das Gehörte niedergeschrieben.
 
-übergehen und nichts darin zu fälſchen 3): ſo hat er
-auf jenes andere, das, was er einzeln und in die Be-
-lehrungen des Apoſtels verflochten gehört hatte, unter ſich
-in Verbindung zu bringen, gar nicht Bedacht genommen.
-Offenbar liegt auch in dieſer Erzählung des Papias, daß
-Petrus an dieſer Schriftſtellung des Markus gar keinen
-Theil weiter genommen 3 ganz gegen das, was die Spä-
-tern nach der gewöhnlichen Art, in die Quellen noch von
-ihrem Waſſer zuzugießen , auch hieraus gemacht haben.
-Denn alles, was zu Gunſten des Markus geſagt wird,
-könnte ihn auch nicht im geringſten wegen des Mangels
-an τάξις entſchuldigen, wenn Petrus mit Hand angelegt
-hätte. Darum muß man eher glauben, Markus habe nur
-hinter dem Rücken des Petrus, 5. ἡ vielleicht erſt als er
-nicht mehr mit ihm in dieſer Verbindung ſtand,  das Ge-
-hörte niedergeſchrieben.
+Was war also diese Schrift des Markus, welche/ Papias uns beschreibt? Eben so wenig unser Markusevangelium, wie die andere unser Matthäusevangelium;
 
-Was war alſo dieſe Schrift des Markus, welche/
-Papias uns beſchreibt? Eben ſo wenig unſer Markus-
-evangelium, wie die andere unſer Matthäusevangeliumz
+sondern auch eine Sammlung, eine Sammlung von eins
 
-ſondern auch eine Sammlung, eine Sammlung von eins
+zelnen Zügen aus dem Leben Christi, gesprochenes und θὲ: thanes[^761b], genau so wiedergegeben wie Petrus sie in seine Lehrvorträge eingestreut hatte, weder zu einem fortlaufenden Ganzen verbunden, noch "auch in bestimmten -Abschnitten sey es nach der Zeitfolge oder nach einer sachli- <hen Ordnung gestellt, sondern aufgeschrieben, wie sie einzeln in der Erinnerung hervortraten[^761c]. Und aufgezeich-
 
-zelnen Zügen aus dem Leben Chriſti, geſprochenes und θὲ:
-thanes b), genau ſo wiedergegeben wie Petrus ſie in ſeine
-Lehrvorträge eingeſtreut hatte,  weder zu einem fortlau-
-fenden Ganzen verbunden , noch "auch in beſtimmten -Ab-
-ſchnitten ſey es nach der Zeitfolge oder nach einer ſachli-
-<hen Ordnung geſtellt, ſondern aufgeſchrieben, wie ſie ein-
-zeln in der Erinnerung hervortraten c). Und aufgezeich-
+[^761a]: ἑνὸς γὰρ ἐποιήσατο πρόνοιαν τοῦ μηδὲν ὧν ἤκουσε παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς.
 
-a) ἕνὸς γὰρ ἐποιήσατο πρόνοιαν τοῦ μηδὲν ὧν ἤκουσε παραλι-
-πεῖν, ἢ ψεύσασϑαί τι ἐν αὐτοῖς.
+[^761b]: ἢ λεχθέντα ἢ πραχθέντα.
 
-b) ἢ λεχϑέντα 7) πραχϑέντα.
-
-ὁ) ὥςτε οὐδὲν ἥμαρτε Μάρκος, οὕτως ἔνια γράψας εἷς ἀπε-
-μνημόνευσεν. Auch dieſes ἔνια kann ja offenbar nicht ſo ver-
-ſtanden werden , als ob er anderes auch wol anders geſchrieben
+[^761c]: ὥστε οὐδὲν ἥμαρτε Μάρκος οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν. Auch dieses ἔνια kann ja offenbar nicht so verstanden werden, als ob er anderes auch wol anders geschrieben als er sich erinnerte; sondern alles zwar schrieb er so, aber er schrieb überhaupt nur ἔνια.
 
 <!--- page 762 -->
-762                       Schleiermacher
+net hat er sie wahrscheinlich griechisch, theils weil des aramäischen als des seltneren wol ausdrücklich würde gedacht worden seyn, theils auch weil wir schon deshalb, weil Markus dem Apostel als Dolmetscher diente, voraussezen müssen, daß ihm das griechische das gewohntere war. So wäre denn diese Aussage des Papias freilich, wenigstens unmittelbar, keine Bewährung für unser Mareusevangelium; allein sie muß uns mehr werth-seyn, als wenn sie nur jenes wäre. Denn wir können nunmehro nachweisen, was wir sonst nur als eine in hohem Grade wahrscheinliche Vermuthung aufstellen dürften, daß nämlich solche Sammlungen wie diese beiden Sammlungen von Reden und Sprüchen und' Sammlungen von einzelnen Zügen und Thaten der zusammenhangenden Evangelienschreibung nac< Art unserer synoptischen natürlich vorangegangen sind, weil in diesen Zeiten überwiegender "> x» Verkündigungsthätigkeit die schriftliche Auffassung nur auf eine sehr beschränkte Weise des Bedürfnisses wegen Raum fand. Aber nicht nur dieses, sondern auch daß die apostolische Predigt selbst eine Hauptquelle war für die Überall die Verkündigung des Christenthums begleitende und. vornämlich da, wo nur erst ein unbestimmter Ruf von. Christo hingedrungen war, sie wesentlich unterstüzende evangelistische Erzählung und dann auch allmählig Geschichtschreibung. Wenn Markus, wie doch das wahrscheinlichste ist, no<h als Dolmetscher des Petrus schrieb: so konnte er auch nicht anders als die Zeit dazu sich gleichsam abstehlen, und es wäre das unwahrscheinlichste von der Welt, daß er aus den Materialien, die er von Petrus auffing, sollte eine solche Schrift wie unser Evangelium gemacht haben; vielmehr ist das natürlichste grade das, was uns Papias erzählt, daß er sich gern begnügte,
 
-net hat er ſie wahrſcheinlich griechiſch, theils weil des ara-
-mäiſchen als des ſeltneren wol ausdrücklich würde gedacht
-worden ſeyn, theils auch weil wir ſchon deshalb, weil
-Markus dem Apoſtel als Dolmetſcher diente, vorausſezen
-müſſen, daß ihm das griechiſche das gewohntere war.
-So wäre denn dieſe Ausſage des Papias freilich,
-wenigſtens unmittelbar, keine Bewährung für unſer Mar-
-eusevangeliumz allein ſie muß uns mehr werth-ſeyn, als
-wenn ſie nur jenes wäre. Denn wir können nunmehro
-nachweiſen, was wir ſonſt nur als eine in hohem Grade
-wahrſcheinliche Vermuthung aufſtellen dürften , daß näm-
-lich ſolche Sammlungen wie dieſe beiden Sammlungen
-von Reden und Sprüchen und' Sammlungen von einzel-
-nen Zügen und Thaten der zuſammenhangenden Evange-
-lienſchreibung nac< Art unſerer ſynoptiſchen natürlich
-vorangegangen ſind , weil in dieſen Zeiten überwiegender
-"> x» Verkündigungsthätigkeit die ſchriftliche  Auffaſſung  nur
-auf eine ſehr beſchränkte Weiſe des Bedürfniſſes wegen
-Raum fand. Aber nicht nur dieſes, ſondern auch daß die
-apoſtoliſche Predigt ſelbſt eine Hauptquelle war für die
-Überall die Verkündigung des Chriſtenthums begleitende
-und. vornämlich da, wo nur erſt ein unbeſtimmter Ruf
-von. Chriſto hingedrungen war, ſie weſentlich unterſtü-
-zende evangeliſtiſche Erzählung und dann auch allmählig
-Geſchichtſchreibung. Wenn Markus, wie doch das wahr-
-ſcheinlichſte iſt, no<h als Dolmetſcher des Petrus ſchrieb :
-ſo konnte er auch nicht anders als die Zeit dazu ſich
-gleichſam abſtehlen , und es wäre das unwahrſcheinlichſte
-von der Welt, daß er aus den Materialien, die er von
-Petrus auffing, ſollte eine ſolche Schrift wie unſer Evan-
-gelium gemacht haben; vielmehr iſt das natürlichſte grade
-das, was uns Papias erzählt, daß er ſich gern begnügte,
-
-als ev. ſich erinnerte; ſondern alles zwar ſchrieb er ſo, aber er
-ſchrieb überhaupt nur ἔνια.
-
+als ev. sich erinnerte; sondern alles zwar schrieb er so, aber er schrieb überhaupt nur ἔνια.
 <!--- page 763 -->
-Papias Zeugniſſe von. unſern beid, erſt. Evangelien. 763
+nur was "ihm grade exinnerlich- wurde, wenn er Muße
 
-nur was "ihm grade exinnerlich- wurde , wenn er Muße
+gewann, möglichst genau niederzuschreiben. Auch: dachte er
 
-gewann, möglichſt genau niederzuſchreiben. Auch: dachte er
+dabei gewiß nicht an ein eigentliches Publicum,“ an eine
 
-dabei gewiß nicht an ein eigentliches Publicum ,“ an eine
+öffentliche Bekanntmachung, Foudern beabsichtigte, außer?
 
-öffentliche Bekanntmachung , Foudern beabſichtigte , außer?
-
-dem daß er das gehörte für ſich-ſelbſt feſthalten wollte,
-zunächſt nur Mittheilung amdiejenigen , welche ſich dem
-Geſchäft der Evangeliſten widmeten. Und auch für, dieſe
-war die vereinzelte Aufzeichnung das angenehmſte z/ denn
-ſo konnte jeder jedes nach ſeiner, beſonderen Vortrags-
-weiſeund ſeinen Zwecken-gemäß ſich ſelbſt einreihen, wie
-ich denn: ſolche nach verſchiedenen Geſichtspunkten ges
-machte Zuſammenſtellungen einzelner Züge von der Art,
-wie Markus ſie lieferte ,- in unſerm Lukasevangelium
-nachgewieſen zu haben hoffe. Wenn nun aber jemand
-dieſe Aufzeichnungen von Markus erhielt mit der Nach»
-richt, es ſey alles aus dem Munde des Petrus , und ein
-ſolcher ſchrieb nun eine zuſammenhängende Geſchichte
-Chriſti, welche aber vorzüglich dieſe Sammlung enthielt
-und..nur ſoviel als nöthig anderes aufnahm :--ſo konnte
-eine ſolche Schrift mit vollem Recht ein εὐαγγέλιον κατὰ
-Πέτρον heißen. Schwerlich hat man Grund genug. ge-
-habt, von der Schrift, welche unter dieſem Titel vorhan-
-den geweſen iſt, zu behaupten, daß, ſie auch unſerm Mat-
-thäus verwandt geweſenz. ich würde ihr lieber den eben
-bezeichneten Urſprung zuweiſen. Und eben ſo wie Mar-
-kus werden es auch wol die Gehülfen anderer Apoſtel
-gemacht haben. Kamen nun - dergleichen. Sammlungen
-ſolchen in die Hände, die ächtes und unächtes nicht ge-
-hörig zu unterſcheiden wußten, oder die gar ſelbſt von
-irrigen Meinungen über Chriſtus befangen waren: ſo
-konnten unter apoſtoliſchen Namen Evangelien erſcheinen,
-wie κατὰ Θωμᾶν oder κατὰ Βαρϑολομαῖον, welche die
-Kirche als apokryphiſc<h verwerfen) mußte, ohne daß-man
-dennoch ſtreng genommen ſagen konnte, daß ſie jenen Apo-
-ſteln wären untergeſchoben worden,
-
-Theol, Stud, Jahrs, 1802,             50
-
+dem daß er das gehörte für sich-selbst festhalten wollte, zunächst nur Mittheilung amdiejenigen, welche sich dem Geschäft der Evangelisten widmeten. Und auch für, diese war die vereinzelte Aufzeichnung das angenehmste z/ denn so konnte jeder jedes nach seiner, besonderen Vortragsweiseund seinen Zwecken-gemäß sich selbst einreihen, wie ich denn: solche nach verschiedenen Gesichtspunkten ges machte Zusammenstellungen einzelner Züge von der Art, wie Markus sie lieferte,- in unserm Lukasevangelium nachgewiesen zu haben hoffe. Wenn nun aber jemand diese Aufzeichnungen von Markus erhielt mit der Nach» richt, es sey alles aus dem Munde des Petrus, und ein solcher schrieb nun eine zusammenhängende Geschichte Christi, welche aber vorzüglich diese Sammlung enthielt und..nur soviel als nöthig anderes aufnahm:--so konnte eine solche Schrift mit vollem Recht ein εὐαγγέλιον κατὰ Πέτρον heißen. Schwerlich hat man Grund genug. gehabt, von der Schrift, welche unter diesem Titel vorhanden gewesen ist, zu behaupten, daß, sie auch unserm Matthäus verwandt gewesenz. ich würde ihr lieber den eben bezeichneten Ursprung zuweisen. Und eben so wie Markus werden es auch wol die Gehülfen anderer Apostel gemacht haben. Kamen nun - dergleichen. Sammlungen solchen in die Hände, die ächtes und unächtes nicht gehörig zu unterscheiden wußten, oder die gar selbst von irrigen Meinungen über Christus befangen waren: so konnten unter apostolischen Namen Evangelien erscheinen, wie κατὰ Θωμᾶν oder κατὰ Βαρϑολομαῖον, welche die Kirche als apokryphisc<h verwerfen) mußte, ohne daß-man dennoch streng genommen sagen konnte, daß sie jenen Aposteln wären untergeschoben worden,
 <!--- page 764 -->
 "
 
-764                      Schleiermacher
+Es soll mir zwar gar: nicht unerwartet seyn, wenn diejenigen, die sich von gewohnten Vorstellungen nicht losmachen können, hierüber nicht anders urtheilen, als daß ich mittelst eigner Erfindungen aus unbedeutenden Zeilen eines unzuverlässigen Schriftstellers einen“ganzen Roman gebildet hätte: allein mich will es bedünken, daß in allem, was sonst seit geraumer Zeit über unsere Evangelien gesagt worden, mehr erfundenes ist als in dieser Darstellung, und was den Papias betrifft, so sind diese Aussagen nicht von der Art, daß jemand könnte eine Absicht gehabt haben, ihm etwas hierüber aufzubinden, das rechte wissen konnten aber seine Abnehmer allerdings. Soll aber nun die Frage beantwortet werden, ob auch unser Mar» kusevangelium wegen seiner Verwandtschaft mit der von Papias“ beschriebenen Schrift zu diesem Namen gelangt sey, öder gänz unabhängig hievon: so ist freilich große
 
-Es ſoll mir zwar gar: nicht unerwartet ſeyn, wenn
-diejenigen, die ſich von gewohnten Vorſtellungen nicht los-
-machen können, hierüber nicht anders urtheilen , als daß
-ich mittelſt eigner Erfindungen aus unbedeutenden Zeilen
-eines unzuverläſſigen Schriftſtellers einen“ganzen Roman
-gebildet hätte: allein mich will es bedünken, daß in allem,
-was ſonſt ſeit geraumer Zeit über unſere Evangelien ge-
-ſagt worden, mehr erfundenes iſt als in dieſer Darſtel-
-lung , und was den Papias betrifft, ſo ſind dieſe Aus-
-ſagen nicht von der Art, daß jemand könnte eine Abſicht
-gehabt haben, ihm etwas hierüber aufzubinden, das rechte
-wiſſen konnten aber ſeine Abnehmer allerdings. Soll aber
-nun die Frage beantwortet werden, ob auch unſer Mar»
-kusevangelium wegen ſeiner Verwandtſchaft mit der von
-Papias“ beſchriebenen Schrift zu dieſem Namen gelangt
-ſey, öder gänz unabhängig hievon: ſo iſt freilich große
+7 Behutsamkeit nöthig. Ist es nämlich so entstanden aus
 
-7 Behutſamkeit nöthig. Iſt es nämlich ſo entſtanden aus
+dieser Sammlung wie das Matthäusevangelium aus jener: so konnte es eben sos gut von dem Verfasser der Sammlung ein Εὐαγγέλιον κατὰ Μάρκον heißen als von deren Gewährsmann und erstem Autor eines κατὰ ΠΈέτρον. Es müßte dann, um die Frage zu beantworten, zunächst untersucht werden, was für Elemente unseres. Markus sich wol dafür ansehen lassen, daß sie auf diese Weise aus den Reden des Petrus könnten genommen seyn. Ohnstreitig ist diese Frage weit schwieriger als die verwandte beim Matthäusevangelium; und indem ich sie hier nur aufstelle, da meine Absicht nur dahin ging, zu zeigen, daß die Aussage des Papias sich nicht auf unser Evangelium unmittelbar beziehen könne, begnüge ich mich schließlich, nur auf ein Paar dahin gehörige Punkte aufmerksam zu machen.
 
-dieſer Sammlung wie das Matthäusevangelium aus je-
-ner: ſo konnte es eben ſos gut von dem Verfaſſer der
-Sammlung ein Εὐαγγέλιον κατὰ Μάρκον heißen als von
-deren Gewährsmann und erſtem Autor eines κατὰ ΠΈέ-
-τρον. Es müßte dann, um die Frage zu beantworten,
-zunächſt unterſucht werden, was für Elemente unſeres.
-Markus ſich wol dafür anſehen laſſen, daß ſie auf dieſe
-Weiſe aus den Reden des Petrus könnten genommen
-ſeyn. Ohnſtreitig iſt dieſe Frage weit ſchwieriger als die
-verwandte beim Matthäusevangelium; und indem ich ſie
-hier nur aufſtelle, da meine Abſicht nur dahin ging, zu
-zeigen, daß die Ausſage des Papias ſich nicht auf unſer
-Evangelium unmittelbar beziehen könne, begnüge ich mich
-ſchließlich, nur auf ein Paar dahin gehörige Punkte auf-
-merkſam zu machen.
-
-Zuerſt nämlich ſcheint der Umſtand, daß unſer Evan-
-gelium wenig längere''Reden Chriſti enthält, für ſeine
-Entſtehung aus der Sammlung des Markus zu ſprechen.
-
+Zuerst nämlich scheint der Umstand, daß unser Evangelium wenig längere''Reden Christi enthält, für seine Entstehung aus der Sammlung des Markus zu sprechen.
 <!--- page 765 -->
-Papias Zeugniſſe von unſern beid. erſt. Evangelien. 765
-
-Dennvergleichen ſich über mehrerlei Gegenſtände verbreitende
-Discurſe konnte Petrus nicht füglich in ſeinen Didaskalien
-mitgetheilt haben; und wo wir dennoch in unſerm Evang
-lium dergleichen finden, würden wir ſie vorläufig als-hinzu-
-gekommene Beſtandtheile anzuſehen haben.  Bei den: Er-
-zählungen, an welchen es bei weitem reicher iſt, würde
-zunächſt nicht ſowol darauf zu Fehen ſeyn, ob ſie vieles
-enthielten, was die Perſönlichkeit des Petrus betrifft,
-oder was- er allein wiſſen konnte, ſondern vielmehr nur
-darauf, ob Petrus ſie konnte als Vorbilder , < um zur
-Nachahmung Chriſti aufzufordern, gebraucht haben, oder
-ob ſie ſolche Ausſprüche Chriſti enthalten , durch welche
-Petrus ſeine Einrichtungen, Vorſchriften und Lehren kounte
-begründen wollen. Kommt dann noch dazu, daß die Dar-
-ſtellung das freilich nicht leicht zu beſchreibende, aber doch
-bei einiger Uebung ſehr leicht zu unterſcheidende Gepräge
-trägt, woran wir erkennen, was von einem Ohren- und
-Augenzeugen berichtet wird: [0 würden ſolche Erzählun-
-gen ganz vorzüglich der urſprünglichen Sammlung“ des
-Markus zuzuweiſen ſeyn. Und fände ſich dann, daß der
-' Verbindung ſolcher Stücke mit andern auch die Anſchau-
-lichkeit und Sicherheit fehlt, durch welche ſich das Evan-
-gelium des Johannes in dieſer Hinſicht ſo. gänzlich. von
-ven andern unterſcheidet: ſo würde dieſes dann noch εἰν
-nen neuen Beweis dafür liefern , «daß das Evangelium
-in der That auf dieſe Art zuſammengeſeßt iſt... So. wie
-hingegen, je mehr alles ſchiene aus Einem Guß zu ſeyn,
-um deſto eher würden wir uns genöthigt finden, zu der
-entgegengeſezten Vorausſeung unſere Zuflucht“ zu -neh-
-men, daß die von „Papias beſchriebene Schrift mit un-
-ſerm Markusevangelium gar nichts zu ſchaffen habe, und
-daß die Gleichheit des Namens nur einer von jenen ſon-
-derbaren Zufällen ſey , dem wir es übrigens: doch allein
-zu verdanken hätten, daß Euſebius uns jene Stelle des
-Papias aufbehalten. Allein das fritiſche Gefühl iſt über
-50 "
-
+Dennvergleichen sich über mehrerlei Gegenstände verbreitende Discurse konnte Petrus nicht füglich in seinen Didaskalien mitgetheilt haben; und wo wir dennoch in unserm Evang lium dergleichen finden, würden wir sie vorläufig als-hinzugekommene Bestandtheile anzusehen haben. Bei den: Erzählungen, an welchen es bei weitem reicher ist, würde zunächst nicht sowol darauf zu Fehen seyn, ob sie vieles enthielten, was die Persönlichkeit des Petrus betrifft, oder was- er allein wissen konnte, sondern vielmehr nur darauf, ob Petrus sie konnte als Vorbilder, < um zur Nachahmung Christi aufzufordern, gebraucht haben, oder ob sie solche Aussprüche Christi enthalten, durch welche Petrus seine Einrichtungen, Vorschriften und Lehren kounte begründen wollen. Kommt dann noch dazu, daß die Darstellung das freilich nicht leicht zu beschreibende, aber doch bei einiger Uebung sehr leicht zu unterscheidende Gepräge trägt, woran wir erkennen, was von einem Ohren- und Augenzeugen berichtet wird: [0 würden solche Erzählungen ganz vorzüglich der ursprünglichen Sammlung“ des Markus zuzuweisen seyn. Und fände sich dann, daß der ' Verbindung solcher Stücke mit andern auch die Anschaulichkeit und Sicherheit fehlt, durch welche sich das Evangelium des Johannes in dieser Hinsicht so. gänzlich. von ven andern unterscheidet: so würde dieses dann noch εἰν nen neuen Beweis dafür liefern, «daß das Evangelium in der That auf diese Art zusammengesetzt ist... So. wie hingegen, je mehr alles schiene aus Einem Guß zu seyn, um desto eher würden wir uns genöthigt finden, zu der entgegengesezten Vorausseung unsere Zuflucht“ zu -nehmen, daß die von „Papias beschriebene Schrift mit unserm Markusevangelium gar nichts zu schaffen habe, und daß die Gleichheit des Namens nur einer von jenen sonderbaren Zufällen sey, dem wir es übrigens: doch allein zu verdanken hätten, daß Eusebius uns jene Stelle des Papias aufbehalten. Allein das fritische Gefühl ist über
 <!--- page 766 -->
-"wd
+766 "0 Schleiermacher
 
-Y
+dergleichen Gegenstände noch immer so wenig übereinstimmend ausgebildet unter uns / daß leicht, wenngleich dieselbe Regel anerkennend, der“Eine zu diesem der Andere zu' dem entgegengesetzten Resultat kommen wird. Nur dieses möchte ich, damit die Untersuchung desto unbefangener geführt werden könne, noch bevorworten,; daß nämlich die Frage welche überall: als das wichtigste angesehen zu werden pflegt in dieser Sache, wie sich nämlich das Evangelium“ des Markus, gegen die andern beiden verhalte/"in- gar keinem Zusammenhäng mit derselben steht. Denn 'auf keinen Fall kann wol der Verfasser unsers Markus im ausschließenden Besik jener Sammlung des Dolπιοτὸ Petri gewesen seyn. Sey er der erste gewesen, der 'sie "zu einem. vollständigen Evangelium benutzt hat: so kann unser Matthäusevangelium sich aus diesem ergänzt- haben aber eben so gut auch kann es unabhängig voin demselben zu Elementen der ihm zum: Grunde liegenden “Sammlung “ gekommen“ seyn. Und eben: so kann ver Autovvunseres Lukas den Verfasser unseres Markus schom"“zu denen: zählen,' welche vor ihm versucht haben, eine Erzählung: der <ristlichen Begebenheiten aufzustellen, ohne “daß ex. vielleicht von dessen ' unmittelbarer. Quelle
 
-766 "0            Schleiermacher
+etwas erfahren; aber es ist auch. möglich, daß er in {εἰς
 
-dergleichen Gegenſtände noch immer ſo wenig übereinſtim-
-mend ausgebildet unter uns / daß leicht, wenngleich die-
-ſelbe Regel anerkennend, der“Eine zu dieſem der Andere
-zu' dem entgegengeſetzten Reſultat kommen wird. Nur die-
-ſes möchte ich , damit die Unterſuchung deſto unbefange-
-ner geführt werden könne, noch bevorworten,; daß nämlich
-die Frage welche überall: als das wichtigſte angeſehen
-zu werden pflegt in dieſer Sache, wie ſich nämlich das
-Evangelium“ des Markus, gegen die andern beiden ver-
-halte/"in- gar keinem Zuſammenhäng mit derſelben ſteht.
-Denn 'auf keinen Fall kann wol der Verfaſſer unſers Mar-
-kus im ausſchließenden Beſik jener Sammlung des Dol-
-πιοτὸ Petri geweſen ſeyn. Sey er der erſte geweſen,
-der 'ſie "zu einem. vollſtändigen Evangelium benutzt hat:
-ſo kann unſer Matthäusevangelium ſich aus dieſem er-
-gänzt- haben aber eben ſo gut auch kann es unabhängig
-voin demſelben zu Elementen der ihm zum: Grunde lie-
-genden “Sammlung “ gekommen“ ſeyn. Und eben: ſo kann
-ver Autovvunſeres Lukas den Verfaſſer unſeres Markus
-ſchom"“zu denen: zählen ,' welche vor ihm verſucht haben,
-eine Erzählung: der <riſtlichen Begebenheiten aufzuſtellen,
-ohne “daß ex. vielleicht von deſſen ' unmittelbarer. Quelle
-
- etwas erfahren; aber es iſt auch. möglich, daß er in {εἰς
-
-ner Forſchung nach den. urſprünglichen Quellen. auf die
-aus! Petri -Reden gemachte, Sammlung geſtoßen iſt ,. ohige
-unſer"Markusevangelium; zu kennen. Unſer Markusevan-
-gelium“- kann aber auch fpäter geſchrieben ſeyn, «als δίς
-beiden andernz der Verfaſſer: kann. mit dieſen bekannt ge-
-weſen'ſeyn und ſich aus ihnen ergänzt haben, ohne viel-
-leicht zu beachten," wie ſich dieſe, zu ſeiner Quelle ver-
-halten, und: doch kann, ohnerachtet er dieſe Quelle immer
-zum Grund legte, der [Schein entſtanden ſeyn, als ob er
-nur bald : dem einen bald-dem andern von jenen beiden
-gefolgt ſey. Und ſo ergibt ſich denn, daß, auch wenn
-man von der Vorausſeßung ausgeht, unſerm Matthäus-
-
+ner Forschung nach den. ursprünglichen Quellen. auf die aus! Petri -Reden gemachte, Sammlung gestoßen ist,. ohige unser"Markusevangelium; zu kennen. Unser Markusevangelium“- kann aber auch fpäter geschrieben seyn, «als δίς beiden andernz der Verfasser: kann. mit diesen bekannt gewesen'seyn und sich aus ihnen ergänzt haben, ohne vielleicht zu beachten," wie sich diese, zu seiner Quelle verhalten, und: doch kann, ohnerachtet er diese Quelle immer zum Grund legte, der [Schein entstanden seyn, als ob er nur bald: dem einen bald-dem andern von jenen beiden gefolgt sey. Und so ergibt sich denn, daß, auch wenn man von der Vorausseßung ausgeht, unserm Matthäus-
 <!--- page 767 -->
-Papias Zeugniſſe von unſern beid. erſt, Evangelien. 767
-
-evangelium liege die Redenſammlung des, Apoſtel Mat-
-thäus , unſerm Markusevangelium die Geſchichtsſamm-
-lung des Dolmetſchers Markus zu Grunde, und beiden
-ſey ihr Name aus dieſem Verhältniß entſtanden, dennoch
-zwiſchen unſern drei Evangelien in ihrem dermaligen Zu-
-ſtande alle verſchiedenen Verhältniſſe möglich ſind, welche
-man ohne jene Vorausſezung entde>t haben will. Da
-nun aber die Ausſage des. Papias uns mit zwei ur-
-ſprünglichen Schriften bekannt macht: ſo wird dieſes of-
-fenbar die erſte Unterſuchung , wie ſich die gegenwärti-
-gen gleichnamigen Schriften zu jenen verhalten. Gelingt
-es nun, mit einiger Gewißheit in unſern beiden Evange-
-lien, was ihren eigenthümlichen Quellen angehört, her-
-auszuſondern: dann tritt die vergleichende Betrachtung
-ein, und gewinnt vorzüglich die Tendenz auszumitteln,
-ob und in wiefern unſer Matthäus ſich aus der Quelle
-unſeres Markus und umgekehrt, oder beide ſich aus der
-von unſerem Lukas vorzüglich repräſentirten evangeliſti-
-ſchen. Ueberlieferung ins8gemein ergänzt haben. Dann
-endlich muß die Gegeneinanderhaltung dieſer mit dem Jo-
-hannes ergeben , weshalb jenen faſt alles fehlt, was die-
-ſer uns mittheilt. Auf jeden Fall aber zeigt uns die
-Nachricht des Papias , wenn wir die Voxausſetzung an-
-nehmen, auf welche ſie ſo natürlich führt, erſt recht deut?
-lich; wie trefflich unſer evangeliſtiſcher Schatz organiſirt
-iſt. „Denn auf der einen Seite giebt uns die Schrift des
-Johannes das wichtigſte aus den zuſammenhängenden
-Erinnerungen eines ſolchen, der in dem engſten perſön-
-lichen Verhältniß zu Chriſto ſtand , auf der andern die
-des Lukas die Reſultate einer prüfenden Forſchung nach
-dem zuverläſſigſten von dem, was über Chriſtum in dem
-Geſammtgedächtniß, daß ich ſo ſage, dex apoſtoliſchen
-Kirche niedergelegt war; und in der Mitte zwiſchen -die-
-ſen beiden ſtehen dann die beiden Evangelien, deren Kern
-aus geſammelten einzelnen apoſtoliſchen Erinnerungen θὲς
-
-ῳ
-
+evangelium liege die Redensammlung des, Apostel Matthäus, unserm Markusevangelium die Geschichtssammlung des Dolmetschers Markus zu Grunde, und beiden sey ihr Name aus diesem Verhältniß entstanden, dennoch zwischen unsern drei Evangelien in ihrem dermaligen Zustande alle verschiedenen Verhältnisse möglich sind, welche man ohne jene Voraussezung entde>t haben will. Da nun aber die Aussage des. Papias uns mit zwei ursprünglichen Schriften bekannt macht: so wird dieses offenbar die erste Untersuchung, wie sich die gegenwärtigen gleichnamigen Schriften zu jenen verhalten. Gelingt es nun, mit einiger Gewißheit in unsern beiden Evangelien, was ihren eigenthümlichen Quellen angehört, herauszusondern: dann tritt die vergleichende Betrachtung ein, und gewinnt vorzüglich die Tendenz auszumitteln, ob und in wiefern unser Matthäus sich aus der Quelle unseres Markus und umgekehrt, oder beide sich aus der von unserem Lukas vorzüglich repräsentirten evangelistischen. Ueberlieferung insgemein ergänzt haben. Dann endlich muß die Gegeneinanderhaltung dieser mit dem Johannes ergeben, weshalb jenen fast alles fehlt, was dieser uns mittheilt. Auf jeden Fall aber zeigt uns die Nachricht des Papias, wenn wir die Voxaussetzung annehmen, auf welche sie so natürlich führt, erst recht deut? lich; wie trefflich unser evangelistischer Schatz organisirt ist. „Denn auf der einen Seite giebt uns die Schrift des Johannes das wichtigste aus den zusammenhängenden Erinnerungen eines solchen, der in dem engsten persönlichen Verhältniß zu Christo stand, auf der andern die des Lukas die Resultate einer prüfenden Forschung nach dem zuverlässigsten von dem, was über Christum in dem Gesammtgedächtniß, daß ich so sage, der apostolischen Kirche niedergelegt war; und in der Mitte zwischen -diesen beiden stehen dann die beiden Evangelien, deren Kern aus gesammelten einzelnen apostolischen Erinnerungen θὲς
 <!--- page 768 -->
-768                             Uſteri
-
-ſteht, die aber erſt durch Ergänzung aus dem Geſammt-
-gebiet ver Ueberlieferung zu einem Ganzen werden konn-
-ten.
-
-2.
-
-Beitrag zur Erklärung der Verſuchungöge-
-ſchichte.
-Von
-
-Leonhard Uſteri,
-Prof, zu Bern,
-
-I< habe in einem frühern Hefte dieſer Zeitſchrift
-die Verſuchungsgeſchichte als eine Parabel zu deuten un?
-ternommen. Die Deutung war keineswegs neuz eigen-
-thümlich hingegen war die Beweisführung, und vollſtändig,
-inwiefern ſo ziemlich alles von mir angebracht worden iſt,
-was ſich dafür ſagen läßt. Deſſen ungeachtet verkenne
-ich die Schwierigkeiten, welche dieſer Erklärung im Wege
-ſtehen, keineswegs z es ſind in dieſer Zeitſchrift ſelbſt von
-einem Theologen, der meiner Erklärung ſeine Aufmerk-
-ſamkeit ſchenken wollte, Zweifel dagegen erhoben worden
-und vielleicht laſſen ſich noch andere nicht weniger bedeu-
-tende Einwendungen dagegen«-machen. Die Hauptſchwie-
-rigkeit bei derſelben bleibt immer die, daß man es ſich
-nicht leicht vorſtellen kann, wie eine von Chriſto den Jün-
-gern vorgetragene Parabel ſo durchaus geſchichtlich ver-
-ſtanden und als geſchichtliches Factum mit Uebereinſtim-
-mung in eine gewiſſe Lebensepoche Chriſti verlegt wer-
-den konnte. Dieſe Schwierigkeit iſt ſchon an und für ſich
-groß , wird aber um ſo bedeutender, wenn man bedenkt,
-
-'-.
+steht, die aber erst durch Ergänzung aus dem Gesammtgebiet der Ueberlieferung zu einem Ganzen werden konnten.
