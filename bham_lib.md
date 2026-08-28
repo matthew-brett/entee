@@ -8,10 +8,12 @@ Collection ; BS2550.T2 E
 
 First floor.
 
-The synoptic problem : a way through the maze / Mark Goodacre
-Goodacre, Mark S.
-London ; New York : Sheffield Academic Press; 2001
-BS2555.2 G
+The formation of Q : trajectories in ancient wisdom collections / John S. Kloppenborg ; with a new preface
+Kloppenborg, John S., 1951-
+Harrisburg, Pa. : Trinity Press International; 2000; 1st Trinity Press International ed.
+Main Library
+Available , Collection ; BS2555.2 K
+
 
 A critical and exegetical commentary on the Gospel according to Saint Matthew / by W.D. Davies and Dale C. Allison, Jr
 Davies, W. D. (William David), 1911-2001, author.
