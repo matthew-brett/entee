@@ -87,3 +87,7 @@ jesus](https://brill.com/display/book/edcoll/9789004210219/B9789004210219-s046.x
 > In practice, the majority of New Testament scholars suppose that Jesus
 generally taught in Aramaic, but they do not learn it properly, and make little
 use of it in interpreting his teaching.
+
+## Timelines
+
+<https://grok.com/share/bGVnYWN5_017dca41-83fc-43b1-beec-ca121b30cf68>
