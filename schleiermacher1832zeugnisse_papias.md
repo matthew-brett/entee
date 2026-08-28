@@ -1,58 +1,30 @@
+---
+# YAML metadata
+title: "Ueber die Zeugnisse des Papias von unsern beiden ersten Evangelien"
+author: "Dr. Fr. Schleiermacher"
+linkcolor: blue
+urlcolor: blue
+mainfont: Gentium Plus
+header-includes:
+- \usepackage{fontspec}
+- \usepackage{polyglossia}
+- \setdefaultlanguage{english}
+- \setotherlanguage{greek}
+---
 <!--- page 735 -->
-1.
-
-Ueber die Zeugnisse des Papias von unsern beiden ersten Evangelien. Von
-Dr. Fr. Schleiermacher.
-
 Es hat mir immer leid gethan, so oft ich fand, daß diese Zeugnisse mit einer gewissen Geringschätzung behandelt wurden. Denn gesetzt auch, die Lobpreisung des Mannes, die wir jetzt in einer Stelle des Eusebius[^735a] lesen , sey eingeschoben, wie ich nicht in Abrede stellen will, und dieser Geschichtschreiber hätte nur das spätere nachtheilige Urtheil über ihn aus Ansicht seiner Schrift gefällt[^735b]: so mag er immer von beschränktem Geiste gewesen seyn, seine Zeugnisse scheinen mir dadurch nichts zu verlieren, da hiebei auf sein Urtheil wenig ankommt. Und wie große Lust er gehabt, mündliche Erkundigungen einzuziehen, so wie, daß er in der Lage gewesen solche Männer zu befragen, welche die Apostel des Herrn selbst gehört hatten, das erzählt er uns selbst auf so naive und
-
-[^735a]: H. E. III, cap. 36: ἀνὴρ τὰ πάντα ὅτι μάλιστα λογιώτατος καὶ τῆς γραφῆς εἰδήμων. Cf. Vales. ad h. l.
-
-[^735b]: Ebend. Kap. 39: σφόδρα γὰρ σμικρὸς ὢν τὸν νοῦν, ὡς ἂν ἐκ τῶν αὐτοῦ λόγων τεκμηράμενον εἰπεῖν, φαίνεται.
-
 <!--- page 736 -->
 unbefangene Weise[^736a], daß wir eben so wenig Verdacht gegen diese Aussage schöpfen können, als Eusebius selbst. Aber freilich so unverwerflich mir diese Zeugnisse erscheinen: so wenig sehe ich das darin, was man gewöhnlich daraus zu folgern pflegt, wenn man den Papias doch immer als eine Autorität dafür anführt, daß unser Matthäusevangelium ursprünglich hebräisch geschrieben worden sey. Freilich sagt er, daß Matthäus hebräisch geschrieben: aber ob er auch sagt, daß dieses hebräisch geschriebene von andern sey übersetzt worden, und ob er auch unser Matthäusevangelium meint? Dies möchte wol das eine sehr in Zweifel zu ziehen seyn, das andere auf das bestimmteste zu verneinen. Ja es ist kaum zu begreifen, wie man auf den Einfall habe kommen können, die Ausdrücke des Papias, den uns Eusebius hier offenbar wörtlich aufführt, auf unser Evangelium wörtlich zu beziehen[^736b]. Der Irrthum ist freilich sehr alt; ja ich möchte behaupten, daß auch Eusebius zu dieser Annahme[^736c] keinen andern Grund gehabt. Aber woher? Doch gewiß nicht, weil τὰ λόγια συνεγράψατο soviel heißen könnte, als, er hat die Erzählungen von den Begebenheiten Christi zusammengestellt, oder er hat sein Leben beschrieben! Unseres Papias eigenes und einziges Werk hieß bekanntlich λογίων κυριακῶν ἐξηγήσεις[^736d] und
-
-[^736a]: Ebend. Kap. 39.
-
-[^736b]: Ebend. Kap. 39: Περὶ δὲ τοῦ Ματθαίου ταῦτ᾽ εἴρηται. Ματθαῖος μὲν οὖν ἑβραΐδι διαλέκτῳ τὰ λόγια συνεγράψατο.
-
-[^736c]: Ebend. Kap. 24.
-
-[^736d]: Theophylakt zwar schreibt (zu Apg. 1, 18) Κυριακῶν λόγων; allein weit eher kann dieses aus λογίων, wie die Handschriften des Eusebius einstimmig zu haben scheinen, entstanden seyn als umgekehrt. Morinus zu Dionys. de cael. hier. II citirt Παπίας βιβλίῳ πρώτῳ τῶν κυριακῶν ἐξηγήσεων; allein dies ist offenbar dasselbe Buch und nur eine abgekürzte Formel.
-
 <!--- page 737 -->
-Hieronymus[^737a] übersetzt es gewiß sehr richtig, sermonum domini explanatio. Würde er also wol τὰ λόγια συνεγράψατο anders haben übersetzen können, als sermones domini conscripsit? So hätte denn freilich auch er, da er glaubte, das noch zu seiner Zeit hebräisch existirende Matthäusevangelium sey die Urschrift, annehmen müssen, Matthäus habe außer dem Evangelium, also wahrscheinlich früher, eine Sammlung von Aussprüchen Christi geschrieben. Das thut er nun freilich nicht. Da er aber die Bücher des Papias und also auch diese Stelle gekannt hat
-
-[^737a]: Catal. script. Edit. Froben, T. I, p. 177.
-
+Hieronymus[^737a] übersetzt es gewiß sehr richtig , sermonum domini explanatio. Würde er also wol τὰ λόγια συνεγράψατο anders haben übersetzen können, als sermones domini conscripsit? So hätte denn freilich auch er, da er glaubte, das noch zu seiner Zeit hebräisch existirende Matthäusevangelium sey die Urschrift, annehmen müssen , Matthäus habe außer dem Evangelium, also wahrscheinlich früher, eine Sammlung von Aussprüchen Christi geschrieben. Das thut er nun freilich nicht. Da er aber die Bücher des Papias und also auch diese Stelle gekannt hat[^737b] : so haben er sowol als Eusebius, und hinter ihnen alle, die ein hebräisches Original unseres Matthäus annahmen , folgendermaßen geschlossen. Weil wir ein Evangelium κατὰ Ματθαῖον haben , und nicht anderwärts her schon wissen, daß Matthäus noch etwas anderes geschrieben: so kann auch Papias nichts anderes gemeint haben, als unser Evangelium. Als ob das so felsenfest stände, daß κατὰ Ματθαῖον nichts anderes heißen könne, als vom Matthäus verfaßt! und als ob nicht, vom Papias erfahren, daß Matthäus etwas anderes geschrieben, eben so gut wäre, als es anderwärts her schon wissen! Gewiß, auf jedem andern Gebiet würde ein solcher Schluß schon lange nicht mehr durchgelassen worden seyn! Und diejenigen, die ein hebräisches Original unseres Matthäusevangelium nicht annehmen? sie haben wie es scheint, nicht der Mühe werth gehalten, nachzusehen , ob nicht Papias vielleicht etwas anderes sage, sondern sie haben den σμικρὸς τὸν νοῦν übersehen , als
 <!--- page 738 -->
 ob er deshalb immer nichts sagen müsse! Aber hier kommt es gar nicht auf sein Urtheil an, sondern es ist eine einfache Thatsache; er hat das Buch gekannt, denn er hat gewußt, was Andere damit weiter gethan, er hat die Nachricht über den Urheber aus den besten Händen, und seine Nachricht verdient also, daß wir ihr volles Recht widerfahren lassen. Dann aber müssen wir =- vorläufig unbekümmert um unser Evangelium, welches hier noch ganz außer dem Spiel bleibt, von welchem wir aber so alte Nachrichten gar nicht haben — ihm nachsagen, Matthäus hat eine Sammlung von Aussprüchen Christi geschrieben, das mögen nun einzelne. Sprüche gewesen seyn, oder längere Reden, oder beides, wie es wol am wahrscheinlichsten ist. Denn etwas anderes kann einmal der Ausdruck des Papias nicht bedeuten. Das Wort λόγιον ist überall, wo es vorkommt, aus seiner gewöhnlichen Bedeutung Götterspruch, worauf das Wort immer mehr beschränkt worden ist, zu erklären. So die Lxx. von den einzelnen Geboten, die Gott gab, von allen göttlichen Aussprüchen, mochten sie durch was immer für Theophanien oder durch prophetischen Mund bekannt gemacht werden; nur einige Male wird natürlich auch etwas, woraus man einen Gottesspruch hervorlocken zu können glaubt, λόγιον genannt. Mit demselben Recht können auch diejenigen, welche die Bibel dazu brauchen, sich Sprüche als Entscheidung aufzuschlagen, sie ihr λόγιον nennen; aber wie würde man doch in diesem Sinne von den Verfassern sagen können τὰ λόγια συνεγράψαντο! Im N. Test. kommt das Wort zweimal vor vom Gesetz Mosis[^738a], eben weil jedes einzelne Gebot desselben ein Gottesspruch war. Von Christlichem heißt es einmal[^738b]
-
-[^738a]: Apg. 7, 38 u. Röm. 3, 2.
-
-[^738b]: 1 Petr. 4, 11: εἴ τις λαλεῖ, ὡς λόγια θεοῦ.
-
 <!--- page 739 -->
 ganz allgemein gehalten, was der Christ redet, das sey wie Gottessprüche. Bestimmter von der uns in Christo gewordenen Offenbarung Gottes, wenn gesagt wird[^739a], den Hebräern thäte immer noch noth, daß man sie die Elemente lehre vom Anfang der Gottessprüche; denn von den ersten Grundwahrheiten des Christenthums wird hernach[^739b] die ganze Redensart erklärt. In diesem Sinne nun könnte man freilich von einem, der ein Compendium der geoffenbarten Lehren geschrieben hätte, um so mehr sagen τὰ λόγια συνεγράψατο, je mehr er der ursprünglichen Form getreu geblieben wäre. So werden auch jene ersten Lehren, durch deren Vortrag Buße und Glaube erst hervorgelockt werden sollen, μαιευτικὰ λόγια[^739c] genannt, und natürlich konnte man, als der Kanon schon ganz fest stand, und diese Bücher angesehen wurden als alle Gottessprüche in sich schließend, die Sammlung der heiligen Schriften selbst τὰ λόγια nennen[^739d]. Aber nichts von alle diesem führt darauf, daß die Abfassung eines Evangelienbuches so könne bezeichnet werden. Eine einzige Stelle ist mir aufgestoßen, wo es so scheinen könnte, wo nämlich Photius[^739e] von Ephräm sagt, αἱ δὲ γραφαί εἰσιν αὐτῷ ἥ τε παλαιὰ διαθήκη καὶ τὰ κυριακὰ λόγια, καὶ τὰ ἀποστολικὰ κηρύγματα. Allein offenbar heißen auch hier λόγια eben so wenig die Evangelien, als κηρύγματὰ die Episteln, sondern Ephräm sollte dem Perser, an den sein Brief gerichtet ist, den Beweis der Trinität füh-
-
-[^739a]: Hebr. 5, 12.
-
-[^739b]: Kap. 6, 1.
-
-[^739c]: Dion. Areop. de eccl. hier. cap. VI, 1.
-
-[^739d]: Früher findet sich wol dieser Gebrauch nicht; denn niemand wird doch die Ἔκθεσις πίστεως κ. τ. λ. dem Justinus Martyr zuschreiben, wo allerdings τὸ θεῖον λόγιον collectiv für die heil. Schrift zu stehen scheint.
-
-[^739e]: Cod. 228, p. 248 Bekker.
-
 <!--- page 740 -->
 ren aus der Schrift. Nun konnte dieser aus den Episteln nur geführt werden, insofern in denselben die allgemeine Lehre der Apostel, ihr κήρυγμα, enthalten warz alle andern Verhandlungen, die in diesem Sendschreiben vorkommen, konnten nichts dazu beitragen. So konnten auch die Erzählungen in den Evangelien nicht dazu gebraucht werden, sondern vornehmlich nur die Aussprüche Christi. Mithin sind die κυριακὰ λόγια hier dasselbe wie bei Papias; und dieser ganze Gang führt uns nur wieder auf das vorige als auf den einzig möglichen Sinn zurück, Matthäus hat die Aussprüche Christi zusammengeschrieben. Denn daß Papias hier nicht auch κυριακά sagt, sondern λόγια schlechthin, kann wol niemanden irren. Späterhin konnte man auch Lehren, Anweisungen, ' anderweitige Aussprüche der Apostel, sofern der heilige Geist durch sie redete, λόγια nennen; aber Matthäus konnte solche noch nicht zusammenschreiben, sondern neutestamentische λόγια, und andere waren es doch wol nicht, die er sammelte, konnten nur Aussprüche Christi seyn. Setzen wir nun dieses nach unserem Schriftsteller fest, und fragen uns selbst, ob es wol wahrscheinlich ist, daß derselbe Matthäus späterhin nach dieser Sammlung von Reden noch unser Evangelium geschrieben habe: so. kann ich nur ganz verneinend antworten. Denn gewiß mußte er in einer solchen das ganze Leben Christi umfassenden Schrift, in welcher er sich wohl zu merken nirgend auf jene Sammlung bezieht, auch die vorigen Reden wieder mit. aufnehmen, gesetzt auch, er that noch andere hinzu, da er ja doch zuerst diejenigen wird aufgezeichnet haben, die ihm als die bedeutendsten erschienen. Wie unglaublich aber, daß dem Papias diese zweite Schrift sollte unbekannt geblieben seyn! Wie noch unglaublicher, daß er dann nicht mit wenigen Worten in eben dieser Stelle noch sollte bemerkt haben: Später aber hat er auch noch das geschichtliche hinzugefügt nebst ein
 <!--- page 741 -->
 nigen anderen Reden! Und nicht minder unglaublich gewiß, daß Eusebius uns diesen Zusatz sollte mißgönnt haben, des Buches erwähnend, was nicht neutestamentisch geworden, das erste neutestamentische hingegen übergehend, da er doch die ganze Stelle offenbar nur mittheilt, um — wie das seine Weise ist — zu zeigen, was für neutestamentische Bücher dem Papias schon bekannt gewesen. Nein, Eusebius hat in seinem Papias nichts von zwei Schriften des Matthäus gefunden; mithin ist auch wol nur diese eine vorhanden gewesen, und die war nicht unser Evangelium. Soviel ergiebt sich leicht und gewiß genug; aber wie nun jene Schrift des Matthäus so ganz" und gar verschollen ist, und auf welche Weise unser Evangelium[^741a] sich nun grade den Namen des Matthäus hat aneignen können, das sind die schwierigen fast unlösbaren Fragen, welche sich uns mit jener Gewißheit zugleich aufdrängen, eben so unabweisbar leider als sie schwierig sind. Ueber die erste sagt uns freilich unser Autor noch etwas, das aber wenig geeignet scheint, uns unserm Ziele näher zu führen. Er sagt uns nämlich: Wie Matthäus die Reden Christi schriftlich zusammengestellt, so habe hernach Jeder sie, so gut er vermochte ja was? übersetzt, sagt man allgemein! Die Worte[^741a] können das freilich bedeuten; aber von je mehreren übersetzt, wahrscheinlich doch von allen in dieselbe Sprache, griechisch, um desto weniger kann es sich ja verloren haben. Und doch findet sich von alten diesen Uebersetzungen weder bei den nächst spätern Kirchenschriftstellern die mindeste Spur, noch ist es dem Eusebius, dem Hieronymus so gut geworden, etwas davon zu Gesicht zu bekommen! Und muß denn ἡρμήνευσε nothwendig übersetzen bedeuten? Das Wort hat einen sehr weitläufigen Umfang, und heißt gewiß nur übersetzen, wo von zwei
-
-[^741a]: ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος. Euseb. l. c.
-
 <!--- page 742 -->
 Sprachen schon die Rede war, oder wo der ganze Zusammenhang es nothwendig so mit sich bringt. Aber
 
@@ -79,20 +51,10 @@ Andere haben sie, so gut jeder konnte, erklärt, erläutert, angewendet? Großer
 ser Autor nennt seine Erläuterungen auch ἑρμηνείας[^742a], und wie nüßlich könnte es uns seyn, wenn noch mehr von seinem Werk vorhanden wäre, um zu wissen, wie viel oder wenig er unter diesem Ausdruc>k befaßt, damit wir mit unsern Erklärungsversuchen doch gewiß innerhalb seines Sprachgebrauches blieben! Indeß einiges ist da, woraus wir sehen können, daß er das Wort in einem sehr weiten Sinne nimmt. Andreas von Cäsarea[^742b]
 
 .-..... emm
-
-[^742a]: Bei Euseb. III. Kap. 39: οὐκ ὀκνήσω δέ σοι καὶ ὅσα ποτὲ παρὰ τῶν πρεσβυτέρων καλῶς ἔμαθον καὶ καλῶς ἐμνημόνευσα, συγκατατάξαι ταῖς ἑρμηνείαις.
-
-[^742b]: Comment. in Apocalyps. cap. 34: Καὶ Παπίας δὲ οὕτως ἐπὶ λέξεως· ἐνίοις δὲ αὐτῶν, δηλαδὴ τῶν πάλαι θείων ἀγγέλων, καὶ τῆς περὶ τὴν γῆν διακοσμήσεως ἔδωκεν ἄρχειν, καὶ καλῶς ἄρχειν παρηγγύησε. Was das folgende καὶ ἑξῆς φησίν· εἰς οὐδὲν συνέβη τελευτῆσαι τὴν τάξιν αὐτῶν eigentlich heißen soll, wage ich nicht genau zu bestimmen.
-
 <!--- page 743 -->
 führt aus ihm an, daß einigen Engeln auch anvertraut gewesen sey über die Anordnung und Verwaltung der Erde zu herrschen. Auf welche von den uns bekannten Aeußerungen Christi über die Engel man dies auch beziehen möge, keine derselben wird hiedurch irgend näher erläutert; ja es läßt sich kaum denken, daß eine solche von Christo sollte in Umlauf gewesen seyn. Man kann also nur sagen, daß Papias die Gelegenheit, die ihm eine Aeußerung Christi darbot, benutzt habe, um diese Notiz anzubringen. Irenäus[^743a] führt eben so an die Beschreibung eines gigantischen Weinstocks im Reiche Gottes. Diese gehört nun wol deutlich genug zu Aussprüs- <en Christi wie wir sie lesen Matth. 26, 29. Mark. 14, 25. Luk. 22, 18. Diese so sehr gleichförmigen Abfassungen lassen kaum vermuthen, daß noch andere im Umlauf gewesen: aber wenn auch, die Worte des Erlösers werden doch durch diese Beschreibung gewiß nicht in helleres Licht gesetzt. Am ausführlichsten aber haben wir eine von unsern neutestamentischen ganz abweichende Erzählung von dem Ende des Judas[^743b],: Diese, da Papias
 
 soll, wage ich nicht genau zu bestimmen,
-
-[^743a]: V, 33. Diese Nachricht aus dem Reiche Gottes, die Christus gegeben haben soll, klingt freilich höchst fabelhaft, und wir müssen es dem Eusebius wol glauben, daß Papias dergleichen einfach und buchstäblich genommen hat. Aber verwerfen wir deshalb alle Nachrichten des Irenäus, weil er dieses ganz ernsthaft und eben so nacherzählt?
-
-[^743b]: Sie kommt dreimal vor, einmal bei Oecumenius zu Act. 1, 18. T. I. p. 11. Ed. Froben, und zweimal bei Theophylakt, zuerst kürzer zu Matth. 27, 5. Ed. Venet. T. I. p. 154, hier jedoch ohne den Papias zu nennen, und dann sehr ausführlich zu Act. 1, 18. T. III. p. 16. Die Vergleichung derselben würde hier zu weit führen. Nur so viel ist mir gewiß, daß der Ref. bei Oecum. die Angabe, Judas sey von einem Wagen zu Tode gequetscht worden, nur geschlossen hat, daß aber der Widerspruch gegen die Erzählung unseres Matth., wie Theophyl. ihn in der ersten Stelle ausspricht, daß nämlich Judas an dem Erhängen nicht gestorben, sondern damals ins Leben zurückgekehrt sey, auch nicht dem Papias angehört. Nach der zweiten Stelle Theophylakts, und nach Oecumen. muß man glauben, diese Erzählung habe bei Papias mit den Worten angefangen: Μέγα δὲ ἀσεβείας ὑπόδειγμα, und dann folgt von selbst, daß er die unsrige vom Erhenken gar nicht gekannt habe. Sollte ihm demohnerachtet unser Matthäusevangelium bekannt gewesen seyn? Das würde ich dann lieber verneinen. Aber freilich möglich bleibt es, daß jener bestimmte Widerspruch auch bei Papias vorangegangen, und nur nicht wörtlich in die Berichte mit aufgenommen ist.
-
 <!--- page 744 -->
 nur Reden des Herrn commentirt hat, nicht aber evangelische Erzählungen, kann er nur vorgetragen haben zu solchen Aeußerungen wie Matth. 26, 24. und Luk. 22, 21. 22. Aber aufgehellt wird auch dieser Ausspruch nicht weiter, Judas mag so gestorben seyn oder so. Rechnet also Papias auch dergleichen Beschreibungen und Erzählungen, die mit einem Ausspruch Christi in irgend einer Verbindung stehen, mit zur ἑρμηνεία desselben: was für ganz verschiedenartige, gleichviel ob hebräisch oder grie- <hisc<h verfaßte, Benutzungen und Bearbeitungen der Sammlung des Matthäus können dann nicht unter jener Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος zusammengefaßt seyn? Benutzungen einzelner Theile, wenn sie homiletisch auseinandergelegt und auf gegebene Verhältnisse angewendet wurden; Bearbeitungen, theils rein erklärende, wenn jemand die Schwierigkeiten, die sich beim Verständniß darbieten, möglichst zu lösen suchte, theils so gemischte und durch mancherlei Abschweifungen bunte wie die Arbeit des Papias auch gewesen seyn würde, wenn er die Sammlung des Matthäus zum Grunde gelegt hätte. Aber waren nicht auch nach seinem Sprachgebrauch solche, wenn einer zu den Reden und Aeußerungen Christi die örtlichen und zeitlichen Verhältnisse hin-
 
@@ -115,9 +77,6 @@ spätere Arbeit sich anschließt. ER., Lassen wir vorläufig alles frühere, „
 an, wo wir erst λόγια suchen können, 0 Christus öffentlich auftritt. Hier tritt uns nun als erster Abschnitt der Sammlung entgegen Kap. 5-7. Ich nenne die Bergpredigt eine Gnomologie, ohne bestreiten zu wol- "ten, daß nicht größere Stücke zusammengehören, aber sehr “gewiß, daß sie nicht so als Eines von Christo ist gesprochen worden. Der Schein ihrer Einheit kommt auf die Rechnung dessen, der den historischen Rahmen um das erste Werk anfertigte; dieser Schein entsteht dadurch, daß dieser Christum, nach einer solchen allgemeinen Darstellung, die wir Kap. 4, 23=-25 lesen, auf einen Berg, den wir nur im ganzen galiläischen Lande zu suchen haben,' hinauf, und; wo dieser wahrscheinlich erste Abschnitt der Sammlung zu Ende ging, von dem Berge wieder herabsteigen läßt, um nach Kapernaum zu gehen, Freilich wird dieser Schein noch verstärkt durch die Formel 7, 28. Καὶ ἐγένετο, ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους τούτους. Allein diese wird keinen, der einmal den rechten Gesichtspunkt gefaßt hat, irren: wir finden ähnliche, wo Christus eben so wenig das so umrahmte hinter einander gesprochen hat; Ein zweiter Abschnitt der Sammlung ist Kap. 10. Vorschriften für die Apostel, Auch für diese folgt mithin aus der Formel Kap, 11, 1. Καὶ ἐγέ-
 <!--- page 747 -->
 vero ὅτε ἐτέλεσεν ὁ Ἰησοῦς διατάσσων κ. τ. λ. nicht, daß dieses hinter einander als Eine Rede gesprochen worden. Hoffentlich wird die Formel schon hier beim zweiten Male jedem geläufig als Schluß für einen Abschnitt der Redensammlung und Uebergang zu anderem. Die Einleitung mußte hier natürlich das: Namensverzeichniß der Apostel geben und ihre beglaubigenden Vorrechte angeben; aber das unmittelbar vorhergehende Wort[^747a] steht in einer so genauen Verbindung mit dieser Ausrüstung der Apostel, daß ich nicht zweifle, dieses habe auch bei dem Apostel an der Spitze der-folgenden Vorschriften gestanden, und daher sehe ich schon 9, 35. 36, als die gewöhnliche Einleitung unsers Evangelisten zu diesem Abschnitt an. Ein dritter Abschnitt aus dem Werk. des Matthäus ist die Sammlung von Gleichnissen Kap. 13, 1=-52. Daß diese nicht können so hinter einander gesprochen seyn, liegt nicht nur in der Natur der Sache, sondern es läßt sich auch aus der Erzählung selbst auf das deutlichste nachweisen. Aber sie standen mit großem Recht ihrer Gleichartigkeit wegen in den λογίοις. neben einander, und, darum sind sie auch eben so eingerahmt; vorne die allgemeine Oertlichkeit, der See und der so häufige Zustand des Gedränges, und zum Schluß V, 53. das gewöhnliche Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τὰς παραβολὰς ταύτας und die allgemeine Oertlichkeit μετῆρεν ἐκεῖθεν; män kann aber hier wie ich schon anderwärts bemerklich gemacht habe; nicht einmal wissen wo das ἐκεῖ ist. Wenn ich nun springe bis zum 18. Kap.: so will ich damit keinesweges behaupten, daß in dem zwischenliegenden nichts aus der apostolischen Sammlung sey, sondern nur keine so zusammenhängende Masse. ' Aber Kap. 13. sind wieder sehr“verwandte Sprüche, die unter sich keinesweges genau zusammenhängen, aber sie drehen
-
-[^747a]: 9, 37: ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι κ. τ. λ.
-
 <!--- page 748 -->
 sich alle um die Vorstellung von Abstufungen und Werthdifferenzen im Himmelreich; und ich denke sie haben als solche auch in der Sammlung einen abgesonderten Abschnitt gebildet. Die Einleitung konnte hier, wo Christus es mit den Aposteln allein zu thun hat, nicht füglich viel anders seyn, als wir sie 18, 2. lesen und der Schluß und Uebergang 19, 1. ist der gewöhnliche καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ ᾿Ιησοῦς τοὺς λόγους τούτους, μετῆρε κι τ. A. Das 23. Kap. sondert sich zwar nicht auf eben so bestimmte Weise von dem vorhergehenden und folgenden: aber ich bin doch geneigt, es für eine besondere Abtheilung des Grundwerkes zu halten, wenn gleich das Ende des Kapitels sich mit seinem Inhalt gewissermaßen zum folgenden hinneigt. Denn die Einleitung ὦ desselben hängt doch gar nicht so mit dem vorhergehenden zusammen, daß es aus Einem Stü>k damit zu seyn »yscheinen könnte. Damals, als niemand ihn mehr zu fragen“ wagte, redete ex mit der Menge und seinen Jüngern, und das folgende hat wieder an dem ἐξελθὼν ἐπορεύετο, καὶ προρῆλϑον ol μαϑηταὶ αὐτοῦ ἐπιδεῖξαι αὐτῷ τὰς οἰκοδομὰς τοῦ ἱεροῦ seine besondere dem bisherigen ganz verwandte Einleitung. Dieser Abschnitt hat zwar dem Jnhalt nach eine gewisse Aehnlichkeit mit dem antipharisäischen in der Bergpredigt; allein die Stimmung und die Combinationsweise fühlt sich doch so verschieden heraus, daß Matthäus, wenn er auch auf die Zeiten gar keine Rücksicht genommen hätte bei der Anordnung seines Stoffs, dennoch Grund genug gehabt hat, diese Sprüche von jenen zu sondern. Diese Vergleichung also der Disciplin, daß ich so sage, seiner Schule mit der pharisäischen, und die Weissagung des Kampfes, der sich: aus dieser Differenz entwickeln werde, bildete mit Recht einen eigenen kleinen Abschnitt. Wiewol- es daher abweichend erscheint, daß zwischen diesem Abschnitt aus der Sammlung und. dem folgenden nichts anderes
 <!--- page 749 -->
@@ -136,63 +95,32 @@ erlieferung, wie einige Heilungen, die Speisung, die Verklärung, der Einzug, di
 Uebrigens will ich keinesweges behaupten, daß unser Evangelium die ganze Sammlung des Apostels in sich aufgenommen habe. Vielmehr ist mir dieses eher unwahrscheinlich. Denn es wäre zu wunderbar, wenn alle einzelnen Theile sich gleich gut auf solche Weise, wie hier geschehen ist, hätten behandeln lassen, zu wunderbar, wenn
 <!--- page 753 -->
 nicht auch die Vorliebe für einige Theile des Ganzen andern sollte geschadet haben. Daher können wol andere ähnliche Bearbeiter anderes aufgenommen haben[^753a], und manches, was wir in dem unsrigen finden, ausgelassen. Denn es scheint deren mehrere gegeben zu haben, welche die apostolische Sammlung in demselben Sinne behandelten wie unser Evangelium, so daß man den Namen εὐαγγέλιον κατὰ Ματθαῖον gewissermaßen als einen Familiennamen ansehen muß. Nachrichten haben wir von zweien. dergleichen, nämlich dem εὐαγγέλιον καϑ' “Ἑβραίους und dem Evangelium, dessen sich die Ebioniten bedienen. Ja ich möchte sagen wenigstens von zweien; denn unter den Erwähnungen, die uns übrig geblieben, latitiren wahrschein lich noch mehrere von einander verschiedene Recensionen, ohnerachtet der einen Stelle des Hieronymus, wo er auch diese beiden als eines ansieht[^753b]. - Denn da er sonst nirgends des besonderen Evangeliums der Ebioniten erwähnt: so scheinen sie hieher nur der Verwandtschaft wegen aus Versehen gekommen zu seyn, wogegen die Unterscheidung, die sich bei Epiphanius findet, zu bestimmt ist, um sie zu übersehen. Denn dieser nennt das Evangelium, dessen sich die Nazaräer bedienen, ein vollständigstes Matthäusevangelium, das der Ebioniten aber ein verfälschtes und beschnittenes[^753c]; und einen andern Maß-
-
-[^753a]: Nur so viel mag wol mit ziemlicher Gewißheit behauptet werden können, daß von den Reden, welche Johannes uns aufbewahrt hat, in der Sammlung des Matthäus nichts enthalten gewesen ist, was auch damit zusammenstimmt, daß er von einem überwiegend palästinensischen Standpunkt ausging.
-
-[^753b]: Comment. in Matth. cap. XII, 13: In evangelio, quo utuntur Nazareni et Hebionitae, quod nuper in graecum de hebraeo sermone transtulimus, et quod vocatur a plerisque Matthaei authenticum.
-
-[^753c]: Haeres. 29, 9 u. 30, 13.
-
 <!--- page 754 -->
 754 πῆρ "Schleiermacher
 
 stab als den kanonischen Matthäus kann er hier nicht angelegt haben. Wenn sich also beide zu diesem entgegengesetzt verhalten: so können sie nicht dasselbe gewesen seyn. Nun will ich freilich nicht behaupten, der Ausdruck πληρέστατον sey im Vergleich mit dem kanonischen Matthäus gemeint, als ob der Nazarenische Matthäus vollständiger gewesen wäre: als der unsrigen; sondern nur im Voraus als Gegensatz gegen das Ebionitische gestellt, oder bezüglich auf die vorher abgehandelten Cerinthianer, welche ebenfalls einen unvollständigen Matthäus hatten z aber auch so bliebe doch immer der Unterschied zwischen dem Nazarenischen und dem Ebionitischen, wenn jenes" auch, nur in hebräischer Sprache, genau unser Matthäusevangelium war.“ Das verstümmelte läßt sich auch keinesweges auf die Genealogie ausschließlich beziehen; denn Epiphanius ist über die Nazaräer ungewiß, ob sie die Genealogien abgeschnitten haben, und nennt ihr Evangelium doch das vollständige. Auch sagt er von den Cerinthianern bestimmt, daß sie die Gengalogien gebraucht, und wir hätten dann doch zwei auf verschiedene Weise verstümmelte Matthäusevangelien.- Nun'aber kann ich auch dieses keinesweges so verstehen, als ob sie unsern gegenwärtigen Matthäus vor sich gehabt und daraus beliebig dies und jenes weggelassen hätten. Dagegen sprechen zu bestimmt die angeführten Verfälschungen, die zum Theil von sol- <er Art sind, daß man sie nur als ursprünglich verschiedene Erzählungen derselben Begebenheit ansehen kann[^754a] z andere sind ss, daß wir ihnen in unserm Matthäus gar keinen Platz anweisen könnten[^754b] b), Ja ich möchte behaup-.
-
-[^754a]: Z. B. die Erwählung der Apostel aus dem Ebionitischen Evangelium bei Epiphanius; ingleichen ebendas. die Erzählung von der Taufe Christi, die zugleich bedeutend abweicht von dem, was nach Hieronym. (zu Jes. 11, 2) in dem Evang. der Nazaräer stand.
-
-[^754b]: Wie das Verbot der Opfer bei Epiph. 30, 16.
-
 <!--- page 755 -->
 ΄
 
 ten, aus dem, was uns Epiphanius aus diesem Evangelium mittheilt, ließe sich mit ziemlicher Sicherheit schließen, wenn es irgend nur Einheit des Charakters und des Styls gehabt hat, muß das erzählende fast durchaus abweichend von unserm Matthäus gewesen seyn, Da nun auch der Anfang, wie man deutlich sieht, gefehlt hat: wie ist man dazu gekommen, es einen Matthäus zu nennen, wenn es nicht wenigstens eine eben so durchgehende Aehnlichkeit gab“ zwischen beiden als die Verschiedenheit offenbar durch das ganze durchgegangen seyn muß? Und diese Aehnlichkeit wird dann wol in nichts anderem zu suchen seyn, als in der beiden gemeinschaftlichen Grundlage, der apostolischen Redesammlung, durch welche eine Gleichheit der Anordnung auch in den dazwischen geschobenen Erzählungen schon mit bedingt war. Hiegegen wird wol niemand aus dem Grunde Einspruch thun, daß in diesen Evangelien nicht nur Erzählungen sondern auch einzelne Aussprüche Christi "gestanden haben, die unserm Matthäus fremd sind. Denn einestheils können ja diese auch grade in Erzählungen vorgekommen seyn, anderntheils ist es wol höchst natürlich, daß auch von der apostolischen Sammlung selbst Abschriften entstanden, welche durch Glossen aus der gemeinsamen Quelle der evangelistischen Ueberlieferung bald mehr bald weniger sachgemäß und authentisch vermehrt wurden. Allein ich bin nicht nur genöthiget, das Nazaräische und das. Ebionitische Evangelium als nicht nur von unserm Matthäus, sondern auch unter sich verschieden anzusehen, sondern auch, wenn ich alle hieher gehörigen Stellen des Hieronymus zusammennehme, kann ich mich nicht überzeugen, daß er überall von derselben Abfassung rede, Auch abgesehen von der schwerlich unverdorbenen Stelle[^755a], wo er selbst jenes hebräische Buch, von welchem ex wußte,
 
 FENEN Renee
-
-[^755a]: Catalog. Script. s. v. Matthaeus.
-
 <!--- page 756 -->
 756 | Schleiermacher
 
 daß es in Cäsarea war, und welches er in Beröa zum Abschreiben erhielt, als die Urschrift unseres kanonischen Matthäus darstellt, da er dies sonst[^756a] nur als eine weitverbreitete Meinung ausspricht, läßt sich schwerlich begreifen, wie er diese Vorstellung, die ihm aus jenem Eremplar, welches er abgeschrieben, und = denn dieses wird doch dasselbe gewesen seyn =- aus welchem er seine griechische und lateinische Uebersezung des Evangeliums καϑ' Ἑβραίους angefertigt hat, als völlig unzulässig und grundlos erscheinen mußte, nicht offener und stärker widerlegt hat, sondern sie mehrere Male unter verschiedenen Formeln wiederholt, eben indem er Stellen anführt, welche von unserm Matthäus ganz fremdartig abstechen.“ Ich weiß dies nur entweder dadurch zu erklären, daß er wirklich insgeheim jenes Evangelium für das ursprüngliche Werk des Apostels gehalten hat, und den kanonischen Matthäus für eine Umarbeitung mehr als eigentli- <e Uebersezung, weshalb er denn auch jenes sogar ins Griechische übersetzt hatte, um es auch unter den grie- <is< redenden Christen neben dem kanonischen in Umlauf zu bringen. Oder er müßte doch, außer jenem, wel- <hes er übersetzt, noh andere Eremplare unter demselben Titel gekannt haben, welche unserm Matthäus bedeutend näher standen, es habe aber nicht auf seinem Wege gelegen, das Verhältniß zwischen beiden genau zu ermitteln, und darum habe er auf der einen Seite die Meinung ebenfalls nicht ohne eine gewisse stillschweigende Beistimmung vorgetragen, welche das Evangelium der Ebräer mit unserm Matthäus identificirt, auf der andern Seite aber es sich zum besonderen Geschäfte gemacht, Stellen mitzutheilen, aus welchen jedem die große Verschiedenheit zwischen beiden recht mußte in die Augen springen. Beides erklärt einigermaßen, beides hat auch seine gro-
-
-[^756a]: Vergl. die oben angeführte Stelle Comment. in Matth. zu 12, 13.
-
 <!--- page 757 -->
 ßen Unwahrscheinlichkeiten; aber ich sehe kein drittes, und einer Erklärung bedürfen doch diese übel zusammenklingenden Angaben allemal. Nur so viel scheint mir festzustehen, daß mehrere Evangelienbücher ohnerachtet sehr bedeutender Verschiedenheiten doch so mit einander verwandt waren, daß sie insgesammt auf den Matthäus zurückgeführt wurden, daß einige[^757a] von diesen in aramäischer Sprache vorhanden waren und deshalb auch den gemeinsamen Namen καθ᾽ Ἑβραίους führten, daß der Apostel Matthäus keines von allen diesen verfaßt hat, sondern nur in aramäischer Sprache diejenige Sammlung von Reden und Aussprüchen Christi, welche Papias ihm zuschreibt, daß diese jener ganzen Familie von Evangelienbüchern zum Grunde gelegen hat, daß auch von unserm kanonischen Matthäusevangelium der eigentliche Verfasser unbekannt ist, und nicht bewiesen werden kann, es sey ebenfalls ursprünglich aramäisch abgefaßt worden, endlich daß Papias Schriften aus dieser Familie gekannt und sie unter der Formel ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος mit zusamzusammengefaßt hat.
 
 Eben so wenig aber, glaube ich, dürfen wir uns bedenken zu behaupten, daß die Schrift des Matthäus auf die übrigen kanonischen Evangelien keinen ähnlichen Einfluß ausgeübt hat. Denn von Johannes ist nicht nöthig etwas zu sagen; der Verfasser unseres Lukas aber, von dem wir nicht einmal wissen, ob er des Aramäischen kundig gewesen, hat die Redensammlung, wenn auch gekannt, doch augenscheinlich nicht gebraucht, auch nicht
-
-[^757a]: Denn der auch unvollständige Matthäus der Cerinthianer war wol schwerlich aramäisch. Irenäus freilich scheint T. III. 11, 7 von diesem zu sagen, sie hätten das Evangelium des Markus gebraucht; allein dies kann, wenn er wirklich diese Secte meint, nur ein Mißverständniß seyn, da Epiphanius ausdrücklich sagt, daß sie den Matthäus wegen der ἔνσαρκος γενεαλογία gebrauchten.
-
 <!--- page 758 -->
 brauchen können, da er viele Aussprüche Christi, welche Matthäus gleich in seinem ersten Abschnitt von ihrem geschichtlichen Zusammenhang abgerissen mit ähnlichen vereinigt gab, in seinen Materialien in ihrem wirklichen Zusammenhange fand. Sein Verhältniß zu unserm Matthäusevangelium aber, vornehmlich in den mehr erzählenden Theilen, ist eine hieher gar nicht gehörige Frage. Näher unserm Gegenstand verwandt wäre -es zu erforschen, ob die im Lukas vorkommenden Gleichnisse und auderweitigen Reden Christi, welche unser Matthäusevangelium nicht kennt, nur von dem Berfasser des leßteren übergangen worden, oder ob und warum sie auch in der Sammlung des Apostels gefehlt haben. Was endlich den Markus betrifft: y, führt das Zeugniß unseres Papias uns gänzlich von Matthäus ab auf eine andere Quelle hin. τς Dieses Zeugniß ist nun ausführlich genug, aber auch nicht minder schwierig, und theils wol deshalb, theils auch „weil man unser Markusevangelium fast immer nur in Bezug auf die beiden andern zu betrachten pflegt, weniger, als es mir zu verdienen scheint, berücksichtiget worden. Papias nämlich handelt von einer. Schrift eines Markus, deren Entstehung er ziemlich genau beschreibt, und von der er mit einem solchen Interesse spricht, wie er schwerlich würde gethan haben, wenn er sie nicht selbst gekannt hätte. Ob aber diese Schrift unser gegenwärties Markusevangelium ist, das ist mir wenigstens im ΝΑ Grade zweifelhaft; und muß die Frage verneint werden, so entsteht dann die zweite Frage, wie sich unser Evangelium zu jener Schrift verhält; eine Frage, mit deren Beantwortung wir schwerlich so weit kommen werden als beim Matthäus möglich war. Die Entstehung der Schrift beschreibt er folgendermaßen. Ein Markus -- ob das neue Testament dieses Namens nur Einen erwähnt oder mehrere und ob der unsrige dieser oder ei-
 <!--- page 759 -->
 ner von diesen ist, das kann vor der Hand ganz gleiche gültig seyn, aber Einer dieses Namens, sagt Papias, sey ( ver ἑρμηνευτής des Petrus gewesen; und hier trage ich | allerdings kein Bedenken das Wört durch Dolmetscher zu Ὁ übertragen. Denn es folgt hernach ausdrücklich, er habe den Petrus begleitet, also ist auch ἑρμηνευτής so zu verstehen wie es sich hiezu schi>t. Einen Erklärer oder Commentator brauchte Petrus nicht, wo er selbst war, und schwerlich läßt sich ein anderes Verhältniß denken, als daß er der Sprache wegen einen brauchte, der ihn verständlich machte, und auch wol keine andere Sprache als die griechische, deren deshalb Petrus nicht ganz unfundig gewesen zu seyn braucht, um doch eines zu bedürfen, der dasjenige dolmetschte, was er geläufig nur in seiner Muttersprache auszudrücken wußte, und der ihm einhalf, wenn ihm irgendwo 'ein Ausdruck abging. Nun habe Petrus, wie es das Bedürfniß seiner Belehrungen mit sich brachte, in denselben auch Reden, und Thaten Christi angeführt; und was hievon Markus mit seinem Gedächtniß aufgefaßt, das habe er genau niedergeschrieben, ἀκριβῶς ἔγραψε sagt Papias οὐ μέντοι τάξει.[^759a] ἃ). Der Sinn dieser letzten Worte muß vorzüglich festgestellt werden; aber ich glaube, wenn man alles zusammennimmt, können sie unmöglich etwas anderes heißen als nür vereinzelt ohne Zusammenhang[^759b]. Es könnte zwar an und für sich betrachtet auch heißen, nicht in der gehörigen Ordnung, und dann wäre der Sinn,.daß Markus die
-
-[^759a]: Daß das Punkt hinter ἔγραψε gelöscht werden muß, bedarf keiner Erwähnung.
-
-[^759b]: Das wesentliche in der militärischen Bedeutung von τάξις scheint überall das geschlossene Glied zu seyn. So kommt auch τάξει dem σποράδην entgegengesetzt vor (Polyb. 10, 30, 9); was also οὐ τάξει ist, das ist σποράδην, „vereinzelt, zerstreut, jedes für sich.“
-
 <!--- page 760 -->
 richtige Zeitordnung oft verfehlt oder eine sachliche Ordnung, die er eingeleitet, nicht festgehalten habe. Allein was Petrus oder vielmehr der πρεσβύτερος, aus dessen Munde jener referirt, zur Entschuldigung des Markus sagt, führt offenbar auf jenes, wie auch der ganze Zusammenhang der Rede. Petrus kann doch in seinen Lehrvorträgen, die er nach dem Bedürfniß einrichtete, und bei denen es- gar nicht auf eine geschichtliche Zusammenstellung der Reden des Herrn abgesehen war[^760a], aus dem Leben Christi immer nur einzelnes als Beispiel oder des Beweises halber anführen; und wenn nun Markus keine andere Quelle hatte, wie sollte er auch nur auf den Gedanken kommen, aus solchen Bruchstücken eine zusammenhängende Geschichte zu machen? Eben dieser gänzliche Mangel einer andern Quelle für seine Aufzeichnung wird hier auf das bestimmteste vorausgesetzt, und nur um jeden Gedanken an das „Gegentheil abzuweisen, sagt der Referent ausdrücklich, Markus habe Jesum selbst niemals gehört, sey ihm auch niemals nachgefolgt, sondern nur späterhin dem Petrus[^760b],
 
 Nicht minder deutlich zielt eben darauf das Folgende. Denn wenn gesagt wird, Markus habe seine Achtsamkeit ganz darauf verwendet, nichts was er gehört hatte zu
-
-[^760a]: ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ᾽ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν λόγων ποιούμενος.
-
-[^760b]: οὔτε γὰρ ἤκουσε τοῦ κυρίου, οὔτε παρηκολούθησεν αὐτῷ· ὕστερον δὲ, ὡς ἔφην, Πέτρῳ. — Uebrigens ist schwer zu glauben, daß ein Bekannter und Zeitgenosse der Apostel, und auf einen solchen sagt doch Papias hier aus, von dem Johannes Markus, dessen Mutter ein Haus in Jerusalem hatte, und mit den ersten Jüngern so befreundet war, daß diese sich bei ihr versammelten und Petrus nach seiner Befreiung die Brüder gleich dort aufsuchte, so bestimmt sollte behauptet haben, er habe den Herrn selbst nie gehört. Also dieser Johannes mit dem Beinamen Markus ist nicht der, von dem die Rede ist.
-
 <!--- page 761 -->
 übergehen und nichts darin zu fälschen[^761a] 3): so hat er auf jenes andere, das, was er einzeln und in die Belehrungen des Apostels verflochten gehört hatte, unter sich in Verbindung zu bringen, gar nicht Bedacht genommen. Offenbar liegt auch in dieser Erzählung des Papias, daß Petrus an dieser Schriftstellung des Markus gar keinen Theil weiter genommen 3 ganz gegen das, was die Spätern nach der gewöhnlichen Art, in die Quellen noch von ihrem Wasser zuzugießen, auch hieraus gemacht haben. Denn alles, was zu Gunsten des Markus gesagt wird, könnte ihn auch nicht im geringsten wegen des Mangels an τάξις entschuldigen, wenn Petrus mit Hand angelegt hätte. Darum muß man eher glauben, Markus habe nur hinter dem Rücken des Petrus, 5. ἡ vielleicht erst als er nicht mehr mit ihm in dieser Verbindung stand, das Gehörte niedergeschrieben.
 
@@ -201,13 +129,6 @@ Was war also diese Schrift des Markus, welche/ Papias uns beschreibt? Eben so we
 sondern auch eine Sammlung, eine Sammlung von eins
 
 zelnen Zügen aus dem Leben Christi, gesprochenes und θὲ: thanes[^761b], genau so wiedergegeben wie Petrus sie in seine Lehrvorträge eingestreut hatte, weder zu einem fortlaufenden Ganzen verbunden, noch "auch in bestimmten -Abschnitten sey es nach der Zeitfolge oder nach einer sachli- <hen Ordnung gestellt, sondern aufgeschrieben, wie sie einzeln in der Erinnerung hervortraten[^761c]. Und aufgezeich-
-
-[^761a]: ἑνὸς γὰρ ἐποιήσατο πρόνοιαν τοῦ μηδὲν ὧν ἤκουσε παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς.
-
-[^761b]: ἢ λεχθέντα ἢ πραχθέντα.
-
-[^761c]: ὥστε οὐδὲν ἥμαρτε Μάρκος οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν. Auch dieses ἔνια kann ja offenbar nicht so verstanden werden, als ob er anderes auch wol anders geschrieben als er sich erinnerte; sondern alles zwar schrieb er so, aber er schrieb überhaupt nur ἔνια.
-
 <!--- page 762 -->
 net hat er sie wahrscheinlich griechisch, theils weil des aramäischen als des seltneren wol ausdrücklich würde gedacht worden seyn, theils auch weil wir schon deshalb, weil Markus dem Apostel als Dolmetscher diente, voraussezen müssen, daß ihm das griechische das gewohntere war. So wäre denn diese Aussage des Papias freilich, wenigstens unmittelbar, keine Bewährung für unser Mareusevangelium; allein sie muß uns mehr werth-seyn, als wenn sie nur jenes wäre. Denn wir können nunmehro nachweisen, was wir sonst nur als eine in hohem Grade wahrscheinliche Vermuthung aufstellen dürften, daß nämlich solche Sammlungen wie diese beiden Sammlungen von Reden und Sprüchen und' Sammlungen von einzelnen Zügen und Thaten der zusammenhangenden Evangelienschreibung nac< Art unserer synoptischen natürlich vorangegangen sind, weil in diesen Zeiten überwiegender "> x» Verkündigungsthätigkeit die schriftliche Auffassung nur auf eine sehr beschränkte Weise des Bedürfnisses wegen Raum fand. Aber nicht nur dieses, sondern auch daß die apostolische Predigt selbst eine Hauptquelle war für die Überall die Verkündigung des Christenthums begleitende und. vornämlich da, wo nur erst ein unbestimmter Ruf von. Christo hingedrungen war, sie wesentlich unterstüzende evangelistische Erzählung und dann auch allmählig Geschichtschreibung. Wenn Markus, wie doch das wahrscheinlichste ist, no<h als Dolmetscher des Petrus schrieb: so konnte er auch nicht anders als die Zeit dazu sich gleichsam abstehlen, und es wäre das unwahrscheinlichste von der Welt, daß er aus den Materialien, die er von Petrus auffing, sollte eine solche Schrift wie unser Evangelium gemacht haben; vielmehr ist das natürlichste grade das, was uns Papias erzählt, daß er sich gern begnügte,
 
@@ -246,3 +167,76 @@ ner Forschung nach den. ursprünglichen Quellen. auf die aus! Petri -Reden gemac
 evangelium liege die Redensammlung des, Apostel Matthäus, unserm Markusevangelium die Geschichtssammlung des Dolmetschers Markus zu Grunde, und beiden sey ihr Name aus diesem Verhältniß entstanden, dennoch zwischen unsern drei Evangelien in ihrem dermaligen Zustande alle verschiedenen Verhältnisse möglich sind, welche man ohne jene Voraussezung entde>t haben will. Da nun aber die Aussage des. Papias uns mit zwei ursprünglichen Schriften bekannt macht: so wird dieses offenbar die erste Untersuchung, wie sich die gegenwärtigen gleichnamigen Schriften zu jenen verhalten. Gelingt es nun, mit einiger Gewißheit in unsern beiden Evangelien, was ihren eigenthümlichen Quellen angehört, herauszusondern: dann tritt die vergleichende Betrachtung ein, und gewinnt vorzüglich die Tendenz auszumitteln, ob und in wiefern unser Matthäus sich aus der Quelle unseres Markus und umgekehrt, oder beide sich aus der von unserem Lukas vorzüglich repräsentirten evangelistischen. Ueberlieferung insgemein ergänzt haben. Dann endlich muß die Gegeneinanderhaltung dieser mit dem Johannes ergeben, weshalb jenen fast alles fehlt, was dieser uns mittheilt. Auf jeden Fall aber zeigt uns die Nachricht des Papias, wenn wir die Voxaussetzung annehmen, auf welche sie so natürlich führt, erst recht deut? lich; wie trefflich unser evangelistischer Schatz organisirt ist. „Denn auf der einen Seite giebt uns die Schrift des Johannes das wichtigste aus den zusammenhängenden Erinnerungen eines solchen, der in dem engsten persönlichen Verhältniß zu Christo stand, auf der andern die des Lukas die Resultate einer prüfenden Forschung nach dem zuverlässigsten von dem, was über Christum in dem Gesammtgedächtniß, daß ich so sage, der apostolischen Kirche niedergelegt war; und in der Mitte zwischen -diesen beiden stehen dann die beiden Evangelien, deren Kern aus gesammelten einzelnen apostolischen Erinnerungen θὲς
 <!--- page 768 -->
 steht, die aber erst durch Ergänzung aus dem Gesammtgebiet der Ueberlieferung zu einem Ganzen werden konnten.
+
+[^735a]: H. E. III, cap. 36: ἀνὴρ τὰ πάντα ὅτι μάλιστα λογιώτατος καὶ τῆς γραφῆς εἰδήμων. Cf. Vales. ad h. l.
+
+[^735b]: Ebend. Kap. 39: σφόδρα γὰρ σμικρὸς ὢν τὸν νοῦν, ὡς ἂν ἐκ τῶν αὐτοῦ λόγων τεκμηράμενον εἰπεῖν, φαίνεται.
+
+[^736a]: Ebend. Kap. 38.
+
+[^736b]: Ebend. Kap. 39: Περὶ δὲ τοῦ Ματθαίου ταῦτ᾽ εἴρηται. Ματθαῖος μὲν οὖν ἑβραΐδι διαλέκτῳ τὰ λόγια συνεγράψατο.
+
+[^736c]: Ebend. Kap. 24.
+
+[^736d]: Theophylakt zwar schreibt (zu Apg. 1, 18) Κυριακῶν λόγων; allein weit eher kann dieses aus λογίων, wie die Handschriften des Eusebius einstimmig zu haben scheinen, entstanden seyn als umgekehrt. Morinus zu Dionys. de cael. hier. II citirt Παπίας βιβλίῳ πρώτῳ τῶν κυριακῶν ἐξηγήσεων; allein dies ist offenbar dasselbe Buch und nur eine abgekürzte Formel.
+
+[^737a]: Catal. script. Edit. Froben, T. I, p. 177.
+
+[^737b]: Epist. ad Lucinium T. I, p. 125: Porro Iosephi libros et Sanctorum Papiae et Polycarpi volumina falsus ad te rumor pertulit a me esse translata, quia nec otii mei nec virium est tantas res eadem in alteram linguam exprimere venustate.
+
+[^738a]: Apg. 7, 38 u. Röm. 3, 2.
+
+[^738b]: 1 Petr. 4, 11: εἴ τις λαλεῖ, ὡς λόγια θεοῦ.
+
+[^739a]: Hebr. 5, 12.
+
+[^739b]: Kap. 6, 1.
+
+[^739c]: Dion. Areop. de eccl. hier. cap. VI, 1.
+
+[^739d]: Früher findet sich wol dieser Gebrauch nicht; denn niemand wird doch die Ἔκθεσις πίστεως κ. τ. λ. dem Justinus Martyr zuschreiben, wo allerdings τὸ θεῖον λόγιον collectiv für die heil. Schrift zu stehen scheint.
+
+[^739e]: Cod. 228, p. 248 Bekker.
+
+[^741a]: ἡρμήνευσε δ᾽ αὐτὰ ὡς ἠδύνατο ἕκαστος. Euseb. l. c.
+
+[^742a]: Bei Euseb. III. Kap. 39: οὐκ ὀκνήσω δέ σοι καὶ ὅσα ποτὲ παρὰ τῶν πρεσβυτέρων καλῶς ἔμαθον καὶ καλῶς ἐμνημόνευσα, συγκατατάξαι ταῖς ἑρμηνείαις.
+
+[^742b]: Comment. in Apocalyps. cap. 34: Καὶ Παπίας δὲ οὕτως ἐπὶ λέξεως· ἐνίοις δὲ αὐτῶν, δηλαδὴ τῶν πάλαι θείων ἀγγέλων, καὶ τῆς περὶ τὴν γῆν διακοσμήσεως ἔδωκεν ἄρχειν, καὶ καλῶς ἄρχειν παρηγγύησε. Was das folgende καὶ ἑξῆς φησίν· εἰς οὐδὲν συνέβη τελευτῆσαι τὴν τάξιν αὐτῶν eigentlich heißen soll, wage ich nicht genau zu bestimmen.
+
+[^743a]: V, 33. Diese Nachricht aus dem Reiche Gottes, die Christus gegeben haben soll, klingt freilich höchst fabelhaft, und wir müssen es dem Eusebius wol glauben, daß Papias dergleichen einfach und buchstäblich genommen hat. Aber verwerfen wir deshalb alle Nachrichten des Irenäus, weil er dieses ganz ernsthaft und eben so nacherzählt?
+
+[^743b]: Sie kommt dreimal vor, einmal bei Oecumenius zu Act. 1, 18. T. I. p. 11. Ed. Froben, und zweimal bei Theophylakt, zuerst kürzer zu Matth. 27, 5. Ed. Venet. T. I. p. 154, hier jedoch ohne den Papias zu nennen, und dann sehr ausführlich zu Act. 1, 18. T. III. p. 16. Die Vergleichung derselben würde hier zu weit führen. Nur so viel ist mir gewiß, daß der Ref. bei Oecum. die Angabe, Judas sey von einem Wagen zu Tode gequetscht worden, nur geschlossen hat, daß aber der Widerspruch gegen die Erzählung unseres Matth., wie Theophyl. ihn in der ersten Stelle ausspricht, daß nämlich Judas an dem Erhängen nicht gestorben, sondern damals ins Leben zurückgekehrt sey, auch nicht dem Papias angehört. Nach der zweiten Stelle Theophylakts, und nach Oecumen. muß man glauben, diese Erzählung habe bei Papias mit den Worten angefangen: Μέγα δὲ ἀσεβείας ὑπόδειγμα, und dann folgt von selbst, daß er die unsrige vom Erhenken gar nicht gekannt habe. Sollte ihm demohnerachtet unser Matthäusevangelium bekannt gewesen seyn? Das würde ich dann lieber verneinen. Aber freilich möglich bleibt es, daß jener bestimmte Widerspruch auch bei Papias vorangegangen, und nur nicht wörtlich in die Berichte mit aufgenommen ist.
+
+[^747a]: 9, 37: ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι κ. τ. λ.
+
+[^753a]: Nur so viel mag wol mit ziemlicher Gewißheit behauptet werden können, daß von den Reden, welche Johannes uns aufbewahrt hat, in der Sammlung des Matthäus nichts enthalten gewesen ist, was auch damit zusammenstimmt, daß er von einem überwiegend palästinensischen Standpunkt ausging.
+
+[^753b]: Comment. in Matth. cap. XII, 13: In evangelio, quo utuntur Nazareni et Hebionitae, quod nuper in graecum de hebraeo sermone transtulimus, et quod vocatur a plerisque Matthaei authenticum.
+
+[^753c]: Haeres. 29, 9 u. 30, 13.
+
+[^754a]: Z. B. die Erwählung der Apostel aus dem Ebionitischen Evangelium bei Epiphanius; ingleichen ebendas. die Erzählung von der Taufe Christi, die zugleich bedeutend abweicht von dem, was nach Hieronym. (zu Jes. 11, 2) in dem Evang. der Nazaräer stand.
+
+[^754b]: Wie das Verbot der Opfer bei Epiph. 30, 16.
+
+[^755a]: Catalog. Script. s. v. Matthaeus.
+
+[^756a]: Vergl. die oben angeführte Stelle Comment. in Matth. zu 12, 13.
+
+[^757a]: Denn der auch unvollständige Matthäus der Cerinthianer war wol schwerlich aramäisch. Irenäus freilich scheint T. III. 11, 7 von diesem zu sagen, sie hätten das Evangelium des Markus gebraucht; allein dies kann, wenn er wirklich diese Secte meint, nur ein Mißverständniß seyn, da Epiphanius ausdrücklich sagt, daß sie den Matthäus wegen der ἔνσαρκος γενεαλογία gebrauchten.
+
+[^759a]: Daß das Punkt hinter ἔγραψε gelöscht werden muß, bedarf keiner Erwähnung.
+
+[^759b]: Das wesentliche in der militärischen Bedeutung von τάξις scheint überall das geschlossene Glied zu seyn. So kommt auch τάξει dem σποράδην entgegengesetzt vor (Polyb. 10, 30, 9); was also οὐ τάξει ist, das ist σποράδην, „vereinzelt, zerstreut, jedes für sich.“
+
+[^760a]: ὃς πρὸς τὰς χρείας ἐποιεῖτο τὰς διδασκαλίας, ἀλλ᾽ οὐχ ὥσπερ σύνταξιν τῶν κυριακῶν λόγων ποιούμενος.
+
+[^760b]: οὔτε γὰρ ἤκουσε τοῦ κυρίου, οὔτε παρηκολούθησεν αὐτῷ· ὕστερον δὲ, ὡς ἔφην, Πέτρῳ. — Uebrigens ist schwer zu glauben, daß ein Bekannter und Zeitgenosse der Apostel, und auf einen solchen sagt doch Papias hier aus, von dem Johannes Markus, dessen Mutter ein Haus in Jerusalem hatte, und mit den ersten Jüngern so befreundet war, daß diese sich bei ihr versammelten und Petrus nach seiner Befreiung die Brüder gleich dort aufsuchte, so bestimmt sollte behauptet haben, er habe den Herrn selbst nie gehört. Also dieser Johannes mit dem Beinamen Markus ist nicht der, von dem die Rede ist.
+
+[^761a]: ἑνὸς γὰρ ἐποιήσατο πρόνοιαν τοῦ μηδὲν ὧν ἤκουσε παραλιπεῖν ἢ ψεύσασθαί τι ἐν αὐτοῖς.
+
+[^761b]: ἢ λεχθέντα ἢ πραχθέντα.
+
+[^761c]: ὥστε οὐδὲν ἥμαρτε Μάρκος οὕτως ἔνια γράψας ὡς ἀπεμνημόνευσεν. Auch dieses ἔνια kann ja offenbar nicht so verstanden werden, als ob er anderes auch wol anders geschrieben als er sich erinnerte; sondern alles zwar schrieb er so, aber er schrieb überhaupt nur ἔνια.
+
