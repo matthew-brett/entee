@@ -91,3 +91,11 @@ use of it in interpreting his teaching.
 ## Timelines
 
 <https://grok.com/share/bGVnYWN5_017dca41-83fc-43b1-beec-ca121b30cf68>
+
+## Markan priorty and open materials
+
+<https://grok.com/share/bGVnYWN5_f8d61a15-82d8-4af2-8a0b-5e1716da9a55>
+
+## Papias, Q and modern scholarship
+
+<https://share.gemini.google/WvlfbkFQPKsh>
