@@ -15,7 +15,8 @@ header-includes:
 
 Source: John S. Kloppenborg, scans of pp. 60–66 (PDF pages 1–7 of
 `private/kloppenborg1996sayings_q_table.pdf`). Table begins on book p. 62
-/ PDF p. 3.
+/ PDF p. 3. Cell values for disputed readings were back-ported from the
+hi-res adjudication in `kloppenborg/kloppenborg_table_revised.md`.
 
 Shading and border markings in the printed key and table are omitted here;
 only the sigla themselves are recorded. Blank cells mean no printed
@@ -101,38 +102,38 @@ Abbreviations in parentheses are the column headers used in the comparative tabl
 | 3:17 | `Q²` | `SpR` | `Qᶜ` | `Q¹` | `Q` | `Q²` | `A` | `Q` |
 | [3:21-22] | `--` | `SpR` | `Qᶜ` | `Q²` | `--` | `--` | `A` | `Q?` |
 | 4:1-13 | `Q²` | `SpR` | `Q³` | `Q²` | `Qʳ` | `Q³` | `SpE` | `Q³` |
-| [4:16] | `--` | `?` | `--` | `--` | `?` | `--` | `A` | `--` |
-| <6:20a> | `--` | `H` | `?` | `?` | `?` | `Q¹` | `A` | `Q` |
+| [4:16] | `--` | `?` | `--` | `--` | `--` | `?` | `A` | `--` |
+| <6:20a> | `--` | `H` | `?` | `?` | `Q` | `Q¹` | `A` | `Q` |
 | 6:20b-21 | `Q¹` | `H` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
 | 6:22-23b | `Q²` | `H` | `Qᶜ` | `Q¹*` | `Qʳ` | `Q¹` | `A` | `Q¹` |
-| 6:23c | `Q²` | `H` | `Qᶜ` | `Q¹` | `Qʳ` | `Q²` | `A` | `Q¹` |
+| 6:23c | `Q²` | `H` | `Qᶜʳ` | `Q¹` | `Qʳ` | `Q²ʳ` | `A` | `Q¹` |
 | (6:24-26) | `--` | `?` | `--` | `Q¹?` | `--` | `Q²` | `QLk` | `QLk` |
 | 6:27-28,32-33,35c | `Q¹` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
-| (6:34-35b) | `--` | `--` | `Qᶜ?` | `Q¹` | `--` | `Q¹` | `A?` | `--` |
-| 6:29-30 | `Q¹` | `Hᵃ` | `Qᶜ` | `Q¹` | `--` | `Q¹` | `A` | `Q¹` |
+| (6:34-35b) | `--` | `--` | `Qᶜ?` | `--` | `--` | `Q¹` | `A?` | `--` |
+| 6:29-30 | `Q¹` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
 | (Q/Matt 5:41) | `--` | `H` | `--` | `--` | `--` | `Q¹` | `A` | `--` |
 | 6:31 | `Q¹` | `H` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
 | 6:36 | `Q¹` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
-| 6:37b, 38c | `Q¹` | `Hᵃ` | `Qᶜ?` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
+| 6:37b, 38c | `Q¹` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `A` | `Q¹` |
 | (6:37c-38b) | `--` | `Hᵃ` | `Qᶜ?` | `--` | `--` | `Q¹` | `QLk` | `--` |
-| 6:39b | `Q²` | `H` | `Qᶜ` | `Q?` | `Q` | `Q¹` | `SpE` | `?` |
+| 6:39b | `Q²` | `H` | `Qᶜ*` | `Q?` | `Q` | `Q¹` | `SpE` | `?` |
 | 6:40 | `Q²` | `H` | `Qᶜ` | `Q?` | `Q` | `Q¹` | `SpE` | `?` |
 | 6:41-42 | `Q¹` | `H` | `Qᶜ` | `Q?` | `Q` | `Q¹` | `A` | `Q¹` |
 | 6:43-45 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `SpE` | `Q¹` |
-| 6:46 | `Q²` | `H` | `Qᶜ?` | `Q²?` | `Qʳ` | `Q¹` | `A` | `Q¹` |
-| 6:47-49 | `Q²` | `H` | `Qᶜ?` | `Q¹?` | `Q*` | `Q¹` | `A` | `Q¹` |
-| 7:1a | `Q²` | `SpR` | `Qᶜʳ` | `Q²` | `Qʳ` | `Q²` | `A` | `Q` |
-| 7:1b-2, 6-10 | `Q²` | `SpR` | `Qᶜʳ` | `Q²` | `Qʳ` | `Q²` | `A` | `Q` |
+| 6:46 | `Q²` | `H` | `Qᶜ` | `Q²?` | `Qʳ` | `Q¹` | `A` | `Q¹` |
+| 6:47-49 | `Q²` | `H` | `Qᶜ` | `Q¹?` | `Q*` | `Q¹` | `A` | `Q¹` |
+| 7:1a | `Q²` | `SpR` | `Qᶜʳ` | `Q²` | `Q` | `Q²` | `A` | `Q` |
+| 7:1b-2, 6-10 | `Q²` | `SpR` | `Qᶜʳ` | `Q²` | `Q` | `Q²` | `A` | `Q` |
 | 7:18-19, (20) | `Q²` | `Hᵃ` | `Qⁱ` | `Q²` | `Qʳ` | `Q²` | `A` | `Q` |
 | 7:22 | `Q²` | `Hᵃ` | `Qⁱ` | `Q²` | `Q` | `Q²` | `A` | `Q` |
 | 7:23 | `Q²` | `Hᵃ` | `Qⁱ` | `Q²` | `Qʳ` | `Q²` | `A` | `Q` |
 | 7:24-26a | `Q²` | `Hᵃ` | `Qᶜ` | `Q²` | `Q*` | `Q²` | `A` | `Q` |
 | 7:26b | `Q²` | `Hᵃ` | `Qᶜ` | `Q²` | `Qʳ` | `Q²` | `A` | `Q` |
-| 7:27 | `Q²` | `SpR` | `Qᶜ` | `Q¹` | `Qʳ` | `Q²` | `SpE` | `Q` |
+| 7:27 | `Q²` | `SpR` | `Qᶜ` | `Q²` | `Qʳ` | `Q²` | `SpE` | `Q` |
 | 7:28a | `Q²` | `SpR` | `Qⁱ` | `Q¹` | `Q` | `Q²` | `A` | `Q` |
 | 7:28b | `Q²` | `SpR` | `Qⁱ` | `Q¹` | `Qʳ` | `Q²` | `A` | `Q` |
 | [7:29-30] | `--` | `--` | `--` | `Q²` | `Qʳ` | `--` | `QLk` | `?` |
-| 7:31-32 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Q*` | `Q²` | `C` | `Q` |
+| 7:31-32 | `Q²` | `H` | `Qᶜʳ` | `Q¹` | `Q*` | `Q²` | `C` | `Q` |
 | 7:33-35 | `Q²` | `H` | `Qᶜʳ` | `Q¹*` | `Qʳ` | `Q²` | `C` | `Q` |
 | 9:57-58 | `Q²` | `H` | `Qᶜ` | `Q²` | `Q*` | `Q¹` | `B` | `Q` |
 | 9:59-60 | `Q²` | `H` | `Qᶜ` | `Q²` | `Q` | `Q¹` | `B` | `Q` |
@@ -141,7 +142,7 @@ Abbreviations in parentheses are the column headers used in the comparative tabl
 | 10:3 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `B` | `Q¹` |
 | [Q/Matt 10:5-6] | `--` | `--` | `--` | `--` | `--` | `--` | `(B)` | `--` |
 | [Q/Matt 10:23] | `--` | `H` | `--` | `Q¹` | `--` | `--` | `(B)` | `--` |
-| 10:4-11 | `Q²` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q` | `Q¹` | `B` | `Q¹` |
+| 10:4-11 | `Q²` | `Hᵃ` | `Qᶜ*` | `Q¹` | `Q` | `Q¹` | `B` | `Q¹` |
 | 10:12 | `Q²` | `H` | `Qᶜʳ` | `Q²ʳ` | `Qʳ` | `Q²ʳ` | `C` | `Q¹` |
 | 10:13-15 | `Q²` | `H` | `Qᶜ` | `Q²` | `Q` | `Q²` | `C` | `Q` |
 | 10:16 | `Q²` | `Hᵃ` | `Qᶜ` | `Q¹` | `Q*` | `Q¹` | `B′` | `Q¹` |
@@ -185,15 +186,15 @@ Abbreviations in parentheses are the column headers used in the comparative tabl
 | 12:39 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Q*` | `Q²` | `SpE?` | `Q¹` |
 | 12:40 | `Q²` | `H` | `Qⁱ?` | `Q¹` | `Qʳ` | `Q²` | `SpE?` | `Q¹` |
 | 12:42b-46 | `Q²` | `H` | `Qⁱ?` | `Q¹` | `Q*` | `Q²` | `SpE?` | `Q¹` |
-| [12:47-48] | `--` | `SpR` |  |  | `--` | `--` | `QLk` | `--` |
+| [12:47-48] | `--` | `SpR` |  | `--` | `--` | `--` | `QLk` | `--` |
 | (12:49) | `Q²` | `SpR` | `Qᶜ` | `--` | `--` | `Q²` | `SpE?` | `--` |
 | [12:50] | `--` | `SpR` |  |  | `--` | `--` | `SpE?` | `--` |
 | 12:51-53 | `Q²` | `SpR` | `Qᶜ` | `Q?` | `Q` | `Q²` | `SpE?` | `Q` |
 | 12:54-56 | `--` | `H` | `Qᶜ` | `Q?` | `--` | `Q²` | `QLk` | `?` |
-| 12:57-59 | `Q²` | `H` | `Qᶜ` | `Q?` | `Q*` | `Q²` | `SpE?` | `?` |
+| 12:57-59 | `Q²` | `H` |  | `Q?` | `Q*` | `Q²` | `SpE?` | `?` |
 | 13:18-19 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Qʳ` | `Q¹` | `SpE?` | `Q` |
 | 13:20-21 | `Q²` | `H` | `Qᶜ` | `Q¹` | `Qʳ` | `Q¹` | `SpE?` | `Q` |
-| 13:23 | `--` | `H` |  |  | `Q` | `--` | `C` | `Q` |
+| 13:23 | `--` |  |  |  | `Q` | `--` | `C` | `Q` |
 | 13:24 | `Q²` | `H` |  | `Q¹` | `Q` | `Q¹` | `C` | `Q` |
 | 13:(25), 26-27 | `Q²` | `H` |  | `Q¹*` | `Q` | `Q²` | `C` | `Q` |
 | 13:28-29 | `Q²` | `H` |  | `Q²` | `Q` | `Q²` | `C` | `Q` |
@@ -220,13 +221,13 @@ Abbreviations in parentheses are the column headers used in the comparative tabl
 | 17:23-24 | `Q²` | `H` |  | `Q¹` | `Q` | `Q²` | `C` | `Q¹` |
 | 17:37b | `Q²` | `H` |  | `Q¹` | `Qʳ` | `Q²` | `C` | `Q¹` |
 | 17:26-27, 30 | `Q²` | `H` |  | `Q¹` | `Q` | `Q²` | `C` | `Q¹` |
-| (17:28-29) | `--` | `H` | `Qⁱ?` | `Q¹?` | `Q` | `Q²` | `QLk` | `Q?` |
+| (17:28-29) | `--` | `H` |  | `Q¹?` | `Q` | `Q²` | `QLk` | `Q?` |
 | 17:34-35 | `Q²` | `H` |  | `Q¹` | `Q` | `Q²` | `C` | `Q¹` |
 | 19:12-13, 15b-26 | `Q²` | `SpR` | `?` | `Q²` | `Q*` | `Q²` | `?` | `Q` |
 | 22:28-30 | `Q²` | `H` | `?` | `Q¹*` | `Q*` | `Q²` | `?` | `Q` |
 
 ## Transcription notes
 
-Automated OCR of the shaded/boxed table is unreliable for superscripts; this file was produced by combining Tesseract with careful visual reading of the scans. Cells were checked against each author’s allowed sigla (e.g. Schenk only uses Q / Qʳ / Q*). Printed `?` attached to a siglum (e.g. `Q¹?`, `SpE?`) is retained as in the source. Asterisks on sigla (Q*, Q¹*, Qᶜ*, C*) use a normal `*` after any Unicode superscript letters—Unicode has no matching superscript asterisk glyph in the same set as ¹ ᵃ ʳ ᶜ. Jacobson’s Qᶜ* is especially easy to miss or to confuse with Qᶜʳ; 3:7-9 is confirmed Qᶜ* from the scan.
+Automated OCR of the shaded/boxed table is unreliable for superscripts; this file was produced by combining Tesseract with careful visual reading of the scans, then corrected against the hi-res adjudication in `kloppenborg/kloppenborg_table_revised.md` (20 cells updated; see that file’s Adjudications section). Cells were checked against each author’s allowed sigla (e.g. Schenk only uses Q / Qʳ / Q*). Printed `?` attached to a siglum (e.g. `Q¹?`, `SpE?`) is retained as in the source. Asterisks on sigla (Q*, Q¹*, Qᶜ*, C*) use a normal `*` after any Unicode superscript letters—Unicode has no matching superscript asterisk glyph in the same set as ¹ ᵃ ʳ ᶜ. Jacobson’s Qᶜ* is especially easy to miss or to confuse with Qᶜʳ; 3:7-9 is confirmed Qᶜ* from the scan.
 
-Most uncertain readings are small superscripts in Jacobson’s column (esp. Qⁱ vs Qᶜ on pp. 64–65) and a few Polag H / Hᵃ / Hʳ distinctions. Spot-check against `private/kloppenborg1996sayings_q_table.pdf` before citing individual cells.
+Most uncertain readings are small superscripts in Jacobson’s column (esp. Qⁱ vs Qᶜ on pp. 64–65) and a few Polag H / Hᵃ / Hʳ distinctions. Spot-check against the hi-res page images in `kloppenborg/kloppenborg_table_{1-5}.png` before citing individual cells.
