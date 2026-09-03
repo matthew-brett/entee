@@ -41,10 +41,11 @@ git annex initremote gdrive-not-shared-hash \
 
 git annex wanted gdrive-private-hash   "include=private/*"
 git annex wanted gdrive-public-hash    "include=public/*"
-git annex wanted gdrive-not-shared-hash    "include=not-shared/*"
 
 git annex copy --to gdrive-private-hash private/
 git annex copy --to gdrive-public-hash  public/
-git annex copy --to gdrive-not-shared-hash  not-shared/
 
-git annex config --set annex.largefiles '(include=public/* or include=private/* or include=not-shared/*)'
+git annex config --set annex.largefiles '(include=public/* or include=private/*)'
+
+  git annex config --set annex.synconlyannex true
+  git annex config --set annex.autocommit false
