@@ -13,6 +13,14 @@ git annex initremote gdrive-public-hash \
   encryption=none \
   rclone_layout=nodir
 
+# not-shared hash store
+git annex initremote gdrive-not-shared-hash \
+  type=external externaltype=rclone \
+  target=gdrive-not-shared \
+  prefix=ga-not-shared-hash \
+  encryption=none \
+  rclone_layout=nodir
+
 # Tree views - do not currently work.
 # Waiting on full rclone exporttree support.
 # git annex initremote gdrive-private-tree \
@@ -22,7 +30,7 @@ git annex initremote gdrive-public-hash \
 #   encryption=none \
 #   rclone_layout=nodir \
 #   exporttree=yes
-# 
+#
 # git annex initremote gdrive-public-tree \
 #   type=rclone \
 #   target=gdrive-public \
@@ -33,9 +41,10 @@ git annex initremote gdrive-public-hash \
 
 git annex wanted gdrive-private-hash   "include=private/*"
 git annex wanted gdrive-public-hash    "include=public/*"
-
-git annex add private/ public/
-git commit -m "Add new PDFs"
+git annex wanted gdrive-not-shared-hash    "include=not-shared/*"
 
 git annex copy --to gdrive-private-hash private/
 git annex copy --to gdrive-public-hash  public/
+git annex copy --to gdrive-not-shared-hash  not-shared/
+
+git annex config --set annex.largefiles '(include=public/* or include=private/* or include=not-shared/*)'
