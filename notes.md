@@ -99,3 +99,7 @@ use of it in interpreting his teaching.
 ## Papias, Q and modern scholarship
 
 <https://share.gemini.google/WvlfbkFQPKsh>
+
+## Assessing reliability of redaction criticism
+
+<https://grok.com/share/bGVnYWN5_06a4b497-8c3d-4c94-b533-418563c5ac18>
