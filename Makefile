@@ -1,9 +1,7 @@
-PANDOC_CMD=pandoc --citeproc --pdf-engine=xelatex
+PANDOC_CMD=pandoc --from markdown --citeproc --pdf-engine=lualatex
 
 %.pdf: %.md bible.bib
 	$(PANDOC_CMD) $< -o $@
-	$(PANDOC_CMD) $< -o $@
 
 %.pdf: %.pdc bible.bib
-	$(PANDOC_CMD) --from markdown $< -o $@
-	$(PANDOC_CMD) --from markdown $< -o $@
+	$(PANDOC_CMD) $< -o $@
