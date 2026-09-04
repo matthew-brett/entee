@@ -103,3 +103,7 @@ use of it in interpreting his teaching.
 ## Assessing reliability of redaction criticism
 
 <https://grok.com/share/bGVnYWN5_06a4b497-8c3d-4c94-b533-418563c5ac18>
+
+## Papias and Matthew
+
+<https://grok.com/share/bGVnYWN5_d09deb18-3bc3-4ae2-978a-0a0eb66e44af>
