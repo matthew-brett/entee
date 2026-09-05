@@ -94,3 +94,15 @@ New Testament essays : studies in memory of Thomas Walter Manson 1893-1958 / edi
 Manchester : Manchester University Press; 1959
 Research Reserve [RR]
 Available , Available on request ; BS2395 H
+
+The four Gospels and the One Gospel of Jesus Christ / Martin Hengel
+Hengel, Martin.
+London : SCM Press; 2000
+OLRC (Selly Oak)
+Available , Available on request ; 226.1 HEN
+
+Doing things with words in the first Christian century / F. Gerald Downing
+Downing, Francis Gerald.
+London ; New York : T & T Clark; 2004
+Research Reserve [RR]
+Available , Available on request ; BS2555.2 D
