@@ -107,3 +107,15 @@ use of it in interpreting his teaching.
 ## Papias and Matthew
 
 <https://grok.com/share/bGVnYWN5_d09deb18-3bc3-4ae2-978a-0a0eb66e44af>
+
+## Fern seeds, elephants, and academic incentives
+
+<https://grok.com/share/bGVnYWN5_3bc9d89a-bf9d-4421-b2e0-20b232806f06>
+
+## Walsh's model
+
+<https://grok.com/c/5a7bb65b-a212-4f62-b345-53666dc361ee?rid=b0d57cb0-f3c3-496d-a6a3-575227e54860>
+
+## As a classicist ...
+
+<https://share.gemini.google/fEjJpSxQ8pKi>
