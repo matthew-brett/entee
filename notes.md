@@ -118,4 +118,12 @@ use of it in interpreting his teaching.
 
 ## As a classicist ...
 
-<https://share.gemini.google/fEjJpSxQ8pKi>
+<https://share.gemini.google/tlHMJM49aBK8>
+
+## Variant translations of Matthew, and the Hebrew gospel
+
+<https://grok.com/share/bGVnYWN5_5591859f-d6e0-41d2-a957-b60128dde5b5>
+
+## Translation Greek assessment in Matthew
+
+<https://grok.com/share/bGVnYWN5_cad9895e-5c36-4f62-830b-42259ce2e707>

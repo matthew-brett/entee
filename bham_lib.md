@@ -1,5 +1,11 @@
 # To look up
 
+The Jesus tradition in Q / Dale C. Allison
+Allison, Dale C.
+Harrisburg, Pa. : Trinity Press International; 1997
+Main Library
+Available , Collection ; BS2560 A
+
 Saint Ephrem's Commentary on Tatian's " Diatessaron" : an English translation of Chester Beatty Syriac MS 709 / with introduction and notes by Carmel McCarthy
 
 Ephraem, Syrus, Saint, 303-373
@@ -106,3 +112,9 @@ Downing, Francis Gerald.
 London ; New York : T & T Clark; 2004
 Research Reserve [RR]
 Available , Available on request ; BS2555.2 D
+
+Recovering Jewish-Christian sects and gospels / by Petri Luomanen
+Luomanen, Petri, 1961-
+Leiden : Brill; 2012
+Research Reserve [RR]
+Available , Available on request ; BR195.J8 L
