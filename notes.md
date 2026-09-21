@@ -127,3 +127,7 @@ use of it in interpreting his teaching.
 ## Translation Greek assessment in Matthew
 
 <https://grok.com/share/bGVnYWN5_cad9895e-5c36-4f62-830b-42259ce2e707>
+
+## Thomas and the various Gospels of the Hebrews
+
+<https://grok.com/share/bGVnYWN5_6ed9070b-d19d-4b3c-923f-28898934c0f0>
