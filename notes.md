@@ -130,4 +130,4 @@ use of it in interpreting his teaching.
 
 ## Thomas and the various Gospels of the Hebrews
 
-<https://grok.com/share/bGVnYWN5_6ed9070b-d19d-4b3c-923f-28898934c0f0>
+<https://grok.com/share/bGVnYWN5_98b556cf-7d55-49d8-bd13-9d17eacfc05a>
