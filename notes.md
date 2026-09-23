@@ -92,6 +92,10 @@ use of it in interpreting his teaching.
 
 <https://grok.com/share/bGVnYWN5_017dca41-83fc-43b1-beec-ca121b30cf68>
 
+[Terminus ad quem](https://en.wiktionary.org/wiki/terminus_ad_quem)
+
+[Aeon timeline](https://www.aeontimeline.com)
+
 ## Markan priorty and open materials
 
 <https://grok.com/share/bGVnYWN5_f8d61a15-82d8-4af2-8a0b-5e1716da9a55>
@@ -103,6 +107,8 @@ use of it in interpreting his teaching.
 ## Assessing reliability of redaction criticism
 
 <https://grok.com/share/bGVnYWN5_06a4b497-8c3d-4c94-b533-418563c5ac18>
+
+<https://grok.com/share/bGVnYWN5_04da4617-22dc-45b2-8a5e-af6f0d4e2018>
 
 ## Papias and Matthew
 
@@ -131,3 +137,19 @@ use of it in interpreting his teaching.
 ## Thomas and the various Gospels of the Hebrews
 
 <https://grok.com/share/bGVnYWN5_98b556cf-7d55-49d8-bd13-9d17eacfc05a>
+
+## Papias and Matthew Gospel origins
+
+<https://grok.com/share/bGVnYWN5_850e9f9a-7f2c-4447-bca7-e511f46bc707>
+
+## Anachronism and authorship
+
+<https://grok.com/share/bGVnYWN5_56437f76-e7c6-4351-885e-3b844b3282c6>
+
+## Fitzmyer and Aramaisms
+
+<https://grok.com/share/bGVnYWN5_850e9f9a-7f2c-4447-bca7-e511f46bc707>
+
+## Independence of Thomas
+
+<https://grok.com/share/bGVnYWN5_7d314890-792c-4d20-957b-f11e952978eb>

@@ -118,3 +118,9 @@ Luomanen, Petri, 1961-
 Leiden : Brill; 2012
 Research Reserve [RR]
 Available , Available on request ; BR195.J8 L
+
+Studies in the Gospel of Mark / Martin Hengel ; by Martin Hengel
+Hengel, Martin.
+London : SCM; 1985
+OLRC (Selly Oak)
+Available , Available on request ; 226.3 HEN
