@@ -136,7 +136,7 @@ use of it in interpreting his teaching.
 
 ## Thomas and the various Gospels of the Hebrews
 
-<https://grok.com/share/bGVnYWN5_98b556cf-7d55-49d8-bd13-9d17eacfc05a>
+<https://grok.com/share/bGVnYWN5_b12ef4dd-7e80-40dd-a84c-961cf294e641>
 
 ## Papias and Matthew Gospel origins
 
@@ -152,4 +152,4 @@ use of it in interpreting his teaching.
 
 ## Independence of Thomas
 
-<https://grok.com/share/bGVnYWN5_0fbdfe97-15ec-4541-a69f-c24b0e264e1e>
+<https://grok.com/share/bGVnYWN5_7d314890-792c-4d20-957b-f11e952978eb>
