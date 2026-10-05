@@ -124,3 +124,9 @@ Hengel, Martin.
 London : SCM; 1985
 OLRC (Selly Oak)
 Available , Available on request ; 226.3 HEN
+
+Tatian's Diatessaron : its creation, dissemination, significance, and history in scholarship / by William L. Petersen
+Petersen, William Lawrence, 1950-
+Leiden ; New York : E.J. Brill; 1994
+Research Reserve [RR]
+Available , Available on request ; BS2550.T2A5
